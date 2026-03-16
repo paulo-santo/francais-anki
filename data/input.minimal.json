@@ -1,0 +1,15 @@
+{
+  "deck_name": "Francais - Prononciation et comprehension orale",
+  "subdeck_theme": "Nombres",
+  "level_tag": "A1",
+  "theme_tag": "nombres",
+  "notes": [
+    {
+      "frase_fr": "Je voudrais un cafe, s'il vous plait.",
+      "traducao_pt": "Eu gostaria de um cafe, por favor.",
+      "ipa": "/ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ/",
+      "observacao": "Forma educada de pedir algo.",
+      "audio_text": "Je voudrais un cafe, s'il vous plait."
+    }
+  ]
+}

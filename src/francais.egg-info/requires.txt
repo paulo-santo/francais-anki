@@ -1,0 +1,4 @@
+edge-tts>=7.2.0
+genanki>=0.13.1
+pydub>=0.25.1
+requests>=2.32.0

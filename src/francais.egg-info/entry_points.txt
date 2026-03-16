@@ -1,0 +1,2 @@
+[console_scripts]
+francais = francais.cli:main

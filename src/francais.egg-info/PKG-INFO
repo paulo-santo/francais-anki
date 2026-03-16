@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: francais
+Version: 0.1.0
+Summary: Gera decks do Anki para frases em frances com audio, IPA e integracao opcional com AnkiConnect.
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: edge-tts>=7.2.0
+Requires-Dist: genanki>=0.13.1
+Requires-Dist: pydub>=0.25.1
+Requires-Dist: requests>=2.32.0

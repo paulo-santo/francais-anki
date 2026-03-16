@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "francais-anki"
+version = "0.1.0"
+description = "Gera decks do Anki para frases em frances com audio, IPA e integracao opcional com AnkiConnect."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "edge-tts>=7.2.0",
+  "genanki>=0.13.1",
+  "pydub>=0.25.1",
+  "requests>=2.32.0",
+]
+
+[project.scripts]
+francais-anki = "francais_anki.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

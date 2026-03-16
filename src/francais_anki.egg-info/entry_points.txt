@@ -1,0 +1,2 @@
+[console_scripts]
+francais-anki = francais_anki.cli:main

@@ -1,0 +1,41 @@
+{
+  "deck_name": "Francais - Prononciation et comprehension orale",
+  "subdeck_theme": "Nombres",
+  "level_tag": "A1",
+  "theme_tag": "nombres",
+  "voice_options": {
+    "male_voices": [
+      "fr-FR-HenriNeural",
+      "fr-FR-RemyMultilingualNeural"
+    ],
+    "female_voices": [
+      "fr-FR-DeniseNeural",
+      "fr-FR-VivienneMultilingualNeural"
+    ],
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "Je voudrais un cafe, s'il vous plait.",
+      "traducao_pt": "Eu gostaria de um cafe, por favor.",
+      "ipa": "/ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ/",
+      "observacao": "Forma educada de pedir algo.",
+      "audio_text": "Je voudrais un cafe, s'il vous plait."
+    },
+    {
+      "frase_fr": "Il est quelle heure, s'il te plait ?",
+      "traducao_pt": "Que horas sao, por favor?",
+      "ipa": "/il ɛ kɛ.l‿œʁ sil tə plɛ/",
+      "observacao": "Pergunta comum do dia a dia.",
+      "audio_text": "Il est quelle heure, s'il te plait ?"
+    },
+    {
+      "frase_fr": "Nous sommes arrives un peu en avance.",
+      "traducao_pt": "Nos chegamos um pouco adiantados.",
+      "ipa": "/nu sɔm a.ʁi.ve œ̃ pø ɑ̃n‿a.vɑ̃s/",
+      "observacao": "Expressao util para compromissos.",
+      "audio_text": "Nous sommes arrives un peu en avance."
+    }
+  ]
+}
