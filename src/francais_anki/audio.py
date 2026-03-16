@@ -4,6 +4,7 @@ import asyncio
 import random
 import shutil
 import tempfile
+from dataclasses import dataclass
 from pathlib import Path
 
 import edge_tts
@@ -12,6 +13,7 @@ from pydub import AudioSegment
 from .config import PAUSE_MS
 from .models import InputNote, PreparedNote, VoiceOptions
 from .utils import get_logger, slugify, stable_guid, stable_hash
+from .voice_discovery import infer_gender, voices_for_note
 
 
 class AudioGenerationError(RuntimeError):
@@ -24,51 +26,56 @@ def ensure_ffmpeg_available() -> None:
             "ffmpeg nao encontrado no PATH. Instale-o antes de gerar os audios."
         )
 
+@dataclass(slots=True)
+class VoiceSelection:
+    all_voices: list[str]
+    male_voices: list[str]
+    female_voices: list[str]
 
-from .voice_discovery import infer_gender, voices_for_note
+    def fallback_candidates(self, preferred_voice: str) -> list[str]:
+        preferred_gender = infer_gender(preferred_voice)
+        gender_pool = self.female_voices if preferred_gender == "female" else self.male_voices
+
+        ordered: list[str] = []
+        for voice in [preferred_voice, *gender_pool, *self.all_voices]:
+            if voice and voice not in ordered:
+                ordered.append(voice)
+        return ordered
 
 
-def _voice_groups(note: InputNote, options: VoiceOptions) -> tuple[list[str], list[str], list[str]]:
+def resolve_voice_selection(note: InputNote, options: VoiceOptions) -> VoiceSelection:
     if options.catalog:
-        voices = voices_for_note(note.frase_fr, options.catalog, options.weights)
-        males = [v for v in voices if infer_gender(v) == "male"] or voices
-        females = [v for v in voices if infer_gender(v) == "female"] or voices
+        all_voices = voices_for_note(note.frase_fr, options.catalog, options.weights)
+        male_voices = [voice for voice in all_voices if infer_gender(voice) == "male"] or all_voices
+        female_voices = [voice for voice in all_voices if infer_gender(voice) == "female"] or all_voices
     else:
-        voices = options.male_voices + options.female_voices
-        males = options.male_voices
-        females = options.female_voices
-    return voices, males, females
+        male_voices = options.male_voices
+        female_voices = options.female_voices
+        all_voices = male_voices + female_voices
+
+    return VoiceSelection(
+        all_voices=all_voices,
+        male_voices=male_voices or all_voices,
+        female_voices=female_voices or all_voices,
+    )
 
 
-def choose_voices(note: InputNote, options: VoiceOptions) -> tuple[str, str]:
+def choose_voices(note: InputNote, selection: VoiceSelection) -> tuple[str, str]:
     seed = stable_hash(note.frase_fr, length=8)
     generator = random.Random(int(seed, 16))
-    voices, males, females = _voice_groups(note, options)
 
-    male_voice = generator.choice(males)
-    female_voice = generator.choice(females)
+    male_voice = generator.choice(selection.male_voices)
+    female_voice = generator.choice(selection.female_voices)
 
     # Prefer two distinct voices when possible
     if male_voice == female_voice:
-        candidates = [v for v in set(voices) if v != male_voice]
+        candidates = [voice for voice in selection.all_voices if voice != male_voice]
         if candidates:
             female_voice = generator.choice(candidates)
 
     if generator.choice([True, False]):
         return male_voice, female_voice
     return female_voice, male_voice
-
-
-def candidate_voices(note: InputNote, options: VoiceOptions, preferred_voice: str) -> list[str]:
-    voices, males, females = _voice_groups(note, options)
-    preferred_gender = infer_gender(preferred_voice)
-    gender_pool = females if preferred_gender == "female" else males
-
-    ordered: list[str] = []
-    for voice in [preferred_voice, *gender_pool, *voices]:
-        if voice and voice not in ordered:
-            ordered.append(voice)
-    return ordered
 
 
 async def synthesize_mp3(text: str, voice: str, rate: str, output_path: Path) -> None:
@@ -78,7 +85,7 @@ async def synthesize_mp3(text: str, voice: str, rate: str, output_path: Path) ->
 
 def synthesize_with_fallback(
     note: InputNote,
-    voice_options: VoiceOptions,
+    selection: VoiceSelection,
     preferred_voice: str,
     rate: str,
     output_path: Path,
@@ -86,7 +93,7 @@ def synthesize_with_fallback(
     logger = get_logger()
     attempted: list[str] = []
 
-    for voice in candidate_voices(note, voice_options, preferred_voice):
+    for voice in selection.fallback_candidates(preferred_voice):
         attempted.append(voice)
         try:
             asyncio.run(synthesize_mp3(note.audio_text, voice, rate, output_path))
@@ -126,7 +133,8 @@ def generate_audio_bundle(
     ensure_ffmpeg_available()
     media_dir.mkdir(parents=True, exist_ok=True)
 
-    voice_a, voice_b = choose_voices(note, voice_options)
+    selection = resolve_voice_selection(note, voice_options)
+    voice_a, voice_b = choose_voices(note, selection)
     final_filename = build_audio_filename(note)
     final_path = media_dir / final_filename
 
@@ -144,14 +152,14 @@ def generate_audio_bundle(
 
         voice_a = synthesize_with_fallback(
             note,
-            voice_options,
+            selection,
             voice_a,
             voice_options.normal_rate,
             segment_a,
         )
         voice_b = synthesize_with_fallback(
             note,
-            voice_options,
+            selection,
             voice_b,
             voice_options.slow_rate,
             segment_b,

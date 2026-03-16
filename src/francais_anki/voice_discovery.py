@@ -98,20 +98,6 @@ def infer_gender(voice_name: str) -> str:
     return "female"
 
 
-def get_voices_by_gender(catalog: VoiceCatalog, weights: VoiceWeights) -> tuple[list[str], list[str]]:
-    voices = voices_for_note("", catalog, weights)
-    males = [v for v in voices if infer_gender(v) == "male"]
-    females = [v for v in voices if infer_gender(v) == "female"]
-
-    # If no males or females, mix
-    if not males:
-        males = females[:1]
-    if not females:
-        females = males[:1]
-
-    return males, females
-
-
 def voices_for_note(phrase: str, catalog: VoiceCatalog, weights: VoiceWeights) -> list[str]:
     """Select voices for a note based on phrase, using weights for distribution."""
     seed = hash(phrase) % (2**32)

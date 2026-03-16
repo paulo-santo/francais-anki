@@ -4,7 +4,12 @@ from dataclasses import dataclass, field
 from typing import Any
 
 from .config import DEFAULT_BASE_DECK
-from .voice_discovery import VoiceCatalog, VoiceWeights, discover_voices
+from .voice_discovery import VoiceCatalog, VoiceWeights
+
+DEFAULT_MALE_VOICES = ["fr-FR-HenriNeural", "fr-FR-RemyMultilingualNeural"]
+DEFAULT_FEMALE_VOICES = ["fr-FR-DeniseNeural", "fr-FR-VivienneMultilingualNeural"]
+DEFAULT_NORMAL_RATE = "+0%"
+DEFAULT_SLOW_RATE = "-12%"
 
 
 @dataclass(slots=True)
@@ -16,8 +21,8 @@ class VoiceOptions:
     # Used when no catalog is available.
     male_voices: list[str] = field(default_factory=list)
     female_voices: list[str] = field(default_factory=list)
-    normal_rate: str = "+0%"
-    slow_rate: str = "-12%"
+    normal_rate: str = DEFAULT_NORMAL_RATE
+    slow_rate: str = DEFAULT_SLOW_RATE
 
     @classmethod
     def from_dict(cls, payload: dict[str, Any] | None, catalog: VoiceCatalog | None = None) -> "VoiceOptions":
@@ -32,18 +37,18 @@ class VoiceOptions:
             return cls(
                 catalog=catalog,
                 weights=weights,
-                normal_rate=str(payload.get("normal_rate", cls().normal_rate)),
-                slow_rate=str(payload.get("slow_rate", cls().slow_rate)),
+                normal_rate=str(payload.get("normal_rate", DEFAULT_NORMAL_RATE)),
+                slow_rate=str(payload.get("slow_rate", DEFAULT_SLOW_RATE)),
             )
 
-        male_voices = list(payload.get("male_voices") or ["fr-FR-HenriNeural", "fr-FR-RemyMultilingualNeural"])
-        female_voices = list(payload.get("female_voices") or ["fr-FR-DeniseNeural", "fr-FR-VivienneMultilingualNeural"])
+        male_voices = list(payload.get("male_voices") or DEFAULT_MALE_VOICES)
+        female_voices = list(payload.get("female_voices") or DEFAULT_FEMALE_VOICES)
         return cls(
             weights=weights,
             male_voices=male_voices,
             female_voices=female_voices,
-            normal_rate=str(payload.get("normal_rate", cls().normal_rate)),
-            slow_rate=str(payload.get("slow_rate", cls().slow_rate)),
+            normal_rate=str(payload.get("normal_rate", DEFAULT_NORMAL_RATE)),
+            slow_rate=str(payload.get("slow_rate", DEFAULT_SLOW_RATE)),
         )
 
 
