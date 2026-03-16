@@ -103,16 +103,15 @@ def create_model() -> genanki.Model:
 <details>
   <summary>Mostrar traducao</summary>
   <div class="traducao">{{TraducaoPT}}</div>
+  {{#Observacao}}
+  <div class="obs">{{Observacao}}</div>
+  {{/Observacao}}
 </details>
 {{/TraducaoPT}}
 
 {{#IPA}}
 <div class="ipa">{{IPA}}</div>
-{{/IPA}}
-
-{{#Observacao}}
-<div class="obs">{{Observacao}}</div>
-{{/Observacao}}""",
+{{/IPA}}""",
             },
             {
                 "name": "Audicao",
@@ -131,16 +130,15 @@ def create_model() -> genanki.Model:
 <details>
   <summary>Mostrar traducao</summary>
   <div class="traducao">{{TraducaoPT}}</div>
+  {{#Observacao}}
+  <div class="obs">{{Observacao}}</div>
+  {{/Observacao}}
 </details>
 {{/TraducaoPT}}
 
 {{#IPA}}
 <div class="ipa">{{IPA}}</div>
-{{/IPA}}
-
-{{#Observacao}}
-<div class="obs">{{Observacao}}</div>
-{{/Observacao}}""",
+{{/IPA}}""",
             },
         ],
         css=MODEL_CSS,

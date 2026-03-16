@@ -4,14 +4,9 @@
   "level_tag": "A1",
   "theme_tag": "nombres",
   "voice_options": {
-    "male_voices": [
-      "fr-FR-HenriNeural",
-      "fr-FR-RemyMultilingualNeural"
-    ],
-    "female_voices": [
-      "fr-FR-DeniseNeural",
-      "fr-FR-VivienneMultilingualNeural"
-    ],
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
     "normal_rate": "+0%",
     "slow_rate": "-12%"
   },

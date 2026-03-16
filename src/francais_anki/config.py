@@ -8,7 +8,7 @@ DEFAULT_BASE_DECK = "Francais - Prononciation et comprehension orale"
 DEFAULT_TAG = "alliance-francaise"
 ANKI_CONNECT_URL = "http://127.0.0.1:8765"
 ANKI_CONNECT_VERSION = 5
-PAUSE_MS = 2000
+PAUSE_MS = 1500
 
 
 @dataclass(slots=True)

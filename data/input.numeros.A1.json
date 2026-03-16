@@ -1,0 +1,1415 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "Nombnures",
+  "level_tag": "A1",
+  "theme_tag": "numeros",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "J’ai un euro.",
+      "traducao_pt": "Eu tenho um euro.",
+      "ipa": "/ʒe œ̃n øʁo/",
+      "observacao": "",
+      "audio_text": "J’ai un euro."
+    },
+    {
+      "frase_fr": "Tu veux deux cafés ?",
+      "traducao_pt": "Você quer dois cafés?",
+      "ipa": "/ty vø dø kafe/",
+      "observacao": "",
+      "audio_text": "Tu veux deux cafés ?"
+    },
+    {
+      "frase_fr": "Il y a trois pommes.",
+      "traducao_pt": "Há três maçãs.",
+      "ipa": "/il i a tʁwa pɔm/",
+      "observacao": "",
+      "audio_text": "Il y a trois pommes."
+    },
+    {
+      "frase_fr": "Nous sommes quatre.",
+      "traducao_pt": "Somos quatro.",
+      "ipa": "/nu sɔm katʁ/",
+      "observacao": "",
+      "audio_text": "Nous sommes quatre."
+    },
+    {
+      "frase_fr": "Cinq minutes, d’accord ?",
+      "traducao_pt": "Cinco minutos, ok?",
+      "ipa": "/sɛ̃k minyt dakɔʁ/",
+      "observacao": "",
+      "audio_text": "Cinq minutes, d’accord ?"
+    },
+    {
+      "frase_fr": "Le bus arrive dans six minutes.",
+      "traducao_pt": "O ônibus chega em seis minutos.",
+      "ipa": "/lə- bys aʁiv dɑ̃ si minyt/",
+      "observacao": "",
+      "audio_text": "Le bus arrive dans six minutes."
+    },
+    {
+      "frase_fr": "Sept personnes attendent.",
+      "traducao_pt": "Sete pessoas esperam.",
+      "ipa": "/sɛt pɛʁsɔnz atɑ̃d/",
+      "observacao": "",
+      "audio_text": "Sept personnes attendent."
+    },
+    {
+      "frase_fr": "Huit euros pour le sandwich.",
+      "traducao_pt": "Oito euros pelo sanduíche.",
+      "ipa": "/yit øʁo puʁ lə- sɑ̃dwit‍ʃ/",
+      "observacao": "",
+      "audio_text": "Huit euros pour le sandwich."
+    },
+    {
+      "frase_fr": "Neuf heures déjà ?",
+      "traducao_pt": "Nove horas já?",
+      "ipa": "/nœv œʁ deʒa/",
+      "observacao": "",
+      "audio_text": "Neuf heures déjà ?"
+    },
+    {
+      "frase_fr": "Le magasin ouvre à dix heures.",
+      "traducao_pt": "A loja abre às dez horas.",
+      "ipa": "/lə- maɡazɛ̃ uvʁ a diz œʁ/",
+      "observacao": "",
+      "audio_text": "Le magasin ouvre à dix heures."
+    },
+    {
+      "frase_fr": "On est onze ici.",
+      "traducao_pt": "Somos onze aqui.",
+      "ipa": "/ɔ̃n ɛ ɔ̃z isi/",
+      "observacao": "",
+      "audio_text": "On est onze ici."
+    },
+    {
+      "frase_fr": "Tu as douze euros ?",
+      "traducao_pt": "Você tem doze euros?",
+      "ipa": "/ty a duz øʁo/",
+      "observacao": "",
+      "audio_text": "Tu as douze euros ?"
+    },
+    {
+      "frase_fr": "Treize étudiants arrivent.",
+      "traducao_pt": "Treze estudantes chegam.",
+      "ipa": "/tʁɛz etydjɑ̃z aʁiv/",
+      "observacao": "",
+      "audio_text": "Treize étudiants arrivent."
+    },
+    {
+      "frase_fr": "Quatorze minutes de marche.",
+      "traducao_pt": "Quatorze minutos de caminhada.",
+      "ipa": "/kwatɔʁz minyt də- maʁʃ/",
+      "observacao": "",
+      "audio_text": "Quatorze minutes de marche."
+    },
+    {
+      "frase_fr": "Il reste quinze places.",
+      "traducao_pt": "Restam quinze lugares.",
+      "ipa": "/il ʁɛst kɛ̃z plas/",
+      "observacao": "",
+      "audio_text": "Il reste quinze places."
+    },
+    {
+      "frase_fr": "Le café coûte seize euros.",
+      "traducao_pt": "O café custa dezesseis euros.",
+      "ipa": "/lə- kafe kut sɛz øʁo/",
+      "observacao": "",
+      "audio_text": "Le café coûte seize euros."
+    },
+    {
+      "frase_fr": "Dix-sept élèves sont là.",
+      "traducao_pt": "Dezessete alunos estão lá.",
+      "ipa": "/disɛt elɛv sɔ̃ la/",
+      "observacao": "",
+      "audio_text": "Dix-sept élèves sont là."
+    },
+    {
+      "frase_fr": "La chambre dix-huit est libre.",
+      "traducao_pt": "O quarto dezoito está livre.",
+      "ipa": "/la- ʃɑ̃bʁ dizyit ɛ libʁ/",
+      "observacao": "",
+      "audio_text": "La chambre dix-huit est libre."
+    },
+    {
+      "frase_fr": "Le train part à dix-neuf heures.",
+      "traducao_pt": "O trem parte às dezenove horas.",
+      "ipa": "/lə- tʁɛ̃ paʁ a diznœv œʁ/",
+      "observacao": "",
+      "audio_text": "Le train part à dix-neuf heures."
+    },
+    {
+      "frase_fr": "Le menu coûte vingt euros.",
+      "traducao_pt": "O menu custa vinte euros.",
+      "ipa": "/lə- məny kut vɛ̃t øʁo/",
+      "observacao": "",
+      "audio_text": "Le menu coûte vingt euros."
+    },
+    {
+      "frase_fr": "J’ai vingt et un ans.",
+      "traducao_pt": "Eu tenho 21 anos.",
+      "ipa": "/ʒe vɛ̃t e œ̃n ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai vingt et un ans."
+    },
+    {
+      "frase_fr": "Le bus vingt-deux arrive.",
+      "traducao_pt": "O ônibus 22 chega.",
+      "ipa": "/lə- bys vɛ̃tdøz aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus vingt-deux arrive."
+    },
+    {
+      "frase_fr": "La table vingt-trois est prête.",
+      "traducao_pt": "A mesa 23 está pronta.",
+      "ipa": "/la- tabl vɛ̃ttʁwaz ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table vingt-trois est prête."
+    },
+    {
+      "frase_fr": "Il paie vingt-quatre euros.",
+      "traducao_pt": "Ele paga 24 euros.",
+      "ipa": "/il pɛ vɛ̃tkatʁ øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie vingt-quatre euros."
+    },
+    {
+      "frase_fr": "Nous sommes vingt-cinq ici.",
+      "traducao_pt": "Nós somos 25 aqui.",
+      "ipa": "/nu sɔm vɛ̃tsɛ̃k isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes vingt-cinq ici."
+    },
+    {
+      "frase_fr": "La chambre vingt-six est occupée.",
+      "traducao_pt": "O quarto 26 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ vɛ̃tsiz ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre vingt-six est occupée."
+    },
+    {
+      "frase_fr": "Le numéro vingt-sept est correct.",
+      "traducao_pt": "O número 27 está correto.",
+      "ipa": "/lə- nymeʁo vɛ̃tsɛt ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro vingt-sept est correct."
+    },
+    {
+      "frase_fr": "Il y a vingt-huit personnes.",
+      "traducao_pt": "Há 28 pessoas.",
+      "ipa": "/il i a vɛ̃tyi pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a vingt-huit personnes."
+    },
+    {
+      "frase_fr": "J’ai vingt-neuf ans.",
+      "traducao_pt": "Eu tenho 29 anos.",
+      "ipa": "/ʒe vɛ̃tnœv ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai vingt-neuf ans."
+    },
+    {
+      "frase_fr": "Le bus trente arrive.",
+      "traducao_pt": "O ônibus 30 chega.",
+      "ipa": "/lə- bys tʁɑ̃t aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus trente arrive."
+    },
+    {
+      "frase_fr": "La table trente et un est prête.",
+      "traducao_pt": "A mesa 31 está pronta.",
+      "ipa": "/la- tabl tʁɑ̃t e œ̃n ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table trente et un est prête."
+    },
+    {
+      "frase_fr": "Il paie trente-deux euros.",
+      "traducao_pt": "Ele paga 32 euros.",
+      "ipa": "/il pɛ tʁɑ̃tdøz øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie trente-deux euros."
+    },
+    {
+      "frase_fr": "Nous sommes trente-trois ici.",
+      "traducao_pt": "Nós somos 33 aqui.",
+      "ipa": "/nu sɔm tʁɑ̃ttʁwaz isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes trente-trois ici."
+    },
+    {
+      "frase_fr": "La chambre trente-quatre est occupée.",
+      "traducao_pt": "O quarto 34 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ tʁɑ̃tkatʁ ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre trente-quatre est occupée."
+    },
+    {
+      "frase_fr": "Le numéro trente-cinq est correct.",
+      "traducao_pt": "O número 35 está correto.",
+      "ipa": "/lə- nymeʁo tʁɑ̃tsɛ̃k ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro trente-cinq est correct."
+    },
+    {
+      "frase_fr": "Il y a trente-six personnes.",
+      "traducao_pt": "Há 36 pessoas.",
+      "ipa": "/il i a tʁɑ̃tsi pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a trente-six personnes."
+    },
+    {
+      "frase_fr": "J’ai trente-sept ans.",
+      "traducao_pt": "Eu tenho 37 anos.",
+      "ipa": "/ʒe tʁɑ̃tsɛt ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai trente-sept ans."
+    },
+    {
+      "frase_fr": "Le bus trente-huit arrive.",
+      "traducao_pt": "O ônibus 38 chega.",
+      "ipa": "/lə- bys tʁɑ̃tyit aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus trente-huit arrive."
+    },
+    {
+      "frase_fr": "La table trente-neuf est prête.",
+      "traducao_pt": "A mesa 39 está pronta.",
+      "ipa": "/la- tabl tʁɑ̃tnœf ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table trente-neuf est prête."
+    },
+    {
+      "frase_fr": "Il paie quarante euros.",
+      "traducao_pt": "Ele paga 40 euros.",
+      "ipa": "/il pɛ kaʁɑ̃t øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie quarante euros."
+    },
+    {
+      "frase_fr": "Nous sommes quarante et un ici.",
+      "traducao_pt": "Nós somos 41 aqui.",
+      "ipa": "/nu sɔm kaʁɑ̃t e œ̃n isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes quarante et un ici."
+    },
+    {
+      "frase_fr": "La chambre quarante-deux est occupée.",
+      "traducao_pt": "O quarto 42 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ kaʁɑ̃tdøz ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre quarante-deux est occupée."
+    },
+    {
+      "frase_fr": "Le numéro quarante-trois est correct.",
+      "traducao_pt": "O número 43 está correto.",
+      "ipa": "/lə- nymeʁo kaʁɑ̃ttʁwaz ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro quarante-trois est correct."
+    },
+    {
+      "frase_fr": "Il y a quarante-quatre personnes.",
+      "traducao_pt": "Há 44 pessoas.",
+      "ipa": "/il i a kaʁɑ̃tkatʁ pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a quarante-quatre personnes."
+    },
+    {
+      "frase_fr": "J’ai quarante-cinq ans.",
+      "traducao_pt": "Eu tenho 45 anos.",
+      "ipa": "/ʒe kaʁɑ̃tsɛ̃k ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai quarante-cinq ans."
+    },
+    {
+      "frase_fr": "Le bus quarante-six arrive.",
+      "traducao_pt": "O ônibus 46 chega.",
+      "ipa": "/lə- bys kaʁɑ̃tsiz aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus quarante-six arrive."
+    },
+    {
+      "frase_fr": "La table quarante-sept est prête.",
+      "traducao_pt": "A mesa 47 está pronta.",
+      "ipa": "/la- tabl kaʁɑ̃tsɛt ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table quarante-sept est prête."
+    },
+    {
+      "frase_fr": "Il paie quarante-huit euros.",
+      "traducao_pt": "Ele paga 48 euros.",
+      "ipa": "/il pɛ kaʁɑ̃tyit øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie quarante-huit euros."
+    },
+    {
+      "frase_fr": "Nous sommes quarante-neuf ici.",
+      "traducao_pt": "Nós somos 49 aqui.",
+      "ipa": "/nu sɔm kaʁɑ̃tnœf isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes quarante-neuf ici."
+    },
+    {
+      "frase_fr": "La chambre cinquante est occupée.",
+      "traducao_pt": "O quarto 50 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ sɛ̃kɑ̃t ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre cinquante est occupée."
+    },
+    {
+      "frase_fr": "Le numéro cinquante et un est correct.",
+      "traducao_pt": "O número 51 está correto.",
+      "ipa": "/lə- nymeʁo sɛ̃kɑ̃t e œ̃n ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro cinquante et un est correct."
+    },
+    {
+      "frase_fr": "Il y a cinquante-deux personnes.",
+      "traducao_pt": "Há 52 pessoas.",
+      "ipa": "/il i a sɛ̃kɑ̃tdø pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a cinquante-deux personnes."
+    },
+    {
+      "frase_fr": "J’ai cinquante-trois ans.",
+      "traducao_pt": "Eu tenho 53 anos.",
+      "ipa": "/ʒe sɛ̃kɑ̃ttʁwaz ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai cinquante-trois ans."
+    },
+    {
+      "frase_fr": "Le bus cinquante-quatre arrive.",
+      "traducao_pt": "O ônibus 54 chega.",
+      "ipa": "/lə- bys sɛ̃kɑ̃tkatʁ aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus cinquante-quatre arrive."
+    },
+    {
+      "frase_fr": "La table cinquante-cinq est prête.",
+      "traducao_pt": "A mesa 55 está pronta.",
+      "ipa": "/la- tabl sɛ̃kɑ̃tsɛ̃k ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table cinquante-cinq est prête."
+    },
+    {
+      "frase_fr": "Il paie cinquante-six euros.",
+      "traducao_pt": "Ele paga 56 euros.",
+      "ipa": "/il pɛ sɛ̃kɑ̃tsiz øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie cinquante-six euros."
+    },
+    {
+      "frase_fr": "Nous sommes cinquante-sept ici.",
+      "traducao_pt": "Nós somos 57 aqui.",
+      "ipa": "/nu sɔm sɛ̃kɑ̃tsɛt isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes cinquante-sept ici."
+    },
+    {
+      "frase_fr": "La chambre cinquante-huit est occupée.",
+      "traducao_pt": "O quarto 58 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ sɛ̃kɑ̃tyit ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre cinquante-huit est occupée."
+    },
+    {
+      "frase_fr": "Le numéro cinquante-neuf est correct.",
+      "traducao_pt": "O número 59 está correto.",
+      "ipa": "/lə- nymeʁo sɛ̃kɑ̃tnœf ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro cinquante-neuf est correct."
+    },
+    {
+      "frase_fr": "Il y a soixante personnes.",
+      "traducao_pt": "Há 60 pessoas.",
+      "ipa": "/il i a swasɑ̃t pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a soixante personnes."
+    },
+    {
+      "frase_fr": "J’ai soixante et un ans.",
+      "traducao_pt": "Eu tenho 61 anos.",
+      "ipa": "/ʒe swasɑ̃t e œ̃n ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai soixante et un ans."
+    },
+    {
+      "frase_fr": "Le bus soixante-deux arrive.",
+      "traducao_pt": "O ônibus 62 chega.",
+      "ipa": "/lə- bys swasɑ̃tdøz aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus soixante-deux arrive."
+    },
+    {
+      "frase_fr": "La table soixante-trois est prête.",
+      "traducao_pt": "A mesa 63 está pronta.",
+      "ipa": "/la- tabl swasɑ̃ttʁwaz ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table soixante-trois est prête."
+    },
+    {
+      "frase_fr": "Il paie soixante-quatre euros.",
+      "traducao_pt": "Ele paga 64 euros.",
+      "ipa": "/il pɛ swasɑ̃tkatʁ øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie soixante-quatre euros."
+    },
+    {
+      "frase_fr": "Nous sommes soixante-cinq ici.",
+      "traducao_pt": "Nós somos 65 aqui.",
+      "ipa": "/nu sɔm swasɑ̃tsɛ̃k isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes soixante-cinq ici."
+    },
+    {
+      "frase_fr": "La chambre soixante-six est occupée.",
+      "traducao_pt": "O quarto 66 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ swasɑ̃tsiz ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre soixante-six est occupée."
+    },
+    {
+      "frase_fr": "Le numéro soixante-sept est correct.",
+      "traducao_pt": "O número 67 está correto.",
+      "ipa": "/lə- nymeʁo swasɑ̃tsɛt ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro soixante-sept est correct."
+    },
+    {
+      "frase_fr": "Il y a soixante-huit personnes.",
+      "traducao_pt": "Há 68 pessoas.",
+      "ipa": "/il i a swasɑ̃tyi pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a soixante-huit personnes."
+    },
+    {
+      "frase_fr": "J’ai soixante-neuf ans.",
+      "traducao_pt": "Eu tenho 69 anos.",
+      "ipa": "/ʒe swasɑ̃tnœv ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai soixante-neuf ans."
+    },
+    {
+      "frase_fr": "Le bus soixante-dix arrive.",
+      "traducao_pt": "O ônibus 70 chega.",
+      "ipa": "/lə- bys swasɑ̃tdiz aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus soixante-dix arrive."
+    },
+    {
+      "frase_fr": "La table soixante et onze est prête.",
+      "traducao_pt": "A mesa 71 está pronta.",
+      "ipa": "/la- tabl swasɑ̃t e ɔ̃z ɛ pʁɛt/",
+      "observacao": "Boa nota auditiva: este número tem uma forma especial em francês.",
+      "audio_text": "La table soixante et onze est prête."
+    },
+    {
+      "frase_fr": "Il paie soixante-douze euros.",
+      "traducao_pt": "Ele paga 72 euros.",
+      "ipa": "/il pɛ swasɑ̃tduz øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie soixante-douze euros."
+    },
+    {
+      "frase_fr": "Nous sommes soixante-treize ici.",
+      "traducao_pt": "Nós somos 73 aqui.",
+      "ipa": "/nu sɔm swasɑ̃ttʁɛz isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes soixante-treize ici."
+    },
+    {
+      "frase_fr": "La chambre soixante-quatorze est occupée.",
+      "traducao_pt": "O quarto 74 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ swasɑ̃tkwatɔʁz ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre soixante-quatorze est occupée."
+    },
+    {
+      "frase_fr": "Le numéro soixante-quinze est correct.",
+      "traducao_pt": "O número 75 está correto.",
+      "ipa": "/lə- nymeʁo swasɑ̃tkɛ̃z ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro soixante-quinze est correct."
+    },
+    {
+      "frase_fr": "Il y a soixante-seize personnes.",
+      "traducao_pt": "Há 76 pessoas.",
+      "ipa": "/il i a swasɑ̃tsɛz pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a soixante-seize personnes."
+    },
+    {
+      "frase_fr": "J’ai soixante-dix-sept ans.",
+      "traducao_pt": "Eu tenho 77 anos.",
+      "ipa": "/ʒe swasɑ̃tdisɛt ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai soixante-dix-sept ans."
+    },
+    {
+      "frase_fr": "Le bus soixante-dix-huit arrive.",
+      "traducao_pt": "O ônibus 78 chega.",
+      "ipa": "/lə- bys swasɑ̃tdizyit aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus soixante-dix-huit arrive."
+    },
+    {
+      "frase_fr": "La table soixante-dix-neuf est prête.",
+      "traducao_pt": "A mesa 79 está pronta.",
+      "ipa": "/la- tabl swasɑ̃tdiznœf ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table soixante-dix-neuf est prête."
+    },
+    {
+      "frase_fr": "Il paie quatre-vingts euros.",
+      "traducao_pt": "Ele paga 80 euros.",
+      "ipa": "/il pɛ katʁvɛ̃z øʁo/",
+      "observacao": "Boa nota auditiva: este número tem uma forma especial em francês.",
+      "audio_text": "Il paie quatre-vingts euros."
+    },
+    {
+      "frase_fr": "Nous sommes quatre-vingt-un ici.",
+      "traducao_pt": "Nós somos 81 aqui.",
+      "ipa": "/nu sɔm katʁvɛ̃œ̃n isi/",
+      "observacao": "Boa nota auditiva: este número tem uma forma especial em francês.",
+      "audio_text": "Nous sommes quatre-vingt-un ici."
+    },
+    {
+      "frase_fr": "La chambre quatre-vingt-deux est occupée.",
+      "traducao_pt": "O quarto 82 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ katʁvɛ̃tdøz ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre quatre-vingt-deux est occupée."
+    },
+    {
+      "frase_fr": "Le numéro quatre-vingt-trois est correct.",
+      "traducao_pt": "O número 83 está correto.",
+      "ipa": "/lə- nymeʁo katʁvɛ̃ttʁwaz ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro quatre-vingt-trois est correct."
+    },
+    {
+      "frase_fr": "Il y a quatre-vingt-quatre personnes.",
+      "traducao_pt": "Há 84 pessoas.",
+      "ipa": "/il i a katʁvɛ̃tkatʁ pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a quatre-vingt-quatre personnes."
+    },
+    {
+      "frase_fr": "J’ai quatre-vingt-cinq ans.",
+      "traducao_pt": "Eu tenho 85 anos.",
+      "ipa": "/ʒe katʁvɛ̃tsɛ̃k ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai quatre-vingt-cinq ans."
+    },
+    {
+      "frase_fr": "Le bus quatre-vingt-six arrive.",
+      "traducao_pt": "O ônibus 86 chega.",
+      "ipa": "/lə- bys katʁvɛ̃tsiz aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus quatre-vingt-six arrive."
+    },
+    {
+      "frase_fr": "La table quatre-vingt-sept est prête.",
+      "traducao_pt": "A mesa 87 está pronta.",
+      "ipa": "/la- tabl katʁvɛ̃tsɛt ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table quatre-vingt-sept est prête."
+    },
+    {
+      "frase_fr": "Il paie quatre-vingt-huit euros.",
+      "traducao_pt": "Ele paga 88 euros.",
+      "ipa": "/il pɛ katʁvɛ̃tyit øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie quatre-vingt-huit euros."
+    },
+    {
+      "frase_fr": "Nous sommes quatre-vingt-neuf ici.",
+      "traducao_pt": "Nós somos 89 aqui.",
+      "ipa": "/nu sɔm katʁvɛ̃tnœf isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes quatre-vingt-neuf ici."
+    },
+    {
+      "frase_fr": "La chambre quatre-vingt-dix est occupée.",
+      "traducao_pt": "O quarto 90 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ katʁvɛ̃diz ɛt ɔkype/",
+      "observacao": "Boa nota auditiva: este número tem uma forma especial em francês.",
+      "audio_text": "La chambre quatre-vingt-dix est occupée."
+    },
+    {
+      "frase_fr": "Le numéro quatre-vingt-onze est correct.",
+      "traducao_pt": "O número 91 está correto.",
+      "ipa": "/lə- nymeʁo katʁvɛ̃tɔ̃z ɛ kɔʁɛkt/",
+      "observacao": "Boa nota auditiva: este número tem uma forma especial em francês.",
+      "audio_text": "Le numéro quatre-vingt-onze est correct."
+    },
+    {
+      "frase_fr": "Il y a quatre-vingt-douze personnes.",
+      "traducao_pt": "Há 92 pessoas.",
+      "ipa": "/il i a katʁvɛ̃duz pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a quatre-vingt-douze personnes."
+    },
+    {
+      "frase_fr": "J’ai quatre-vingt-treize ans.",
+      "traducao_pt": "Eu tenho 93 anos.",
+      "ipa": "/ʒe katʁvɛ̃tʁɛz ɑ̃/",
+      "observacao": "",
+      "audio_text": "J’ai quatre-vingt-treize ans."
+    },
+    {
+      "frase_fr": "Le bus quatre-vingt-quatorze arrive.",
+      "traducao_pt": "O ônibus 94 chega.",
+      "ipa": "/lə- bys katʁvɛ̃kwatɔʁz aʁiv/",
+      "observacao": "",
+      "audio_text": "Le bus quatre-vingt-quatorze arrive."
+    },
+    {
+      "frase_fr": "La table quatre-vingt-quinze est prête.",
+      "traducao_pt": "A mesa 95 está pronta.",
+      "ipa": "/la- tabl katʁvɛ̃kɛ̃z ɛ pʁɛt/",
+      "observacao": "",
+      "audio_text": "La table quatre-vingt-quinze est prête."
+    },
+    {
+      "frase_fr": "Il paie quatre-vingt-seize euros.",
+      "traducao_pt": "Ele paga 96 euros.",
+      "ipa": "/il pɛ katʁvɛ̃sɛz øʁo/",
+      "observacao": "",
+      "audio_text": "Il paie quatre-vingt-seize euros."
+    },
+    {
+      "frase_fr": "Nous sommes quatre-vingt-dix-sept ici.",
+      "traducao_pt": "Nós somos 97 aqui.",
+      "ipa": "/nu sɔm katʁvɛ̃disɛt isi/",
+      "observacao": "",
+      "audio_text": "Nous sommes quatre-vingt-dix-sept ici."
+    },
+    {
+      "frase_fr": "La chambre quatre-vingt-dix-huit est occupée.",
+      "traducao_pt": "O quarto 98 está ocupado.",
+      "ipa": "/la- ʃɑ̃bʁ katʁvɛ̃dizyit ɛt ɔkype/",
+      "observacao": "",
+      "audio_text": "La chambre quatre-vingt-dix-huit est occupée."
+    },
+    {
+      "frase_fr": "Le numéro quatre-vingt-dix-neuf est correct.",
+      "traducao_pt": "O número 99 está correto.",
+      "ipa": "/lə- nymeʁo katʁvɛ̃diznœf ɛ kɔʁɛkt/",
+      "observacao": "",
+      "audio_text": "Le numéro quatre-vingt-dix-neuf est correct."
+    },
+    {
+      "frase_fr": "Il y a quarante-cinq personnes.",
+      "traducao_pt": "Há 45 pessoas.",
+      "ipa": "/il i a kaʁɑ̃tsɛ̃k pɛʁsɔn/",
+      "observacao": "",
+      "audio_text": "Il y a quarante-cinq personnes."
+    },
+    {
+      "frase_fr": "Ça fait un euro vingt.",
+      "traducao_pt": "Fica em 1,20 euros.",
+      "ipa": "/sa fɛt œ̃n øʁo vɛ̃/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Ça fait un euro vingt."
+    },
+    {
+      "frase_fr": "Le café coûte deux euros cinquante.",
+      "traducao_pt": "O café custa 2,50 euros.",
+      "ipa": "/lə- kafe kut døz øʁo sɛ̃kɑ̃t/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le café coûte deux euros cinquante."
+    },
+    {
+      "frase_fr": "Je paie trois euros quatre-vingts.",
+      "traducao_pt": "Eu pago 3,80 euros.",
+      "ipa": "/ʒə- pɛ tʁwaz øʁo katʁvɛ̃/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Je paie trois euros quatre-vingts."
+    },
+    {
+      "frase_fr": "Le billet coûte quatre euros trente.",
+      "traducao_pt": "O bilhete custa 4,30 euros.",
+      "ipa": "/lə- bijɛ kut katʁ øʁo tʁɑ̃t/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le billet coûte quatre euros trente."
+    },
+    {
+      "frase_fr": "C’est cinq euros soixante, madame.",
+      "traducao_pt": "São 5,60 euros, senhora.",
+      "ipa": "/sɛ sɛ̃k øʁo swasɑ̃t madam/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "C’est cinq euros soixante, madame."
+    },
+    {
+      "frase_fr": "Ça fait six euros quatre-vingt-dix.",
+      "traducao_pt": "Fica em 6,90 euros.",
+      "ipa": "/sa fɛ siz øʁo katʁvɛ̃dis/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Ça fait six euros quatre-vingt-dix."
+    },
+    {
+      "frase_fr": "Le café coûte sept euros quarante.",
+      "traducao_pt": "O café custa 7,40 euros.",
+      "ipa": "/lə- kafe kut sɛt øʁo kaʁɑ̃t/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le café coûte sept euros quarante."
+    },
+    {
+      "frase_fr": "Je paie huit euros soixante-dix.",
+      "traducao_pt": "Eu pago 8,70 euros.",
+      "ipa": "/ʒə- pɛ yit øʁo swasɑ̃tdis/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Je paie huit euros soixante-dix."
+    },
+    {
+      "frase_fr": "Le billet coûte neuf euros dix.",
+      "traducao_pt": "O bilhete custa 9,10 euros.",
+      "ipa": "/lə- bijɛ kut nœf øʁo dis/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le billet coûte neuf euros dix."
+    },
+    {
+      "frase_fr": "C’est dix euros vingt-cinq, madame.",
+      "traducao_pt": "São 10,25 euros, senhora.",
+      "ipa": "/sɛ diz øʁo vɛ̃tsɛ̃k madam/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "C’est dix euros vingt-cinq, madame."
+    },
+    {
+      "frase_fr": "Ça fait onze euros cinquante.",
+      "traducao_pt": "Fica em 11,50 euros.",
+      "ipa": "/sa fɛ ɔ̃z øʁo sɛ̃kɑ̃t/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Ça fait onze euros cinquante."
+    },
+    {
+      "frase_fr": "Le café coûte douze euros quatre-vingt-quinze.",
+      "traducao_pt": "O café custa 12,95 euros.",
+      "ipa": "/lə- kafe kut duz øʁo katʁvɛ̃kɛ̃z/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le café coûte douze euros quatre-vingt-quinze."
+    },
+    {
+      "frase_fr": "Je paie treize euros zéro cinq.",
+      "traducao_pt": "Eu pago 13,05 euros.",
+      "ipa": "/ʒə- pɛ tʁɛz øʁo zeʁo sɛ̃k/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Je paie treize euros zéro cinq."
+    },
+    {
+      "frase_fr": "Le billet coûte quatorze euros soixante-quinze.",
+      "traducao_pt": "O bilhete custa 14,75 euros.",
+      "ipa": "/lə- bijɛ kut kwatɔʁz øʁo swasɑ̃tkɛ̃z/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le billet coûte quatorze euros soixante-quinze."
+    },
+    {
+      "frase_fr": "C’est quinze euros quatre-vingt-dix-neuf, madame.",
+      "traducao_pt": "São 15,99 euros, senhora.",
+      "ipa": "/sɛ kɛ̃z øʁo katʁvɛ̃diznœf madam/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "C’est quinze euros quatre-vingt-dix-neuf, madame."
+    },
+    {
+      "frase_fr": "Ça fait seize euros cinquante.",
+      "traducao_pt": "Fica em 16,50 euros.",
+      "ipa": "/sa fɛ sɛz øʁo sɛ̃kɑ̃t/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Ça fait seize euros cinquante."
+    },
+    {
+      "frase_fr": "Le café coûte dix-sept euros vingt.",
+      "traducao_pt": "O café custa 17,20 euros.",
+      "ipa": "/lə- kafe kut disɛt øʁo vɛ̃/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le café coûte dix-sept euros vingt."
+    },
+    {
+      "frase_fr": "Je paie dix-huit euros quarante-cinq.",
+      "traducao_pt": "Eu pago 18,45 euros.",
+      "ipa": "/ʒə- pɛ dizyit øʁo kaʁɑ̃tsɛ̃k/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Je paie dix-huit euros quarante-cinq."
+    },
+    {
+      "frase_fr": "Le billet coûte dix-neuf euros quatre-vingt-dix.",
+      "traducao_pt": "O bilhete custa 19,90 euros.",
+      "ipa": "/lə- bijɛ kut diznœf øʁo katʁvɛ̃dis/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le billet coûte dix-neuf euros quatre-vingt-dix."
+    },
+    {
+      "frase_fr": "C’est vingt euros trente, madame.",
+      "traducao_pt": "São 20,30 euros, senhora.",
+      "ipa": "/sɛ vɛ̃t øʁo tʁɑ̃t madam/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "C’est vingt euros trente, madame."
+    },
+    {
+      "frase_fr": "Ça fait vingt et un euros cinquante.",
+      "traducao_pt": "Fica em 21,50 euros.",
+      "ipa": "/sa fɛ vɛ̃t e œ̃n øʁo sɛ̃kɑ̃t/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Ça fait vingt et un euros cinquante."
+    },
+    {
+      "frase_fr": "Le café coûte vingt-deux euros quatre-vingts.",
+      "traducao_pt": "O café custa 22,80 euros.",
+      "ipa": "/lə- kafe kut vɛ̃tdøz øʁo katʁvɛ̃/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le café coûte vingt-deux euros quatre-vingts."
+    },
+    {
+      "frase_fr": "Je paie vingt-trois euros quinze.",
+      "traducao_pt": "Eu pago 23,15 euros.",
+      "ipa": "/ʒə- pɛ vɛ̃ttʁwaz øʁo kɛ̃z/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Je paie vingt-trois euros quinze."
+    },
+    {
+      "frase_fr": "Le billet coûte vingt-quatre euros soixante.",
+      "traducao_pt": "O bilhete custa 24,60 euros.",
+      "ipa": "/lə- bijɛ kut vɛ̃tkatʁ øʁo swasɑ̃t/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "Le billet coûte vingt-quatre euros soixante."
+    },
+    {
+      "frase_fr": "C’est vingt-cinq euros quarante, madame.",
+      "traducao_pt": "São 25,40 euros, senhora.",
+      "ipa": "/sɛ vɛ̃tsɛ̃k øʁo kaʁɑ̃t madam/",
+      "observacao": "Em preços, muitas vezes se fala sem dizer « virgule ».",
+      "audio_text": "C’est vingt-cinq euros quarante, madame."
+    },
+    {
+      "frase_fr": "Le score est de zéro virgule cinq.",
+      "traducao_pt": "A pontuação é 0,5.",
+      "ipa": "/lə- skɔʁ ɛ də- zeʁo viʁɡyl sɛ̃k/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "Le score est de zéro virgule cinq."
+    },
+    {
+      "frase_fr": "On a un virgule cinq litres.",
+      "traducao_pt": "Nós temos 1,5 litros.",
+      "ipa": "/ɔ̃n a œ̃ viʁɡyl sɛ̃k litʁ/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "On a un virgule cinq litres."
+    },
+    {
+      "frase_fr": "Il fait deux virgule cinq degrés.",
+      "traducao_pt": "Está fazendo 2,5 graus.",
+      "ipa": "/il fɛ dø viʁɡyl sɛ̃k dəɡʁe/",
+      "observacao": "Com medidas, « virgule » é muito comum.",
+      "audio_text": "Il fait deux virgule cinq degrés."
+    },
+    {
+      "frase_fr": "La note est de trois virgule six.",
+      "traducao_pt": "A nota é 3,6.",
+      "ipa": "/la- nɔt ɛ də- tʁwa viʁɡyl sis/",
+      "observacao": "Com notas, você também pode ouvir formas abreviadas em alguns contextos.",
+      "audio_text": "La note est de trois virgule six."
+    },
+    {
+      "frase_fr": "Le score est de quatre virgule deux.",
+      "traducao_pt": "A pontuação é 4,2.",
+      "ipa": "/lə- skɔʁ ɛ də- katʁ viʁɡyl dø/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "Le score est de quatre virgule deux."
+    },
+    {
+      "frase_fr": "On a cinq virgule huit litres.",
+      "traducao_pt": "Nós temos 5,8 litros.",
+      "ipa": "/ɔ̃n a sɛ̃k viʁɡyl yi litʁ/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "On a cinq virgule huit litres."
+    },
+    {
+      "frase_fr": "Il fait six virgule trois degrés.",
+      "traducao_pt": "Está fazendo 6,3 graus.",
+      "ipa": "/il fɛ si viʁɡyl tʁwa dəɡʁe/",
+      "observacao": "Com medidas, « virgule » é muito comum.",
+      "audio_text": "Il fait six virgule trois degrés."
+    },
+    {
+      "frase_fr": "La note est de sept virgule un.",
+      "traducao_pt": "A nota é 7,1.",
+      "ipa": "/la- nɔt ɛ də- sɛt viʁɡyl œ̃/",
+      "observacao": "Com notas, você também pode ouvir formas abreviadas em alguns contextos.",
+      "audio_text": "La note est de sept virgule un."
+    },
+    {
+      "frase_fr": "Le score est de huit virgule quatre.",
+      "traducao_pt": "A pontuação é 8,4.",
+      "ipa": "/lə- skɔʁ ɛ də- yi viʁɡyl katʁ/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "Le score est de huit virgule quatre."
+    },
+    {
+      "frase_fr": "On a neuf virgule neuf litres.",
+      "traducao_pt": "Nós temos 9,9 litros.",
+      "ipa": "/ɔ̃n a nœf viʁɡyl nœf litʁ/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "On a neuf virgule neuf litres."
+    },
+    {
+      "frase_fr": "Il fait dix virgule cinq degrés.",
+      "traducao_pt": "Está fazendo 10,5 graus.",
+      "ipa": "/il fɛ di viʁɡyl sɛ̃k dəɡʁe/",
+      "observacao": "Com medidas, « virgule » é muito comum.",
+      "audio_text": "Il fait dix virgule cinq degrés."
+    },
+    {
+      "frase_fr": "La note est de onze virgule deux.",
+      "traducao_pt": "A nota é 11,2.",
+      "ipa": "/la- nɔt ɛ də- ɔ̃z viʁɡyl dø/",
+      "observacao": "Com notas, você também pode ouvir formas abreviadas em alguns contextos.",
+      "audio_text": "La note est de onze virgule deux."
+    },
+    {
+      "frase_fr": "Le score est de douze virgule sept.",
+      "traducao_pt": "A pontuação é 12,7.",
+      "ipa": "/lə- skɔʁ ɛ də- duz viʁɡyl sɛt/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "Le score est de douze virgule sept."
+    },
+    {
+      "frase_fr": "On a treize virgule cinq litres.",
+      "traducao_pt": "Nós temos 13,5 litros.",
+      "ipa": "/ɔ̃n a tʁɛz viʁɡyl sɛ̃k litʁ/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "On a treize virgule cinq litres."
+    },
+    {
+      "frase_fr": "Il fait quatorze virgule huit degrés.",
+      "traducao_pt": "Está fazendo 14,8 graus.",
+      "ipa": "/il fɛ kwatɔʁz viʁɡyl yi dəɡʁe/",
+      "observacao": "Com medidas, « virgule » é muito comum.",
+      "audio_text": "Il fait quatorze virgule huit degrés."
+    },
+    {
+      "frase_fr": "La note est de quinze virgule quatre.",
+      "traducao_pt": "A nota é 15,4.",
+      "ipa": "/la- nɔt ɛ də- kɛ̃z viʁɡyl katʁ/",
+      "observacao": "Com notas, você também pode ouvir formas abreviadas em alguns contextos.",
+      "audio_text": "La note est de quinze virgule quatre."
+    },
+    {
+      "frase_fr": "Le score est de seize virgule neuf.",
+      "traducao_pt": "A pontuação é 16,9.",
+      "ipa": "/lə- skɔʁ ɛ də- sɛz viʁɡyl nœf/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "Le score est de seize virgule neuf."
+    },
+    {
+      "frase_fr": "On a dix-sept virgule cinq litres.",
+      "traducao_pt": "Nós temos 17,5 litros.",
+      "ipa": "/ɔ̃n a disɛt viʁɡyl sɛ̃k litʁ/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "On a dix-sept virgule cinq litres."
+    },
+    {
+      "frase_fr": "Il fait dix-huit virgule deux degrés.",
+      "traducao_pt": "Está fazendo 18,2 graus.",
+      "ipa": "/il fɛ dizyi viʁɡyl dø dəɡʁe/",
+      "observacao": "Com medidas, « virgule » é muito comum.",
+      "audio_text": "Il fait dix-huit virgule deux degrés."
+    },
+    {
+      "frase_fr": "La note est de dix-neuf virgule sept.",
+      "traducao_pt": "A nota é 19,7.",
+      "ipa": "/la- nɔt ɛ də- diznœf viʁɡyl sɛt/",
+      "observacao": "Com notas, você também pode ouvir formas abreviadas em alguns contextos.",
+      "audio_text": "La note est de dix-neuf virgule sept."
+    },
+    {
+      "frase_fr": "On a vingt-six virgule cinq litres.",
+      "traducao_pt": "Nós temos 26,5 litros.",
+      "ipa": "/ɔ̃n a vɛ̃tsi viʁɡyl sɛ̃k litʁ/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "On a vingt-six virgule cinq litres."
+    },
+    {
+      "frase_fr": "Il fait vingt-sept virgule trois degrés.",
+      "traducao_pt": "Está fazendo 27,3 graus.",
+      "ipa": "/il fɛ vɛ̃tsɛt viʁɡyl tʁwa dəɡʁe/",
+      "observacao": "Com medidas, « virgule » é muito comum.",
+      "audio_text": "Il fait vingt-sept virgule trois degrés."
+    },
+    {
+      "frase_fr": "La note est de vingt-huit virgule huit.",
+      "traducao_pt": "A nota é 28,8.",
+      "ipa": "/la- nɔt ɛ də- vɛ̃tyi viʁɡyl yit/",
+      "observacao": "Com notas, você também pode ouvir formas abreviadas em alguns contextos.",
+      "audio_text": "La note est de vingt-huit virgule huit."
+    },
+    {
+      "frase_fr": "Le score est de vingt-neuf virgule un.",
+      "traducao_pt": "A pontuação é 29,1.",
+      "ipa": "/lə- skɔʁ ɛ də- vɛ̃tnœf viʁɡyl œ̃/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "Le score est de vingt-neuf virgule un."
+    },
+    {
+      "frase_fr": "On a trente virgule cinq litres.",
+      "traducao_pt": "Nós temos 30,5 litros.",
+      "ipa": "/ɔ̃n a tʁɑ̃t viʁɡyl sɛ̃k litʁ/",
+      "observacao": "Com decimais gerais, « virgule » é a forma padrão.",
+      "audio_text": "On a trente virgule cinq litres."
+    },
+    {
+      "frase_fr": "Nous sommes le premier janvier 2026.",
+      "traducao_pt": "Estamos em 1º de janeiro de 2026.",
+      "ipa": "/nu sɔm lə- pʁəmje ʒɑ̃vje dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le premier janvier 2026."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le deux février 2026.",
+      "traducao_pt": "Minha consulta é em 2 de fevereiro de 2026.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- dø fevʁie dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le deux février 2026."
+    },
+    {
+      "frase_fr": "Le cours commence le trois mars 2026.",
+      "traducao_pt": "O curso começa em 3 de março de 2026.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- tʁwa maʁs dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le trois mars 2026."
+    },
+    {
+      "frase_fr": "Je pars le quatre avril 2026.",
+      "traducao_pt": "Eu parto em 4 de abril de 2026.",
+      "ipa": "/ʒə- paʁ lə- katʁ avʁil dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le quatre avril 2026."
+    },
+    {
+      "frase_fr": "La fête est le cinq mai 2026.",
+      "traducao_pt": "A festa é em 5 de maio de 2026.",
+      "ipa": "/la- fɛt ɛ lə- sɛ̃k mɛ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le cinq mai 2026."
+    },
+    {
+      "frase_fr": "Nous sommes le six juin 2026.",
+      "traducao_pt": "Estamos em 6 de junho de 2026.",
+      "ipa": "/nu sɔm lə- si ʒyɛ̃ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le six juin 2026."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le sept juillet 2026.",
+      "traducao_pt": "Minha consulta é em 7 de julho de 2026.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- sɛt ʒyijɛ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le sept juillet 2026."
+    },
+    {
+      "frase_fr": "Le cours commence le huit août 2026.",
+      "traducao_pt": "O curso começa em 8 de agosto de 2026.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- yit ut dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le huit août 2026."
+    },
+    {
+      "frase_fr": "Je pars le neuf septembre 2026.",
+      "traducao_pt": "Eu parto em 9 de setembro de 2026.",
+      "ipa": "/ʒə- paʁ lə- nœf sɛptɑ̃bʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le neuf septembre 2026."
+    },
+    {
+      "frase_fr": "La fête est le dix octobre 2026.",
+      "traducao_pt": "A festa é em 10 de outubro de 2026.",
+      "ipa": "/la- fɛt ɛ lə- diz ɔktɔbʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le dix octobre 2026."
+    },
+    {
+      "frase_fr": "Nous sommes le onze novembre 2026.",
+      "traducao_pt": "Estamos em 11 de novembro de 2026.",
+      "ipa": "/nu sɔm lə- ɔ̃z nɔvɑ̃bʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le onze novembre 2026."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le douze décembre 2026.",
+      "traducao_pt": "Minha consulta é em 12 de dezembro de 2026.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- duz desɑ̃bʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le douze décembre 2026."
+    },
+    {
+      "frase_fr": "Le cours commence le quatorze février 2026.",
+      "traducao_pt": "O curso começa em 14 de fevereiro de 2026.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- kwatɔʁz fevʁie dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le quatorze février 2026."
+    },
+    {
+      "frase_fr": "Je pars le vingt et un mars 2026.",
+      "traducao_pt": "Eu parto em 21 de março de 2026.",
+      "ipa": "/ʒə- paʁ lə- vɛ̃t e œ̃ maʁs dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le vingt et un mars 2026."
+    },
+    {
+      "frase_fr": "La fête est le trente avril 2026.",
+      "traducao_pt": "A festa é em 30 de abril de 2026.",
+      "ipa": "/la- fɛt ɛ lə- tʁɑ̃t avʁil dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le trente avril 2026."
+    },
+    {
+      "frase_fr": "Nous sommes le premier mai 2026.",
+      "traducao_pt": "Estamos em 1º de maio de 2026.",
+      "ipa": "/nu sɔm lə- pʁəmje mɛ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le premier mai 2026."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le huit mai 2026.",
+      "traducao_pt": "Minha consulta é em 8 de maio de 2026.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- yi mɛ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le huit mai 2026."
+    },
+    {
+      "frase_fr": "Le cours commence le quatorze juillet 2026.",
+      "traducao_pt": "O curso começa em 14 de julho de 2026.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- kwatɔʁz ʒyijɛ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le quatorze juillet 2026."
+    },
+    {
+      "frase_fr": "Je pars le quinze août 2026.",
+      "traducao_pt": "Eu parto em 15 de agosto de 2026.",
+      "ipa": "/ʒə- paʁ lə- kɛ̃z ut dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le quinze août 2026."
+    },
+    {
+      "frase_fr": "La fête est le premier septembre 2026.",
+      "traducao_pt": "A festa é em 1º de setembro de 2026.",
+      "ipa": "/la- fɛt ɛ lə- pʁəmje sɛptɑ̃bʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le premier septembre 2026."
+    },
+    {
+      "frase_fr": "Nous sommes le trente et un octobre 2026.",
+      "traducao_pt": "Estamos em 31 de outubro de 2026.",
+      "ipa": "/nu sɔm lə- tʁɑ̃t e œ̃n ɔktɔbʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le trente et un octobre 2026."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le onze novembre 2026.",
+      "traducao_pt": "Minha consulta é em 11 de novembro de 2026.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- ɔ̃z nɔvɑ̃bʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le onze novembre 2026."
+    },
+    {
+      "frase_fr": "Le cours commence le vingt-quatre décembre 2026.",
+      "traducao_pt": "O curso começa em 24 de dezembro de 2026.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- vɛ̃tkatʁ desɑ̃bʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le vingt-quatre décembre 2026."
+    },
+    {
+      "frase_fr": "Je pars le vingt-cinq décembre 2026.",
+      "traducao_pt": "Eu parto em 25 de dezembro de 2026.",
+      "ipa": "/ʒə- paʁ lə- vɛ̃tsɛ̃k desɑ̃bʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le vingt-cinq décembre 2026."
+    },
+    {
+      "frase_fr": "La fête est le trente et un décembre 2026.",
+      "traducao_pt": "A festa é em 31 de dezembro de 2026.",
+      "ipa": "/la- fɛt ɛ lə- tʁɑ̃t e œ̃ desɑ̃bʁ dø mil vɛ̃tsis/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le trente et un décembre 2026."
+    },
+    {
+      "frase_fr": "Nous sommes le cinq janvier 2025.",
+      "traducao_pt": "Estamos em 5 de janeiro de 2025.",
+      "ipa": "/nu sɔm lə- sɛ̃k ʒɑ̃vje dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le cinq janvier 2025."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le douze février 2025.",
+      "traducao_pt": "Minha consulta é em 12 de fevereiro de 2025.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- duz fevʁie dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le douze février 2025."
+    },
+    {
+      "frase_fr": "Le cours commence le dix-huit mars 2025.",
+      "traducao_pt": "O curso começa em 18 de março de 2025.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- dizyi maʁs dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le dix-huit mars 2025."
+    },
+    {
+      "frase_fr": "Je pars le vingt-deux avril 2025.",
+      "traducao_pt": "Eu parto em 22 de abril de 2025.",
+      "ipa": "/ʒə- paʁ lə- vɛ̃tdøz avʁil dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le vingt-deux avril 2025."
+    },
+    {
+      "frase_fr": "La fête est le neuf mai 2025.",
+      "traducao_pt": "A festa é em 9 de maio de 2025.",
+      "ipa": "/la- fɛt ɛ lə- nœf mɛ dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le neuf mai 2025."
+    },
+    {
+      "frase_fr": "Nous sommes le seize juin 2025.",
+      "traducao_pt": "Estamos em 16 de junho de 2025.",
+      "ipa": "/nu sɔm lə- sɛz ʒyɛ̃ dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le seize juin 2025."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le vingt juillet 2025.",
+      "traducao_pt": "Minha consulta é em 20 de julho de 2025.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- vɛ̃ ʒyijɛ dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le vingt juillet 2025."
+    },
+    {
+      "frase_fr": "Le cours commence le trois août 2025.",
+      "traducao_pt": "O curso começa em 3 de agosto de 2025.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- tʁwaz ut dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le trois août 2025."
+    },
+    {
+      "frase_fr": "Je pars le dix-sept septembre 2025.",
+      "traducao_pt": "Eu parto em 17 de setembro de 2025.",
+      "ipa": "/ʒə- paʁ lə- disɛt sɛptɑ̃bʁ dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le dix-sept septembre 2025."
+    },
+    {
+      "frase_fr": "La fête est le vingt-huit octobre 2025.",
+      "traducao_pt": "A festa é em 28 de outubro de 2025.",
+      "ipa": "/la- fɛt ɛ lə- vɛ̃tyit ɔktɔbʁ dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le vingt-huit octobre 2025."
+    },
+    {
+      "frase_fr": "Nous sommes le six novembre 2025.",
+      "traducao_pt": "Estamos em 6 de novembro de 2025.",
+      "ipa": "/nu sɔm lə- si nɔvɑ̃bʁ dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le six novembre 2025."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le dix-neuf décembre 2025.",
+      "traducao_pt": "Minha consulta é em 19 de dezembro de 2025.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- diznœf desɑ̃bʁ dø mil vɛ̃tsɛ̃k/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le dix-neuf décembre 2025."
+    },
+    {
+      "frase_fr": "Le cours commence le premier janvier 2024.",
+      "traducao_pt": "O curso começa em 1º de janeiro de 2024.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- pʁəmje ʒɑ̃vje dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le premier janvier 2024."
+    },
+    {
+      "frase_fr": "Je pars le vingt-neuf février 2024.",
+      "traducao_pt": "Eu parto em 29 de fevereiro de 2024.",
+      "ipa": "/ʒə- paʁ lə- vɛ̃tnœf fevʁie dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le vingt-neuf février 2024."
+    },
+    {
+      "frase_fr": "La fête est le dix mars 2024.",
+      "traducao_pt": "A festa é em 10 de março de 2024.",
+      "ipa": "/la- fɛt ɛ lə- di maʁs dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le dix mars 2024."
+    },
+    {
+      "frase_fr": "Nous sommes le vingt-cinq avril 2024.",
+      "traducao_pt": "Estamos em 25 de abril de 2024.",
+      "ipa": "/nu sɔm lə- vɛ̃tsɛ̃k avʁil dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le vingt-cinq avril 2024."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le sept mai 2024.",
+      "traducao_pt": "Minha consulta é em 7 de maio de 2024.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- sɛt mɛ dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le sept mai 2024."
+    },
+    {
+      "frase_fr": "Le cours commence le dix-huit juin 2024.",
+      "traducao_pt": "O curso começa em 18 de junho de 2024.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- dizyi ʒyɛ̃ dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le dix-huit juin 2024."
+    },
+    {
+      "frase_fr": "Je pars le vingt-sept juillet 2024.",
+      "traducao_pt": "Eu parto em 27 de julho de 2024.",
+      "ipa": "/ʒə- paʁ lə- vɛ̃tsɛt ʒyijɛ dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le vingt-sept juillet 2024."
+    },
+    {
+      "frase_fr": "La fête est le quatre août 2024.",
+      "traducao_pt": "A festa é em 4 de agosto de 2024.",
+      "ipa": "/la- fɛt ɛ lə- katʁ ut dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le quatre août 2024."
+    },
+    {
+      "frase_fr": "Nous sommes le treize septembre 2024.",
+      "traducao_pt": "Estamos em 13 de setembro de 2024.",
+      "ipa": "/nu sɔm lə- tʁɛz sɛptɑ̃bʁ dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Nous sommes le treize septembre 2024."
+    },
+    {
+      "frase_fr": "Mon rendez-vous est le vingt-deux octobre 2024.",
+      "traducao_pt": "Minha consulta é em 22 de outubro de 2024.",
+      "ipa": "/mɔ̃ ʁɑ̃devuz ɛ lə- vɛ̃tdøz ɔktɔbʁ dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Mon rendez-vous est le vingt-deux octobre 2024."
+    },
+    {
+      "frase_fr": "Le cours commence le cinq novembre 2024.",
+      "traducao_pt": "O curso começa em 5 de novembro de 2024.",
+      "ipa": "/lə- kuʁ kɔmɑ̃s lə- sɛ̃k nɔvɑ̃bʁ dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Le cours commence le cinq novembre 2024."
+    },
+    {
+      "frase_fr": "Je pars le seize décembre 2024.",
+      "traducao_pt": "Eu parto em 16 de dezembro de 2024.",
+      "ipa": "/ʒə- paʁ lə- sɛz desɑ̃bʁ dø mil vɛ̃tkatʁ/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "Je pars le seize décembre 2024."
+    },
+    {
+      "frase_fr": "La fête est le deux janvier 2027.",
+      "traducao_pt": "A festa é em 2 de janeiro de 2027.",
+      "ipa": "/la- fɛt ɛ lə- dø ʒɑ̃vje dø mil vɛ̃tsɛt/",
+      "observacao": "Com datas, usa-se « le » antes do dia.",
+      "audio_text": "La fête est le deux janvier 2027."
+    }
+  ]
+}

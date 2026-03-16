@@ -11,6 +11,7 @@ from .builder import build_package, prepare_notes
 from .config import AppPaths
 from .models import DeckInput
 from .utils import configure_logging, get_logger, load_json
+from .voice_discovery import discover_voices
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -46,9 +47,16 @@ def main(argv: list[str] | None = None) -> int:
     log_path = configure_logging(paths.logs_dir)
     logger = get_logger()
 
+    logger.info("Descobrindo vozes disponiveis via edge-tts...")
+    voice_catalog = discover_voices()
+    logger.info("Voices descobertas: FR-FR=%d, FR-Extended=%d, FR-CA=%d",
+                len(voice_catalog.fr_fr_voices),
+                len(voice_catalog.fr_extended_voices),
+                len(voice_catalog.fr_ca_voices))
+
     logger.info("Carregando entrada JSON de %s", args.input)
     payload = load_json(args.input.resolve())
-    deck_input = DeckInput.from_dict(payload)
+    deck_input = DeckInput.from_dict(payload, voice_catalog)
 
     if not deck_input.notes:
         logger.error("Nenhuma nota foi encontrada no JSON informado.")

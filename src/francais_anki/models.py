@@ -4,31 +4,44 @@ from dataclasses import dataclass, field
 from typing import Any
 
 from .config import DEFAULT_BASE_DECK
+from .voice_discovery import VoiceCatalog, VoiceWeights, discover_voices
 
 
 @dataclass(slots=True)
 class VoiceOptions:
-    male_voices: list[str] = field(
-        default_factory=lambda: [
-            "fr-FR-HenriNeural",
-            "fr-FR-RemyMultilingualNeural",
-        ]
-    )
-    female_voices: list[str] = field(
-        default_factory=lambda: [
-            "fr-FR-DeniseNeural",
-            "fr-FR-VivienneMultilingualNeural",
-        ]
-    )
+    # When a catalog is provided, voices are selected dynamically per phrase
+    # based on configured weights.
+    catalog: VoiceCatalog | None = None
+    weights: VoiceWeights = field(default_factory=VoiceWeights)
+    # Used when no catalog is available.
+    male_voices: list[str] = field(default_factory=list)
+    female_voices: list[str] = field(default_factory=list)
     normal_rate: str = "+0%"
     slow_rate: str = "-12%"
 
     @classmethod
-    def from_dict(cls, payload: dict[str, Any] | None) -> "VoiceOptions":
+    def from_dict(cls, payload: dict[str, Any] | None, catalog: VoiceCatalog | None = None) -> "VoiceOptions":
         payload = payload or {}
+        weights = VoiceWeights(
+            fr_fr=payload.get("fr_fr_weight", 0.8),
+            fr_extended=payload.get("fr_extended_weight", 0.2),
+            fr_ca=payload.get("fr_ca_weight", 0.0),
+        )
+
+        if catalog:
+            return cls(
+                catalog=catalog,
+                weights=weights,
+                normal_rate=str(payload.get("normal_rate", cls().normal_rate)),
+                slow_rate=str(payload.get("slow_rate", cls().slow_rate)),
+            )
+
+        male_voices = list(payload.get("male_voices") or ["fr-FR-HenriNeural", "fr-FR-RemyMultilingualNeural"])
+        female_voices = list(payload.get("female_voices") or ["fr-FR-DeniseNeural", "fr-FR-VivienneMultilingualNeural"])
         return cls(
-            male_voices=list(payload.get("male_voices") or cls().male_voices),
-            female_voices=list(payload.get("female_voices") or cls().female_voices),
+            weights=weights,
+            male_voices=male_voices,
+            female_voices=female_voices,
             normal_rate=str(payload.get("normal_rate", cls().normal_rate)),
             slow_rate=str(payload.get("slow_rate", cls().slow_rate)),
         )
@@ -72,7 +85,7 @@ class DeckInput:
         return ["alliance-francaise", self.level_tag, self.theme_tag]
 
     @classmethod
-    def from_dict(cls, payload: dict[str, Any]) -> "DeckInput":
+    def from_dict(cls, payload: dict[str, Any], voice_catalog: VoiceCatalog | None = None) -> "DeckInput":
         notes = [InputNote.from_dict(item) for item in payload.get("notes", [])]
         return cls(
             deck_name=str(payload.get("deck_name") or DEFAULT_BASE_DECK).strip(),
@@ -80,7 +93,7 @@ class DeckInput:
             level_tag=str(payload["level_tag"]).strip(),
             theme_tag=str(payload["theme_tag"]).strip(),
             notes=notes,
-            voice_options=VoiceOptions.from_dict(payload.get("voice_options")),
+            voice_options=VoiceOptions.from_dict(payload.get("voice_options"), voice_catalog),
         )
 
 
