@@ -10,6 +10,7 @@ src/francais_anki/cli.py
 src/francais_anki/config.py
 src/francais_anki/models.py
 src/francais_anki/utils.py
+src/francais_anki/voice_discovery.py
 src/francais_anki.egg-info/PKG-INFO
 src/francais_anki.egg-info/SOURCES.txt
 src/francais_anki.egg-info/dependency_links.txt

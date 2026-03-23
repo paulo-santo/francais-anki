@@ -1,0 +1,715 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "Nombres_dictation_inverse",
+  "level_tag": "A1",
+  "theme_tag": "numeros_dictation",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "un",
+      "traducao_pt": "un",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "un"
+    },
+    {
+      "frase_fr": "deux",
+      "traducao_pt": "deux",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "deux"
+    },
+    {
+      "frase_fr": "trois",
+      "traducao_pt": "trois",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "trois"
+    },
+    {
+      "frase_fr": "quatre",
+      "traducao_pt": "quatre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre"
+    },
+    {
+      "frase_fr": "cinq",
+      "traducao_pt": "cinq",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "cinq"
+    },
+    {
+      "frase_fr": "six",
+      "traducao_pt": "six",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "six"
+    },
+    {
+      "frase_fr": "sept",
+      "traducao_pt": "sept",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "sept"
+    },
+    {
+      "frase_fr": "huit",
+      "traducao_pt": "huit",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "huit"
+    },
+    {
+      "frase_fr": "neuf",
+      "traducao_pt": "neuf",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "neuf"
+    },
+    {
+      "frase_fr": "dix",
+      "traducao_pt": "dix",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "dix"
+    },
+    {
+      "frase_fr": "onze",
+      "traducao_pt": "onze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "onze"
+    },
+    {
+      "frase_fr": "douze",
+      "traducao_pt": "douze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "douze"
+    },
+    {
+      "frase_fr": "treize",
+      "traducao_pt": "treize",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "treize"
+    },
+    {
+      "frase_fr": "quatorze",
+      "traducao_pt": "quatorze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatorze"
+    },
+    {
+      "frase_fr": "quinze",
+      "traducao_pt": "quinze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quinze"
+    },
+    {
+      "frase_fr": "seize",
+      "traducao_pt": "seize",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "seize"
+    },
+    {
+      "frase_fr": "dix-sept",
+      "traducao_pt": "dix-sept",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "dix-sept"
+    },
+    {
+      "frase_fr": "dix-huit",
+      "traducao_pt": "dix-huit",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "dix-huit"
+    },
+    {
+      "frase_fr": "dix-neuf",
+      "traducao_pt": "dix-neuf",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "dix-neuf"
+    },
+    {
+      "frase_fr": "vingt",
+      "traducao_pt": "vingt",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "vingt"
+    },
+    {
+      "frase_fr": "18 août",
+      "traducao_pt": "18 août",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "18 août"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize",
+      "traducao_pt": "quatre-vingt-treize",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-treize"
+    },
+    {
+      "frase_fr": "23 février",
+      "traducao_pt": "23 février",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "23 février"
+    },
+    {
+      "frase_fr": "quatre-vingt-onze",
+      "traducao_pt": "quatre-vingt-onze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-onze"
+    },
+    {
+      "frase_fr": "soixante-douze",
+      "traducao_pt": "soixante-douze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-douze"
+    },
+    {
+      "frase_fr": "soixante-treize",
+      "traducao_pt": "soixante-treize",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-treize"
+    },
+    {
+      "frase_fr": "quatre-vingt-quinze",
+      "traducao_pt": "quatre-vingt-quinze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-quinze"
+    },
+    {
+      "frase_fr": "24,08 €",
+      "traducao_pt": "24 euros 8",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "24 euros 8"
+    },
+    {
+      "frase_fr": "49,23 €",
+      "traducao_pt": "49 euros 23",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "49 euros 23"
+    },
+    {
+      "frase_fr": "22 mars",
+      "traducao_pt": "22 mars",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "22 mars"
+    },
+    {
+      "frase_fr": "soixante-douze",
+      "traducao_pt": "soixante-douze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-douze"
+    },
+    {
+      "frase_fr": "18,80 €",
+      "traducao_pt": "18 euros 80",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "18 euros 80"
+    },
+    {
+      "frase_fr": "20 septembre",
+      "traducao_pt": "20 septembre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "20 septembre"
+    },
+    {
+      "frase_fr": "soixante-dix",
+      "traducao_pt": "soixante-dix",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-dix"
+    },
+    {
+      "frase_fr": "quatre-vingt-deux",
+      "traducao_pt": "quatre-vingt-deux",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-deux"
+    },
+    {
+      "frase_fr": "soixante-dix-neuf",
+      "traducao_pt": "soixante-dix-neuf",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-dix-neuf"
+    },
+    {
+      "frase_fr": "10 juin",
+      "traducao_pt": "10 juin",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "10 juin"
+    },
+    {
+      "frase_fr": "4 septembre",
+      "traducao_pt": "4 septembre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "4 septembre"
+    },
+    {
+      "frase_fr": "3,26 €",
+      "traducao_pt": "3 euros 26",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "3 euros 26"
+    },
+    {
+      "frase_fr": "48,57 €",
+      "traducao_pt": "48 euros 57",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "48 euros 57"
+    },
+    {
+      "frase_fr": "28 février",
+      "traducao_pt": "28 février",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "28 février"
+    },
+    {
+      "frase_fr": "9 juin",
+      "traducao_pt": "9 juin",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "9 juin"
+    },
+    {
+      "frase_fr": "37,98 €",
+      "traducao_pt": "37 euros 98",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "37 euros 98"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix",
+      "traducao_pt": "quatre-vingt-dix",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-dix"
+    },
+    {
+      "frase_fr": "8,67 €",
+      "traducao_pt": "8 euros 67",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "8 euros 67"
+    },
+    {
+      "frase_fr": "13 mai",
+      "traducao_pt": "13 mai",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "13 mai"
+    },
+    {
+      "frase_fr": "34,70 €",
+      "traducao_pt": "34 euros 70",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "34 euros 70"
+    },
+    {
+      "frase_fr": "13,54 €",
+      "traducao_pt": "13 euros 54",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "13 euros 54"
+    },
+    {
+      "frase_fr": "1,42 €",
+      "traducao_pt": "1 euros 42",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "1 euros 42"
+    },
+    {
+      "frase_fr": "2 avril",
+      "traducao_pt": "2 avril",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "2 avril"
+    },
+    {
+      "frase_fr": "quatre-vingt-trois",
+      "traducao_pt": "quatre-vingt-trois",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-trois"
+    },
+    {
+      "frase_fr": "18 décembre",
+      "traducao_pt": "18 décembre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "18 décembre"
+    },
+    {
+      "frase_fr": "soixante-treize",
+      "traducao_pt": "soixante-treize",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-treize"
+    },
+    {
+      "frase_fr": "quatre-vingt-six",
+      "traducao_pt": "quatre-vingt-six",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-six"
+    },
+    {
+      "frase_fr": "9 août",
+      "traducao_pt": "9 août",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "9 août"
+    },
+    {
+      "frase_fr": "26 janvier",
+      "traducao_pt": "26 janvier",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "26 janvier"
+    },
+    {
+      "frase_fr": "quatre-vingt-six",
+      "traducao_pt": "quatre-vingt-six",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-six"
+    },
+    {
+      "frase_fr": "soixante-dix-neuf",
+      "traducao_pt": "soixante-dix-neuf",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-dix-neuf"
+    },
+    {
+      "frase_fr": "1,54 €",
+      "traducao_pt": "1 euros 54",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "1 euros 54"
+    },
+    {
+      "frase_fr": "6,16 €",
+      "traducao_pt": "6 euros 16",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "6 euros 16"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-huit",
+      "traducao_pt": "quatre-vingt-dix-huit",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-dix-huit"
+    },
+    {
+      "frase_fr": "16 décembre",
+      "traducao_pt": "16 décembre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "16 décembre"
+    },
+    {
+      "frase_fr": "48,86 €",
+      "traducao_pt": "48 euros 86",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "48 euros 86"
+    },
+    {
+      "frase_fr": "2 mai",
+      "traducao_pt": "2 mai",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "2 mai"
+    },
+    {
+      "frase_fr": "11 février",
+      "traducao_pt": "11 février",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "11 février"
+    },
+    {
+      "frase_fr": "42,51 €",
+      "traducao_pt": "42 euros 51",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "42 euros 51"
+    },
+    {
+      "frase_fr": "3,73 €",
+      "traducao_pt": "3 euros 73",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "3 euros 73"
+    },
+    {
+      "frase_fr": "quatre-vingt-six",
+      "traducao_pt": "quatre-vingt-six",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-six"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-huit",
+      "traducao_pt": "quatre-vingt-dix-huit",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-dix-huit"
+    },
+    {
+      "frase_fr": "4 octobre",
+      "traducao_pt": "4 octobre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "4 octobre"
+    },
+    {
+      "frase_fr": "49,58 €",
+      "traducao_pt": "49 euros 58",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "49 euros 58"
+    },
+    {
+      "frase_fr": "18,09 €",
+      "traducao_pt": "18 euros 9",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "18 euros 9"
+    },
+    {
+      "frase_fr": "4 mars",
+      "traducao_pt": "4 mars",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "4 mars"
+    },
+    {
+      "frase_fr": "soixante-dix",
+      "traducao_pt": "soixante-dix",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-dix"
+    },
+    {
+      "frase_fr": "25 août",
+      "traducao_pt": "25 août",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "25 août"
+    },
+    {
+      "frase_fr": "14 novembre",
+      "traducao_pt": "14 novembre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "14 novembre"
+    },
+    {
+      "frase_fr": "quatre-vingt-trois",
+      "traducao_pt": "quatre-vingt-trois",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-trois"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-neuf",
+      "traducao_pt": "quatre-vingt-dix-neuf",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-dix-neuf"
+    },
+    {
+      "frase_fr": "12 janvier",
+      "traducao_pt": "12 janvier",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "12 janvier"
+    },
+    {
+      "frase_fr": "soixante-treize",
+      "traducao_pt": "soixante-treize",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "soixante-treize"
+    },
+    {
+      "frase_fr": "28 mai",
+      "traducao_pt": "28 mai",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "28 mai"
+    },
+    {
+      "frase_fr": "quatre-vingt-onze",
+      "traducao_pt": "quatre-vingt-onze",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-onze"
+    },
+    {
+      "frase_fr": "quatre-vingt-quatre",
+      "traducao_pt": "quatre-vingt-quatre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-quatre"
+    },
+    {
+      "frase_fr": "36,11 €",
+      "traducao_pt": "36 euros 11",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "36 euros 11"
+    },
+    {
+      "frase_fr": "16 octobre",
+      "traducao_pt": "16 octobre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "16 octobre"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize",
+      "traducao_pt": "quatre-vingt-treize",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-treize"
+    },
+    {
+      "frase_fr": "2 avril",
+      "traducao_pt": "2 avril",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "2 avril"
+    },
+    {
+      "frase_fr": "19 septembre",
+      "traducao_pt": "19 septembre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "19 septembre"
+    },
+    {
+      "frase_fr": "15 novembre",
+      "traducao_pt": "15 novembre",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "15 novembre"
+    },
+    {
+      "frase_fr": "quatre-vingt-huit",
+      "traducao_pt": "quatre-vingt-huit",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-huit"
+    },
+    {
+      "frase_fr": "quatre-vingts",
+      "traducao_pt": "quatre-vingts",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingts"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-huit",
+      "traducao_pt": "quatre-vingt-dix-huit",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-dix-huit"
+    },
+    {
+      "frase_fr": "43,29 €",
+      "traducao_pt": "43 euros 29",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "43 euros 29"
+    },
+    {
+      "frase_fr": "34,29 €",
+      "traducao_pt": "34 euros 29",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "34 euros 29"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-neuf",
+      "traducao_pt": "quatre-vingt-dix-neuf",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-dix-neuf"
+    },
+    {
+      "frase_fr": "quatre-vingt-huit",
+      "traducao_pt": "quatre-vingt-huit",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "quatre-vingt-huit"
+    },
+    {
+      "frase_fr": "25 mai",
+      "traducao_pt": "25 mai",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "25 mai"
+    },
+    {
+      "frase_fr": "28 mai",
+      "traducao_pt": "28 mai",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "28 mai"
+    },
+    {
+      "frase_fr": "18,87 €",
+      "traducao_pt": "18 euros 87",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "18 euros 87"
+    },
+    {
+      "frase_fr": "1,35 €",
+      "traducao_pt": "1 euros 35",
+      "ipa": "",
+      "observacao": "ditado reverso",
+      "audio_text": "1 euros 35"
+    }
+  ]
+}

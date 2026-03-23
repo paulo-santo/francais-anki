@@ -6,3 +6,17 @@ output/apkg/
 output/logs/
 output/media/
 !output/.gitkeep
+*.egg-info/
+uv.lock
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.env
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/

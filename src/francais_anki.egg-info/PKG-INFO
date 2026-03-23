@@ -1,7 +1,7 @@
 Metadata-Version: 2.4
 Name: francais-anki
 Version: 0.1.0
-Summary: Gera decks do Anki para frases em frances com audio, IPA e integracao opcional com AnkiConnect.
+Summary: Gera decks do Anki para frases em francês com áudio, IPA e integração opcional com AnkiConnect.
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
 Requires-Dist: edge-tts>=7.2.0
@@ -21,6 +21,7 @@ Automacao em Python para gerar decks `.apkg` do Anki com foco em pronuncia e com
 - `src/francais_anki/cli.py`: ponto de entrada da aplicacao.
 - `src/francais_anki/models.py`: modelos de dados do JSON de entrada.
 - `src/francais_anki/audio.py`: selecao de vozes, sintese TTS e concatenacao final do audio.
+- `src/francais_anki/voice_discovery.py`: descoberta dinamica de vozes via edge-tts e classificacao por regioes.
 - `src/francais_anki/anki_model.py`: note type, templates e CSS do Anki.
 - `src/francais_anki/builder.py`: cria o deck/subdeck, gera as notas e escreve o `.apkg`.
 - `src/francais_anki/anki_connect.py`: cria modelo/deck no Anki, envia midia e cria/atualiza notas quando o AnkiConnect estiver disponivel.
@@ -28,14 +29,15 @@ Automacao em Python para gerar decks `.apkg` do Anki com foco em pronuncia e com
 
 ### Fluxo ponta a ponta
 
-1. O CLI le o JSON e valida a estrutura basica.
-2. Cada frase recebe um GUID estavel a partir do texto em frances.
-3. O pipeline escolhe duas vozes `fr-FR` de forma deterministica por frase.
-4. O `edge-tts` gera duas locucoes: uma normal e outra um pouco mais lenta.
-5. O `pydub` concatena `Audio1 + 2s de pausa + Audio2` em um unico `.mp3`.
-6. O `genanki` cria 1 nota por frase e 2 cartas por nota, com midia embutida no `.apkg`.
-7. Depois da geracao do `.apkg`, a aplicacao tenta sincronizar com o Anki via AnkiConnect.
-8. Se o AnkiConnect nao estiver disponivel, a execucao termina com sucesso e apenas registra um aviso.
+1. O CLI descobre dinamicamente as vozes francesas disponiveis via `edge-tts`.
+2. O CLI le o JSON e valida a estrutura basica.
+3. Cada frase recebe um GUID estavel a partir do texto em frances.
+4. O pipeline escolhe duas vozes francesas de forma deterministica por frase, considerando pesos por regiao (FR-FR, FR-BE/CH, FR-CA).
+5. O `edge-tts` gera duas locucoes: uma normal e outra um pouco mais lenta.
+6. O `pydub` concatena `Audio1 + 2s de pausa + Audio2` em um unico `.mp3`.
+7. O `genanki` cria 1 nota por frase e 2 cartas por nota, com midia embutida no `.apkg`.
+8. Depois da geracao do `.apkg`, a aplicacao tenta sincronizar com o Anki via AnkiConnect.
+9. Se o AnkiConnect nao estiver disponivel, a execucao termina com sucesso e apenas registra um aviso.
 
 ### Estrategia de atualizacao
 
