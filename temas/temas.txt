@@ -1,0 +1,11 @@
+- alfabeto (pronúncia)
+- dias da semana
+- meses
+- datas completas
+- números ordinais 
+- email (., _ , -, @) (principais provedores)
+- conjugação avoir e être (presente) 
+- pronome + pronomes tônicos
+- interrogativo (comment, quand, qui, combien, où, que, quoi, qu'est-ce que, est ce que)
+- Quel, Quels, Quelle, Quelles
+- il y a

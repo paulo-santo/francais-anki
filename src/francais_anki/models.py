@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
+from enum import StrEnum
+import re
 from typing import Any
 
 from .config import DEFAULT_BASE_DECK
@@ -10,6 +12,32 @@ DEFAULT_MALE_VOICES = ["fr-FR-HenriNeural", "fr-FR-RemyMultilingualNeural"]
 DEFAULT_FEMALE_VOICES = ["fr-FR-DeniseNeural", "fr-FR-VivienneMultilingualNeural"]
 DEFAULT_NORMAL_RATE = "+0%"
 DEFAULT_SLOW_RATE = "-12%"
+FRENCH_UNITS = {
+    0: "zero",
+    1: "un",
+    2: "deux",
+    3: "trois",
+    4: "quatre",
+    5: "cinq",
+    6: "six",
+    7: "sept",
+    8: "huit",
+    9: "neuf",
+    10: "dix",
+    11: "onze",
+    12: "douze",
+    13: "treize",
+    14: "quatorze",
+    15: "quinze",
+    16: "seize",
+}
+TENS_WORDS = {
+    20: "vingt",
+    30: "trente",
+    40: "quarante",
+    50: "cinquante",
+    60: "soixante",
+}
 
 
 @dataclass(slots=True)
@@ -53,6 +81,83 @@ class VoiceOptions:
 
 
 @dataclass(slots=True)
+class TtsOptions:
+    connect_timeout: int = 10
+    receive_timeout: int = 60
+    retries: int = 2
+    final_retry_pass: bool = True
+
+
+def french_number_to_words(value: int) -> str:
+    if value < 0 or value > 9999:
+        raise ValueError(f"Numero fora do intervalo suportado: {value}")
+    if value < 17:
+        return FRENCH_UNITS[value]
+    if value < 20:
+        return f"dix-{FRENCH_UNITS[value - 10]}"
+    if value < 100:
+        return _french_below_hundred(value)
+    if value < 1000:
+        return _french_below_thousand(value)
+
+    thousands, remainder = divmod(value, 1000)
+    if thousands == 1:
+        prefix = "mille"
+    else:
+        prefix = f"{french_number_to_words(thousands)} mille"
+
+    if remainder == 0:
+        return prefix
+    return f"{prefix} {french_number_to_words(remainder)}"
+
+
+def normalize_french_audio_text(text: str) -> str:
+    normalized = text.strip()
+    if not re.fullmatch(r"\d+", normalized):
+        return normalized
+
+    try:
+        return french_number_to_words(int(normalized))
+    except ValueError:
+        return normalized
+
+
+def _french_below_hundred(value: int) -> str:
+    if value < 17:
+        return FRENCH_UNITS[value]
+    if value < 20:
+        return f"dix-{FRENCH_UNITS[value - 10]}"
+    if value < 70:
+        tens = (value // 10) * 10
+        unit = value % 10
+        tens_word = TENS_WORDS[tens]
+        if unit == 0:
+            return tens_word
+        if unit == 1:
+            return f"{tens_word} et un"
+        return f"{tens_word}-{FRENCH_UNITS[unit]}"
+    if value < 80:
+        if value == 71:
+            return "soixante et onze"
+        return f"soixante-{_french_below_hundred(value - 60)}"
+    if value == 80:
+        return "quatre-vingts"
+    return f"quatre-vingt-{_french_below_hundred(value - 80)}"
+
+
+def _french_below_thousand(value: int) -> str:
+    hundreds, remainder = divmod(value, 100)
+    if hundreds == 1:
+        prefix = "cent"
+    else:
+        prefix = f"{FRENCH_UNITS[hundreds]} cent"
+
+    if remainder == 0:
+        return f"{prefix}s" if hundreds > 1 else prefix
+    return f"{prefix} {french_number_to_words(remainder)}"
+
+
+@dataclass(slots=True)
 class InputNote:
     frase_fr: str
     traducao_pt: str
@@ -62,12 +167,13 @@ class InputNote:
 
     @classmethod
     def from_dict(cls, payload: dict[str, Any]) -> "InputNote":
+        raw_audio_text = str(payload.get("audio_text") or payload["frase_fr"]).strip()
         return cls(
             frase_fr=str(payload["frase_fr"]).strip(),
             traducao_pt=str(payload.get("traducao_pt", "")).strip(),
             ipa=str(payload.get("ipa", "")).strip(),
             observacao=str(payload.get("observacao", "")).strip(),
-            audio_text=str(payload.get("audio_text") or payload["frase_fr"]).strip(),
+            audio_text=normalize_french_audio_text(raw_audio_text),
         )
 
 
@@ -109,3 +215,26 @@ class PreparedNote:
     audio_filename: str
     audio_field: str
     tags: list[str]
+
+
+@dataclass(slots=True)
+class NotePreparationFailure:
+    note: InputNote
+    attempted_voices: list[str]
+    error_message: str
+
+
+class RetryPassStatus(StrEnum):
+    ENABLED_AND_EXECUTED = "reprocessamento habilitado e executado"
+    ENABLED_NOT_NEEDED = "reprocessamento habilitado, mas nao foi necessario"
+    DISABLED = "reprocessamento desabilitado"
+
+
+@dataclass(slots=True)
+class PrepareNotesResult:
+    prepared_notes: list[PreparedNote]
+    total_notes: int = 0
+    first_pass_successes: int = 0
+    recovered_on_retry: int = 0
+    retry_pass_status: RetryPassStatus = RetryPassStatus.ENABLED_NOT_NEEDED
+    failed_notes: list[NotePreparationFailure] = field(default_factory=list)
