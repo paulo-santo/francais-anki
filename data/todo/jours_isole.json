@@ -1,0 +1,64 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "jours_isole",
+  "level_tag": "A1",
+  "theme_tag": "jours_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "lundi",
+      "traducao_pt": "lundi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "lundi"
+    },
+    {
+      "frase_fr": "mardi",
+      "traducao_pt": "mardi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "mardi"
+    },
+    {
+      "frase_fr": "mercredi",
+      "traducao_pt": "mercredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "mercredi"
+    },
+    {
+      "frase_fr": "jeudi",
+      "traducao_pt": "jeudi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "jeudi"
+    },
+    {
+      "frase_fr": "vendredi",
+      "traducao_pt": "vendredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vendredi"
+    },
+    {
+      "frase_fr": "samedi",
+      "traducao_pt": "samedi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "samedi"
+    },
+    {
+      "frase_fr": "dimanche",
+      "traducao_pt": "dimanche",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "dimanche"
+    }
+  ]
+}

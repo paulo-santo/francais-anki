@@ -1,0 +1,407 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "email_contexte",
+  "level_tag": "A1",
+  "theme_tag": "email_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "a . b",
+      "traducao_pt": "a . b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a . b"
+    },
+    {
+      "frase_fr": "a _ b",
+      "traducao_pt": "a _ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a _ b"
+    },
+    {
+      "frase_fr": "a - b",
+      "traducao_pt": "a - b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a - b"
+    },
+    {
+      "frase_fr": "a @ b",
+      "traducao_pt": "a @ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a @ b"
+    },
+    {
+      "frase_fr": "a gmail b",
+      "traducao_pt": "a gmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a gmail b"
+    },
+    {
+      "frase_fr": "a yahoo b",
+      "traducao_pt": "a yahoo b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a yahoo b"
+    },
+    {
+      "frase_fr": "a hotmail b",
+      "traducao_pt": "a hotmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a hotmail b"
+    },
+    {
+      "frase_fr": "a . b",
+      "traducao_pt": "a . b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a . b"
+    },
+    {
+      "frase_fr": "a _ b",
+      "traducao_pt": "a _ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a _ b"
+    },
+    {
+      "frase_fr": "a - b",
+      "traducao_pt": "a - b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a - b"
+    },
+    {
+      "frase_fr": "a @ b",
+      "traducao_pt": "a @ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a @ b"
+    },
+    {
+      "frase_fr": "a gmail b",
+      "traducao_pt": "a gmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a gmail b"
+    },
+    {
+      "frase_fr": "a yahoo b",
+      "traducao_pt": "a yahoo b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a yahoo b"
+    },
+    {
+      "frase_fr": "a hotmail b",
+      "traducao_pt": "a hotmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a hotmail b"
+    },
+    {
+      "frase_fr": "a . b",
+      "traducao_pt": "a . b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a . b"
+    },
+    {
+      "frase_fr": "a _ b",
+      "traducao_pt": "a _ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a _ b"
+    },
+    {
+      "frase_fr": "a - b",
+      "traducao_pt": "a - b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a - b"
+    },
+    {
+      "frase_fr": "a @ b",
+      "traducao_pt": "a @ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a @ b"
+    },
+    {
+      "frase_fr": "a gmail b",
+      "traducao_pt": "a gmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a gmail b"
+    },
+    {
+      "frase_fr": "a yahoo b",
+      "traducao_pt": "a yahoo b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a yahoo b"
+    },
+    {
+      "frase_fr": "a hotmail b",
+      "traducao_pt": "a hotmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a hotmail b"
+    },
+    {
+      "frase_fr": "a . b",
+      "traducao_pt": "a . b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a . b"
+    },
+    {
+      "frase_fr": "a _ b",
+      "traducao_pt": "a _ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a _ b"
+    },
+    {
+      "frase_fr": "a - b",
+      "traducao_pt": "a - b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a - b"
+    },
+    {
+      "frase_fr": "a @ b",
+      "traducao_pt": "a @ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a @ b"
+    },
+    {
+      "frase_fr": "a gmail b",
+      "traducao_pt": "a gmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a gmail b"
+    },
+    {
+      "frase_fr": "a yahoo b",
+      "traducao_pt": "a yahoo b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a yahoo b"
+    },
+    {
+      "frase_fr": "a hotmail b",
+      "traducao_pt": "a hotmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a hotmail b"
+    },
+    {
+      "frase_fr": "a . b",
+      "traducao_pt": "a . b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a . b"
+    },
+    {
+      "frase_fr": "a _ b",
+      "traducao_pt": "a _ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a _ b"
+    },
+    {
+      "frase_fr": "a - b",
+      "traducao_pt": "a - b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a - b"
+    },
+    {
+      "frase_fr": "a @ b",
+      "traducao_pt": "a @ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a @ b"
+    },
+    {
+      "frase_fr": "a gmail b",
+      "traducao_pt": "a gmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a gmail b"
+    },
+    {
+      "frase_fr": "a yahoo b",
+      "traducao_pt": "a yahoo b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a yahoo b"
+    },
+    {
+      "frase_fr": "a hotmail b",
+      "traducao_pt": "a hotmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a hotmail b"
+    },
+    {
+      "frase_fr": "a . b",
+      "traducao_pt": "a . b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a . b"
+    },
+    {
+      "frase_fr": "a _ b",
+      "traducao_pt": "a _ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a _ b"
+    },
+    {
+      "frase_fr": "a - b",
+      "traducao_pt": "a - b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a - b"
+    },
+    {
+      "frase_fr": "a @ b",
+      "traducao_pt": "a @ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a @ b"
+    },
+    {
+      "frase_fr": "a gmail b",
+      "traducao_pt": "a gmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a gmail b"
+    },
+    {
+      "frase_fr": "a yahoo b",
+      "traducao_pt": "a yahoo b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a yahoo b"
+    },
+    {
+      "frase_fr": "a hotmail b",
+      "traducao_pt": "a hotmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a hotmail b"
+    },
+    {
+      "frase_fr": "a . b",
+      "traducao_pt": "a . b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a . b"
+    },
+    {
+      "frase_fr": "a _ b",
+      "traducao_pt": "a _ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a _ b"
+    },
+    {
+      "frase_fr": "a - b",
+      "traducao_pt": "a - b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a - b"
+    },
+    {
+      "frase_fr": "a @ b",
+      "traducao_pt": "a @ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a @ b"
+    },
+    {
+      "frase_fr": "a gmail b",
+      "traducao_pt": "a gmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a gmail b"
+    },
+    {
+      "frase_fr": "a yahoo b",
+      "traducao_pt": "a yahoo b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a yahoo b"
+    },
+    {
+      "frase_fr": "a hotmail b",
+      "traducao_pt": "a hotmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a hotmail b"
+    },
+    {
+      "frase_fr": "a . b",
+      "traducao_pt": "a . b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a . b"
+    },
+    {
+      "frase_fr": "a _ b",
+      "traducao_pt": "a _ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a _ b"
+    },
+    {
+      "frase_fr": "a - b",
+      "traducao_pt": "a - b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a - b"
+    },
+    {
+      "frase_fr": "a @ b",
+      "traducao_pt": "a @ b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a @ b"
+    },
+    {
+      "frase_fr": "a gmail b",
+      "traducao_pt": "a gmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a gmail b"
+    },
+    {
+      "frase_fr": "a yahoo b",
+      "traducao_pt": "a yahoo b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a yahoo b"
+    },
+    {
+      "frase_fr": "a hotmail b",
+      "traducao_pt": "a hotmail b",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "a hotmail b"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "email_isole",
+  "level_tag": "A1",
+  "theme_tag": "email_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": ".",
+      "traducao_pt": ".",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "."
+    },
+    {
+      "frase_fr": "_",
+      "traducao_pt": "_",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "_"
+    },
+    {
+      "frase_fr": "-",
+      "traducao_pt": "-",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "-"
+    },
+    {
+      "frase_fr": "@",
+      "traducao_pt": "@",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "@"
+    },
+    {
+      "frase_fr": "gmail",
+      "traducao_pt": "gmail",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "gmail"
+    },
+    {
+      "frase_fr": "yahoo",
+      "traducao_pt": "yahoo",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "yahoo"
+    },
+    {
+      "frase_fr": "hotmail",
+      "traducao_pt": "hotmail",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "hotmail"
+    }
+  ]
+}

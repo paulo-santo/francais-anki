@@ -17,3 +17,4 @@ src/francais_anki.egg-info/dependency_links.txt
 src/francais_anki.egg-info/entry_points.txt
 src/francais_anki.egg-info/requires.txt
 src/francais_anki.egg-info/top_level.txt
+tests/test_audio_resilience.py

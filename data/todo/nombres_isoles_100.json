@@ -1,0 +1,715 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "Nombres_isoles",
+  "level_tag": "A1",
+  "theme_tag": "numeros",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "un",
+      "traducao_pt": "un",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "un"
+    },
+    {
+      "frase_fr": "deux",
+      "traducao_pt": "deux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "deux"
+    },
+    {
+      "frase_fr": "trois",
+      "traducao_pt": "trois",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "trois"
+    },
+    {
+      "frase_fr": "quatre",
+      "traducao_pt": "quatre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre"
+    },
+    {
+      "frase_fr": "cinq",
+      "traducao_pt": "cinq",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "cinq"
+    },
+    {
+      "frase_fr": "six",
+      "traducao_pt": "six",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "six"
+    },
+    {
+      "frase_fr": "sept",
+      "traducao_pt": "sept",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "sept"
+    },
+    {
+      "frase_fr": "huit",
+      "traducao_pt": "huit",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "huit"
+    },
+    {
+      "frase_fr": "neuf",
+      "traducao_pt": "neuf",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "neuf"
+    },
+    {
+      "frase_fr": "dix",
+      "traducao_pt": "dix",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "dix"
+    },
+    {
+      "frase_fr": "84",
+      "traducao_pt": "84",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "84"
+    },
+    {
+      "frase_fr": "94",
+      "traducao_pt": "94",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "94"
+    },
+    {
+      "frase_fr": "57",
+      "traducao_pt": "57",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "57"
+    },
+    {
+      "frase_fr": "32",
+      "traducao_pt": "32",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "32"
+    },
+    {
+      "frase_fr": "31",
+      "traducao_pt": "31",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "31"
+    },
+    {
+      "frase_fr": "48",
+      "traducao_pt": "48",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "48"
+    },
+    {
+      "frase_fr": "35",
+      "traducao_pt": "35",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "35"
+    },
+    {
+      "frase_fr": "80",
+      "traducao_pt": "80",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "80"
+    },
+    {
+      "frase_fr": "87",
+      "traducao_pt": "87",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "87"
+    },
+    {
+      "frase_fr": "89",
+      "traducao_pt": "89",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "89"
+    },
+    {
+      "frase_fr": "57",
+      "traducao_pt": "57",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "57"
+    },
+    {
+      "frase_fr": "78",
+      "traducao_pt": "78",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "78"
+    },
+    {
+      "frase_fr": "24",
+      "traducao_pt": "24",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "24"
+    },
+    {
+      "frase_fr": "28",
+      "traducao_pt": "28",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "28"
+    },
+    {
+      "frase_fr": "48",
+      "traducao_pt": "48",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "48"
+    },
+    {
+      "frase_fr": "68",
+      "traducao_pt": "68",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "68"
+    },
+    {
+      "frase_fr": "97",
+      "traducao_pt": "97",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "97"
+    },
+    {
+      "frase_fr": "81",
+      "traducao_pt": "81",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "81"
+    },
+    {
+      "frase_fr": "23",
+      "traducao_pt": "23",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "23"
+    },
+    {
+      "frase_fr": "78",
+      "traducao_pt": "78",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "78"
+    },
+    {
+      "frase_fr": "85",
+      "traducao_pt": "85",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "85"
+    },
+    {
+      "frase_fr": "31",
+      "traducao_pt": "31",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "31"
+    },
+    {
+      "frase_fr": "65",
+      "traducao_pt": "65",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "65"
+    },
+    {
+      "frase_fr": "52",
+      "traducao_pt": "52",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "52"
+    },
+    {
+      "frase_fr": "57",
+      "traducao_pt": "57",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "57"
+    },
+    {
+      "frase_fr": "89",
+      "traducao_pt": "89",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "89"
+    },
+    {
+      "frase_fr": "75",
+      "traducao_pt": "75",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "75"
+    },
+    {
+      "frase_fr": "35",
+      "traducao_pt": "35",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "35"
+    },
+    {
+      "frase_fr": "48",
+      "traducao_pt": "48",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "48"
+    },
+    {
+      "frase_fr": "40",
+      "traducao_pt": "40",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "40"
+    },
+    {
+      "frase_fr": "47",
+      "traducao_pt": "47",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "47"
+    },
+    {
+      "frase_fr": "51",
+      "traducao_pt": "51",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "51"
+    },
+    {
+      "frase_fr": "27",
+      "traducao_pt": "27",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "27"
+    },
+    {
+      "frase_fr": "52",
+      "traducao_pt": "52",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "52"
+    },
+    {
+      "frase_fr": "49",
+      "traducao_pt": "49",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "49"
+    },
+    {
+      "frase_fr": "78",
+      "traducao_pt": "78",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "78"
+    },
+    {
+      "frase_fr": "76",
+      "traducao_pt": "76",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "76"
+    },
+    {
+      "frase_fr": "44",
+      "traducao_pt": "44",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "44"
+    },
+    {
+      "frase_fr": "21",
+      "traducao_pt": "21",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "21"
+    },
+    {
+      "frase_fr": "50",
+      "traducao_pt": "50",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "50"
+    },
+    {
+      "frase_fr": "7,72 €",
+      "traducao_pt": "7 euros e 72",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "7,72 €"
+    },
+    {
+      "frase_fr": "15,53 €",
+      "traducao_pt": "15 euros e 53",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "15,53 €"
+    },
+    {
+      "frase_fr": "7,91 €",
+      "traducao_pt": "7 euros e 91",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "7,91 €"
+    },
+    {
+      "frase_fr": "24,60 €",
+      "traducao_pt": "24 euros e 60",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "24,60 €"
+    },
+    {
+      "frase_fr": "12,18 €",
+      "traducao_pt": "12 euros e 18",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "12,18 €"
+    },
+    {
+      "frase_fr": "50,56 €",
+      "traducao_pt": "50 euros e 56",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "50,56 €"
+    },
+    {
+      "frase_fr": "8,19 €",
+      "traducao_pt": "8 euros e 19",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "8,19 €"
+    },
+    {
+      "frase_fr": "46,61 €",
+      "traducao_pt": "46 euros e 61",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "46,61 €"
+    },
+    {
+      "frase_fr": "44,69 €",
+      "traducao_pt": "44 euros e 69",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "44,69 €"
+    },
+    {
+      "frase_fr": "21,70 €",
+      "traducao_pt": "21 euros e 70",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "21,70 €"
+    },
+    {
+      "frase_fr": "11,33 €",
+      "traducao_pt": "11 euros e 33",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "11,33 €"
+    },
+    {
+      "frase_fr": "9,18 €",
+      "traducao_pt": "9 euros e 18",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "9,18 €"
+    },
+    {
+      "frase_fr": "16,85 €",
+      "traducao_pt": "16 euros e 85",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "16,85 €"
+    },
+    {
+      "frase_fr": "10,99 €",
+      "traducao_pt": "10 euros e 99",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "10,99 €"
+    },
+    {
+      "frase_fr": "37,59 €",
+      "traducao_pt": "37 euros e 59",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "37,59 €"
+    },
+    {
+      "frase_fr": "27,83 €",
+      "traducao_pt": "27 euros e 83",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "27,83 €"
+    },
+    {
+      "frase_fr": "24,79 €",
+      "traducao_pt": "24 euros e 79",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "24,79 €"
+    },
+    {
+      "frase_fr": "13,99 €",
+      "traducao_pt": "13 euros e 99",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "13,99 €"
+    },
+    {
+      "frase_fr": "47,29 €",
+      "traducao_pt": "47 euros e 29",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "47,29 €"
+    },
+    {
+      "frase_fr": "42,45 €",
+      "traducao_pt": "42 euros e 45",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "42,45 €"
+    },
+    {
+      "frase_fr": "31,95 €",
+      "traducao_pt": "31 euros e 95",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "31,95 €"
+    },
+    {
+      "frase_fr": "49,72 €",
+      "traducao_pt": "49 euros e 72",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "49,72 €"
+    },
+    {
+      "frase_fr": "31,96 €",
+      "traducao_pt": "31 euros e 96",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "31,96 €"
+    },
+    {
+      "frase_fr": "2,71 €",
+      "traducao_pt": "2 euros e 71",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "2,71 €"
+    },
+    {
+      "frase_fr": "47,19 €",
+      "traducao_pt": "47 euros e 19",
+      "ipa": "",
+      "observacao": "preço comum",
+      "audio_text": "47,19 €"
+    },
+    {
+      "frase_fr": "16 avril",
+      "traducao_pt": "16 de avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "16 avril"
+    },
+    {
+      "frase_fr": "25 novembre",
+      "traducao_pt": "25 de novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "25 novembre"
+    },
+    {
+      "frase_fr": "24 décembre",
+      "traducao_pt": "24 de décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "24 décembre"
+    },
+    {
+      "frase_fr": "3 juillet",
+      "traducao_pt": "3 de juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "3 juillet"
+    },
+    {
+      "frase_fr": "28 novembre",
+      "traducao_pt": "28 de novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "28 novembre"
+    },
+    {
+      "frase_fr": "16 janvier",
+      "traducao_pt": "16 de janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "16 janvier"
+    },
+    {
+      "frase_fr": "28 avril",
+      "traducao_pt": "28 de avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "28 avril"
+    },
+    {
+      "frase_fr": "18 janvier",
+      "traducao_pt": "18 de janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "18 janvier"
+    },
+    {
+      "frase_fr": "18 juillet",
+      "traducao_pt": "18 de juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "18 juillet"
+    },
+    {
+      "frase_fr": "16 novembre",
+      "traducao_pt": "16 de novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "16 novembre"
+    },
+    {
+      "frase_fr": "19 mars",
+      "traducao_pt": "19 de mars",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "19 mars"
+    },
+    {
+      "frase_fr": "5 juillet",
+      "traducao_pt": "5 de juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "5 juillet"
+    },
+    {
+      "frase_fr": "4 décembre",
+      "traducao_pt": "4 de décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "4 décembre"
+    },
+    {
+      "frase_fr": "9 décembre",
+      "traducao_pt": "9 de décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "9 décembre"
+    },
+    {
+      "frase_fr": "26 janvier",
+      "traducao_pt": "26 de janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "26 janvier"
+    },
+    {
+      "frase_fr": "2 mai",
+      "traducao_pt": "2 de mai",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "2 mai"
+    },
+    {
+      "frase_fr": "12 juin",
+      "traducao_pt": "12 de juin",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "12 juin"
+    },
+    {
+      "frase_fr": "24 octobre",
+      "traducao_pt": "24 de octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "24 octobre"
+    },
+    {
+      "frase_fr": "4 octobre",
+      "traducao_pt": "4 de octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "4 octobre"
+    },
+    {
+      "frase_fr": "22 février",
+      "traducao_pt": "22 de février",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "22 février"
+    },
+    {
+      "frase_fr": "27 septembre",
+      "traducao_pt": "27 de septembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "27 septembre"
+    },
+    {
+      "frase_fr": "4 mars",
+      "traducao_pt": "4 de mars",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "4 mars"
+    },
+    {
+      "frase_fr": "17 novembre",
+      "traducao_pt": "17 de novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "17 novembre"
+    },
+    {
+      "frase_fr": "7 octobre",
+      "traducao_pt": "7 de octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "7 octobre"
+    },
+    {
+      "frase_fr": "26 avril",
+      "traducao_pt": "26 de avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "26 avril"
+    }
+  ]
+}

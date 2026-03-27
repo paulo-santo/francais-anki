@@ -1,0 +1,435 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "mois_contexte",
+  "level_tag": "A1",
+  "theme_tag": "mois_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "en janvier",
+      "traducao_pt": "en janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en janvier"
+    },
+    {
+      "frase_fr": "en février",
+      "traducao_pt": "en février",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en février"
+    },
+    {
+      "frase_fr": "en mars",
+      "traducao_pt": "en mars",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mars"
+    },
+    {
+      "frase_fr": "en avril",
+      "traducao_pt": "en avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en avril"
+    },
+    {
+      "frase_fr": "en mai",
+      "traducao_pt": "en mai",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mai"
+    },
+    {
+      "frase_fr": "en juin",
+      "traducao_pt": "en juin",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juin"
+    },
+    {
+      "frase_fr": "en juillet",
+      "traducao_pt": "en juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juillet"
+    },
+    {
+      "frase_fr": "en août",
+      "traducao_pt": "en août",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en août"
+    },
+    {
+      "frase_fr": "en septembre",
+      "traducao_pt": "en septembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en septembre"
+    },
+    {
+      "frase_fr": "en octobre",
+      "traducao_pt": "en octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en octobre"
+    },
+    {
+      "frase_fr": "en novembre",
+      "traducao_pt": "en novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en novembre"
+    },
+    {
+      "frase_fr": "en décembre",
+      "traducao_pt": "en décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en décembre"
+    },
+    {
+      "frase_fr": "en janvier",
+      "traducao_pt": "en janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en janvier"
+    },
+    {
+      "frase_fr": "en février",
+      "traducao_pt": "en février",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en février"
+    },
+    {
+      "frase_fr": "en mars",
+      "traducao_pt": "en mars",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mars"
+    },
+    {
+      "frase_fr": "en avril",
+      "traducao_pt": "en avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en avril"
+    },
+    {
+      "frase_fr": "en mai",
+      "traducao_pt": "en mai",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mai"
+    },
+    {
+      "frase_fr": "en juin",
+      "traducao_pt": "en juin",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juin"
+    },
+    {
+      "frase_fr": "en juillet",
+      "traducao_pt": "en juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juillet"
+    },
+    {
+      "frase_fr": "en août",
+      "traducao_pt": "en août",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en août"
+    },
+    {
+      "frase_fr": "en septembre",
+      "traducao_pt": "en septembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en septembre"
+    },
+    {
+      "frase_fr": "en octobre",
+      "traducao_pt": "en octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en octobre"
+    },
+    {
+      "frase_fr": "en novembre",
+      "traducao_pt": "en novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en novembre"
+    },
+    {
+      "frase_fr": "en décembre",
+      "traducao_pt": "en décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en décembre"
+    },
+    {
+      "frase_fr": "en janvier",
+      "traducao_pt": "en janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en janvier"
+    },
+    {
+      "frase_fr": "en février",
+      "traducao_pt": "en février",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en février"
+    },
+    {
+      "frase_fr": "en mars",
+      "traducao_pt": "en mars",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mars"
+    },
+    {
+      "frase_fr": "en avril",
+      "traducao_pt": "en avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en avril"
+    },
+    {
+      "frase_fr": "en mai",
+      "traducao_pt": "en mai",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mai"
+    },
+    {
+      "frase_fr": "en juin",
+      "traducao_pt": "en juin",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juin"
+    },
+    {
+      "frase_fr": "en juillet",
+      "traducao_pt": "en juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juillet"
+    },
+    {
+      "frase_fr": "en août",
+      "traducao_pt": "en août",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en août"
+    },
+    {
+      "frase_fr": "en septembre",
+      "traducao_pt": "en septembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en septembre"
+    },
+    {
+      "frase_fr": "en octobre",
+      "traducao_pt": "en octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en octobre"
+    },
+    {
+      "frase_fr": "en novembre",
+      "traducao_pt": "en novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en novembre"
+    },
+    {
+      "frase_fr": "en décembre",
+      "traducao_pt": "en décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en décembre"
+    },
+    {
+      "frase_fr": "en janvier",
+      "traducao_pt": "en janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en janvier"
+    },
+    {
+      "frase_fr": "en février",
+      "traducao_pt": "en février",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en février"
+    },
+    {
+      "frase_fr": "en mars",
+      "traducao_pt": "en mars",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mars"
+    },
+    {
+      "frase_fr": "en avril",
+      "traducao_pt": "en avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en avril"
+    },
+    {
+      "frase_fr": "en mai",
+      "traducao_pt": "en mai",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mai"
+    },
+    {
+      "frase_fr": "en juin",
+      "traducao_pt": "en juin",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juin"
+    },
+    {
+      "frase_fr": "en juillet",
+      "traducao_pt": "en juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juillet"
+    },
+    {
+      "frase_fr": "en août",
+      "traducao_pt": "en août",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en août"
+    },
+    {
+      "frase_fr": "en septembre",
+      "traducao_pt": "en septembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en septembre"
+    },
+    {
+      "frase_fr": "en octobre",
+      "traducao_pt": "en octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en octobre"
+    },
+    {
+      "frase_fr": "en novembre",
+      "traducao_pt": "en novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en novembre"
+    },
+    {
+      "frase_fr": "en décembre",
+      "traducao_pt": "en décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en décembre"
+    },
+    {
+      "frase_fr": "en janvier",
+      "traducao_pt": "en janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en janvier"
+    },
+    {
+      "frase_fr": "en février",
+      "traducao_pt": "en février",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en février"
+    },
+    {
+      "frase_fr": "en mars",
+      "traducao_pt": "en mars",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mars"
+    },
+    {
+      "frase_fr": "en avril",
+      "traducao_pt": "en avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en avril"
+    },
+    {
+      "frase_fr": "en mai",
+      "traducao_pt": "en mai",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en mai"
+    },
+    {
+      "frase_fr": "en juin",
+      "traducao_pt": "en juin",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juin"
+    },
+    {
+      "frase_fr": "en juillet",
+      "traducao_pt": "en juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en juillet"
+    },
+    {
+      "frase_fr": "en août",
+      "traducao_pt": "en août",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en août"
+    },
+    {
+      "frase_fr": "en septembre",
+      "traducao_pt": "en septembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en septembre"
+    },
+    {
+      "frase_fr": "en octobre",
+      "traducao_pt": "en octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en octobre"
+    },
+    {
+      "frase_fr": "en novembre",
+      "traducao_pt": "en novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en novembre"
+    },
+    {
+      "frase_fr": "en décembre",
+      "traducao_pt": "en décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "en décembre"
+    }
+  ]
+}

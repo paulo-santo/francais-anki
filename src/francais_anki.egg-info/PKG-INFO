@@ -151,11 +151,24 @@ Para gerar apenas o `.apkg` sem tentar AnkiConnect:
 PYTHONPATH=src python3 -m francais_anki.cli --input data/input.example.json --skip-ankiconnect
 ```
 
+Para endurecer a geracao de audio em lotes maiores:
+
+```bash
+PYTHONPATH=src python3 -m francais_anki.cli \
+  --input data/input.example.json \
+  --tts-connect-timeout 20 \
+  --tts-receive-timeout 90 \
+  --tts-retries 3 \
+  --tts-final-retry-pass
+```
+
 Saidas:
 
 - audios em `output/media/`
 - pacote em `output/apkg/`
 - log em `output/logs/run.log`
+- reuso automatico de audio ja existente em `output/media/`
+- notas com falha permanente de audio ficam fora do `.apkg`, mas o lote continua e registra o resumo no log
 
 ## 6. Observacoes finais
 

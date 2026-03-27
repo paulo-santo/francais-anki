@@ -1,0 +1,358 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "jours_contexte",
+  "level_tag": "A1",
+  "theme_tag": "jours_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "le lundi",
+      "traducao_pt": "le lundi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le lundi"
+    },
+    {
+      "frase_fr": "le mardi",
+      "traducao_pt": "le mardi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mardi"
+    },
+    {
+      "frase_fr": "le mercredi",
+      "traducao_pt": "le mercredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mercredi"
+    },
+    {
+      "frase_fr": "le jeudi",
+      "traducao_pt": "le jeudi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le jeudi"
+    },
+    {
+      "frase_fr": "le vendredi",
+      "traducao_pt": "le vendredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le vendredi"
+    },
+    {
+      "frase_fr": "le samedi",
+      "traducao_pt": "le samedi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le samedi"
+    },
+    {
+      "frase_fr": "le dimanche",
+      "traducao_pt": "le dimanche",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le dimanche"
+    },
+    {
+      "frase_fr": "le lundi",
+      "traducao_pt": "le lundi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le lundi"
+    },
+    {
+      "frase_fr": "le mardi",
+      "traducao_pt": "le mardi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mardi"
+    },
+    {
+      "frase_fr": "le mercredi",
+      "traducao_pt": "le mercredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mercredi"
+    },
+    {
+      "frase_fr": "le jeudi",
+      "traducao_pt": "le jeudi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le jeudi"
+    },
+    {
+      "frase_fr": "le vendredi",
+      "traducao_pt": "le vendredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le vendredi"
+    },
+    {
+      "frase_fr": "le samedi",
+      "traducao_pt": "le samedi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le samedi"
+    },
+    {
+      "frase_fr": "le dimanche",
+      "traducao_pt": "le dimanche",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le dimanche"
+    },
+    {
+      "frase_fr": "le lundi",
+      "traducao_pt": "le lundi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le lundi"
+    },
+    {
+      "frase_fr": "le mardi",
+      "traducao_pt": "le mardi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mardi"
+    },
+    {
+      "frase_fr": "le mercredi",
+      "traducao_pt": "le mercredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mercredi"
+    },
+    {
+      "frase_fr": "le jeudi",
+      "traducao_pt": "le jeudi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le jeudi"
+    },
+    {
+      "frase_fr": "le vendredi",
+      "traducao_pt": "le vendredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le vendredi"
+    },
+    {
+      "frase_fr": "le samedi",
+      "traducao_pt": "le samedi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le samedi"
+    },
+    {
+      "frase_fr": "le dimanche",
+      "traducao_pt": "le dimanche",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le dimanche"
+    },
+    {
+      "frase_fr": "le lundi",
+      "traducao_pt": "le lundi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le lundi"
+    },
+    {
+      "frase_fr": "le mardi",
+      "traducao_pt": "le mardi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mardi"
+    },
+    {
+      "frase_fr": "le mercredi",
+      "traducao_pt": "le mercredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mercredi"
+    },
+    {
+      "frase_fr": "le jeudi",
+      "traducao_pt": "le jeudi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le jeudi"
+    },
+    {
+      "frase_fr": "le vendredi",
+      "traducao_pt": "le vendredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le vendredi"
+    },
+    {
+      "frase_fr": "le samedi",
+      "traducao_pt": "le samedi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le samedi"
+    },
+    {
+      "frase_fr": "le dimanche",
+      "traducao_pt": "le dimanche",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le dimanche"
+    },
+    {
+      "frase_fr": "le lundi",
+      "traducao_pt": "le lundi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le lundi"
+    },
+    {
+      "frase_fr": "le mardi",
+      "traducao_pt": "le mardi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mardi"
+    },
+    {
+      "frase_fr": "le mercredi",
+      "traducao_pt": "le mercredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mercredi"
+    },
+    {
+      "frase_fr": "le jeudi",
+      "traducao_pt": "le jeudi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le jeudi"
+    },
+    {
+      "frase_fr": "le vendredi",
+      "traducao_pt": "le vendredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le vendredi"
+    },
+    {
+      "frase_fr": "le samedi",
+      "traducao_pt": "le samedi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le samedi"
+    },
+    {
+      "frase_fr": "le dimanche",
+      "traducao_pt": "le dimanche",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le dimanche"
+    },
+    {
+      "frase_fr": "le lundi",
+      "traducao_pt": "le lundi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le lundi"
+    },
+    {
+      "frase_fr": "le mardi",
+      "traducao_pt": "le mardi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mardi"
+    },
+    {
+      "frase_fr": "le mercredi",
+      "traducao_pt": "le mercredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mercredi"
+    },
+    {
+      "frase_fr": "le jeudi",
+      "traducao_pt": "le jeudi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le jeudi"
+    },
+    {
+      "frase_fr": "le vendredi",
+      "traducao_pt": "le vendredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le vendredi"
+    },
+    {
+      "frase_fr": "le samedi",
+      "traducao_pt": "le samedi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le samedi"
+    },
+    {
+      "frase_fr": "le dimanche",
+      "traducao_pt": "le dimanche",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le dimanche"
+    },
+    {
+      "frase_fr": "le lundi",
+      "traducao_pt": "le lundi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le lundi"
+    },
+    {
+      "frase_fr": "le mardi",
+      "traducao_pt": "le mardi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mardi"
+    },
+    {
+      "frase_fr": "le mercredi",
+      "traducao_pt": "le mercredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le mercredi"
+    },
+    {
+      "frase_fr": "le jeudi",
+      "traducao_pt": "le jeudi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le jeudi"
+    },
+    {
+      "frase_fr": "le vendredi",
+      "traducao_pt": "le vendredi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le vendredi"
+    },
+    {
+      "frase_fr": "le samedi",
+      "traducao_pt": "le samedi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le samedi"
+    },
+    {
+      "frase_fr": "le dimanche",
+      "traducao_pt": "le dimanche",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le dimanche"
+    }
+  ]
+}

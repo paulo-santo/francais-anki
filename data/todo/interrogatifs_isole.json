@@ -1,0 +1,71 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "interrogatifs_isole",
+  "level_tag": "A1",
+  "theme_tag": "interrogatifs_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "comment",
+      "traducao_pt": "comment",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "comment"
+    },
+    {
+      "frase_fr": "quand",
+      "traducao_pt": "quand",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quand"
+    },
+    {
+      "frase_fr": "qui",
+      "traducao_pt": "qui",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "qui"
+    },
+    {
+      "frase_fr": "combien",
+      "traducao_pt": "combien",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "combien"
+    },
+    {
+      "frase_fr": "où",
+      "traducao_pt": "où",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "où"
+    },
+    {
+      "frase_fr": "que",
+      "traducao_pt": "que",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "que"
+    },
+    {
+      "frase_fr": "quoi",
+      "traducao_pt": "quoi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quoi"
+    },
+    {
+      "frase_fr": "est-ce que",
+      "traducao_pt": "est-ce que",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "est-ce que"
+    }
+  ]
+}

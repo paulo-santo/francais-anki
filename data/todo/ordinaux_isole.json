@@ -1,0 +1,50 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "ordinaux_isole",
+  "level_tag": "A1",
+  "theme_tag": "ordinaux_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "premier",
+      "traducao_pt": "premier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "premier"
+    },
+    {
+      "frase_fr": "deuxième",
+      "traducao_pt": "deuxième",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "deuxième"
+    },
+    {
+      "frase_fr": "troisième",
+      "traducao_pt": "troisième",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "troisième"
+    },
+    {
+      "frase_fr": "quatrième",
+      "traducao_pt": "quatrième",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatrième"
+    },
+    {
+      "frase_fr": "cinquième",
+      "traducao_pt": "cinquième",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "cinquième"
+    }
+  ]
+}

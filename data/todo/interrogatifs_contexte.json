@@ -1,0 +1,351 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "interrogatifs_contexte",
+  "level_tag": "A1",
+  "theme_tag": "interrogatifs_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "comment ça",
+      "traducao_pt": "comment ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "comment ça"
+    },
+    {
+      "frase_fr": "quand ça",
+      "traducao_pt": "quand ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quand ça"
+    },
+    {
+      "frase_fr": "qui ça",
+      "traducao_pt": "qui ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "qui ça"
+    },
+    {
+      "frase_fr": "combien ça",
+      "traducao_pt": "combien ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "combien ça"
+    },
+    {
+      "frase_fr": "où ça",
+      "traducao_pt": "où ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "où ça"
+    },
+    {
+      "frase_fr": "que ça",
+      "traducao_pt": "que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "que ça"
+    },
+    {
+      "frase_fr": "quoi ça",
+      "traducao_pt": "quoi ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quoi ça"
+    },
+    {
+      "frase_fr": "est-ce que ça",
+      "traducao_pt": "est-ce que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "est-ce que ça"
+    },
+    {
+      "frase_fr": "comment ça",
+      "traducao_pt": "comment ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "comment ça"
+    },
+    {
+      "frase_fr": "quand ça",
+      "traducao_pt": "quand ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quand ça"
+    },
+    {
+      "frase_fr": "qui ça",
+      "traducao_pt": "qui ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "qui ça"
+    },
+    {
+      "frase_fr": "combien ça",
+      "traducao_pt": "combien ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "combien ça"
+    },
+    {
+      "frase_fr": "où ça",
+      "traducao_pt": "où ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "où ça"
+    },
+    {
+      "frase_fr": "que ça",
+      "traducao_pt": "que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "que ça"
+    },
+    {
+      "frase_fr": "quoi ça",
+      "traducao_pt": "quoi ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quoi ça"
+    },
+    {
+      "frase_fr": "est-ce que ça",
+      "traducao_pt": "est-ce que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "est-ce que ça"
+    },
+    {
+      "frase_fr": "comment ça",
+      "traducao_pt": "comment ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "comment ça"
+    },
+    {
+      "frase_fr": "quand ça",
+      "traducao_pt": "quand ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quand ça"
+    },
+    {
+      "frase_fr": "qui ça",
+      "traducao_pt": "qui ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "qui ça"
+    },
+    {
+      "frase_fr": "combien ça",
+      "traducao_pt": "combien ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "combien ça"
+    },
+    {
+      "frase_fr": "où ça",
+      "traducao_pt": "où ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "où ça"
+    },
+    {
+      "frase_fr": "que ça",
+      "traducao_pt": "que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "que ça"
+    },
+    {
+      "frase_fr": "quoi ça",
+      "traducao_pt": "quoi ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quoi ça"
+    },
+    {
+      "frase_fr": "est-ce que ça",
+      "traducao_pt": "est-ce que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "est-ce que ça"
+    },
+    {
+      "frase_fr": "comment ça",
+      "traducao_pt": "comment ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "comment ça"
+    },
+    {
+      "frase_fr": "quand ça",
+      "traducao_pt": "quand ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quand ça"
+    },
+    {
+      "frase_fr": "qui ça",
+      "traducao_pt": "qui ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "qui ça"
+    },
+    {
+      "frase_fr": "combien ça",
+      "traducao_pt": "combien ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "combien ça"
+    },
+    {
+      "frase_fr": "où ça",
+      "traducao_pt": "où ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "où ça"
+    },
+    {
+      "frase_fr": "que ça",
+      "traducao_pt": "que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "que ça"
+    },
+    {
+      "frase_fr": "quoi ça",
+      "traducao_pt": "quoi ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quoi ça"
+    },
+    {
+      "frase_fr": "est-ce que ça",
+      "traducao_pt": "est-ce que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "est-ce que ça"
+    },
+    {
+      "frase_fr": "comment ça",
+      "traducao_pt": "comment ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "comment ça"
+    },
+    {
+      "frase_fr": "quand ça",
+      "traducao_pt": "quand ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quand ça"
+    },
+    {
+      "frase_fr": "qui ça",
+      "traducao_pt": "qui ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "qui ça"
+    },
+    {
+      "frase_fr": "combien ça",
+      "traducao_pt": "combien ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "combien ça"
+    },
+    {
+      "frase_fr": "où ça",
+      "traducao_pt": "où ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "où ça"
+    },
+    {
+      "frase_fr": "que ça",
+      "traducao_pt": "que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "que ça"
+    },
+    {
+      "frase_fr": "quoi ça",
+      "traducao_pt": "quoi ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quoi ça"
+    },
+    {
+      "frase_fr": "est-ce que ça",
+      "traducao_pt": "est-ce que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "est-ce que ça"
+    },
+    {
+      "frase_fr": "comment ça",
+      "traducao_pt": "comment ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "comment ça"
+    },
+    {
+      "frase_fr": "quand ça",
+      "traducao_pt": "quand ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quand ça"
+    },
+    {
+      "frase_fr": "qui ça",
+      "traducao_pt": "qui ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "qui ça"
+    },
+    {
+      "frase_fr": "combien ça",
+      "traducao_pt": "combien ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "combien ça"
+    },
+    {
+      "frase_fr": "où ça",
+      "traducao_pt": "où ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "où ça"
+    },
+    {
+      "frase_fr": "que ça",
+      "traducao_pt": "que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "que ça"
+    },
+    {
+      "frase_fr": "quoi ça",
+      "traducao_pt": "quoi ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quoi ça"
+    },
+    {
+      "frase_fr": "est-ce que ça",
+      "traducao_pt": "est-ce que ça",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "est-ce que ça"
+    }
+  ]
+}

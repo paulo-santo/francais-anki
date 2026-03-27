@@ -1,0 +1,22 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "ilya_isole",
+  "level_tag": "A1",
+  "theme_tag": "ilya_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "il y a",
+      "traducao_pt": "il y a",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a"
+    }
+  ]
+}

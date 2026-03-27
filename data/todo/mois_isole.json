@@ -1,0 +1,99 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "mois_isole",
+  "level_tag": "A1",
+  "theme_tag": "mois_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "janvier",
+      "traducao_pt": "janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "janvier"
+    },
+    {
+      "frase_fr": "février",
+      "traducao_pt": "février",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "février"
+    },
+    {
+      "frase_fr": "mars",
+      "traducao_pt": "mars",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "mars"
+    },
+    {
+      "frase_fr": "avril",
+      "traducao_pt": "avril",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avril"
+    },
+    {
+      "frase_fr": "mai",
+      "traducao_pt": "mai",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "mai"
+    },
+    {
+      "frase_fr": "juin",
+      "traducao_pt": "juin",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "juin"
+    },
+    {
+      "frase_fr": "juillet",
+      "traducao_pt": "juillet",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "juillet"
+    },
+    {
+      "frase_fr": "août",
+      "traducao_pt": "août",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "août"
+    },
+    {
+      "frase_fr": "septembre",
+      "traducao_pt": "septembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "septembre"
+    },
+    {
+      "frase_fr": "octobre",
+      "traducao_pt": "octobre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "octobre"
+    },
+    {
+      "frase_fr": "novembre",
+      "traducao_pt": "novembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "novembre"
+    },
+    {
+      "frase_fr": "décembre",
+      "traducao_pt": "décembre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "décembre"
+    }
+  ]
+}

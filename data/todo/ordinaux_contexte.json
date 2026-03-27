@@ -1,0 +1,365 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "ordinaux_contexte",
+  "level_tag": "A1",
+  "theme_tag": "ordinaux_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    },
+    {
+      "frase_fr": "le premier jour",
+      "traducao_pt": "le premier jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le premier jour"
+    },
+    {
+      "frase_fr": "le deuxième jour",
+      "traducao_pt": "le deuxième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le deuxième jour"
+    },
+    {
+      "frase_fr": "le troisième jour",
+      "traducao_pt": "le troisième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le troisième jour"
+    },
+    {
+      "frase_fr": "le quatrième jour",
+      "traducao_pt": "le quatrième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le quatrième jour"
+    },
+    {
+      "frase_fr": "le cinquième jour",
+      "traducao_pt": "le cinquième jour",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "le cinquième jour"
+    }
+  ]
+}

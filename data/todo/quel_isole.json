@@ -1,0 +1,43 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "quel_isole",
+  "level_tag": "A1",
+  "theme_tag": "quel_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "quel",
+      "traducao_pt": "quel",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel"
+    },
+    {
+      "frase_fr": "quelle",
+      "traducao_pt": "quelle",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle"
+    },
+    {
+      "frase_fr": "quels",
+      "traducao_pt": "quels",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels"
+    },
+    {
+      "frase_fr": "quelles",
+      "traducao_pt": "quelles",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles"
+    }
+  ]
+}

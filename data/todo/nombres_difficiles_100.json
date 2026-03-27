@@ -1,0 +1,715 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "Nombres_difficiles_70_99",
+  "level_tag": "A1",
+  "theme_tag": "numeros_difficiles",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "soixante-quinze",
+      "traducao_pt": "soixante-quinze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-quinze"
+    },
+    {
+      "frase_fr": "quatre-vingt-huit",
+      "traducao_pt": "quatre-vingt-huit",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-huit"
+    },
+    {
+      "frase_fr": "soixante-douze octobre",
+      "traducao_pt": "soixante-douze octobre",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-douze octobre"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-sept",
+      "traducao_pt": "quatre-vingt-dix-sept",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-dix-sept"
+    },
+    {
+      "frase_fr": "quatre-vingt-huit euros",
+      "traducao_pt": "quatre-vingt-huit euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-huit euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-onze euros",
+      "traducao_pt": "quatre-vingt-onze euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-onze euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-sept",
+      "traducao_pt": "quatre-vingt-dix-sept",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-dix-sept"
+    },
+    {
+      "frase_fr": "quatre-vingt-quatre",
+      "traducao_pt": "quatre-vingt-quatre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-quatre"
+    },
+    {
+      "frase_fr": "quatre-vingt-douze",
+      "traducao_pt": "quatre-vingt-douze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-douze"
+    },
+    {
+      "frase_fr": "soixante-dix janvier",
+      "traducao_pt": "soixante-dix janvier",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-dix janvier"
+    },
+    {
+      "frase_fr": "soixante-dix-huit euros",
+      "traducao_pt": "soixante-dix-huit euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-dix-huit euros"
+    },
+    {
+      "frase_fr": "soixante-dix-sept",
+      "traducao_pt": "soixante-dix-sept",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-dix-sept"
+    },
+    {
+      "frase_fr": "soixante-treize euros",
+      "traducao_pt": "soixante-treize euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-treize euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-quatre juin",
+      "traducao_pt": "quatre-vingt-quatre juin",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-quatre juin"
+    },
+    {
+      "frase_fr": "quatre-vingt-onze euros",
+      "traducao_pt": "quatre-vingt-onze euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-onze euros"
+    },
+    {
+      "frase_fr": "quatre-vingts euros",
+      "traducao_pt": "quatre-vingts euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingts euros"
+    },
+    {
+      "frase_fr": "soixante-quinze",
+      "traducao_pt": "soixante-quinze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-quinze"
+    },
+    {
+      "frase_fr": "quatre-vingt-trois novembre",
+      "traducao_pt": "quatre-vingt-trois novembre",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-trois novembre"
+    },
+    {
+      "frase_fr": "quatre-vingt-quatre",
+      "traducao_pt": "quatre-vingt-quatre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-quatre"
+    },
+    {
+      "frase_fr": "soixante-dix-huit euros",
+      "traducao_pt": "soixante-dix-huit euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-dix-huit euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize",
+      "traducao_pt": "quatre-vingt-treize",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-treize"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize juillet",
+      "traducao_pt": "quatre-vingt-treize juillet",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-treize juillet"
+    },
+    {
+      "frase_fr": "quatre-vingt-douze",
+      "traducao_pt": "quatre-vingt-douze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-douze"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-huit",
+      "traducao_pt": "quatre-vingt-dix-huit",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-dix-huit"
+    },
+    {
+      "frase_fr": "quatre-vingt-cinq euros",
+      "traducao_pt": "quatre-vingt-cinq euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-cinq euros"
+    },
+    {
+      "frase_fr": "soixante-dix-huit euros",
+      "traducao_pt": "soixante-dix-huit euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-dix-huit euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-sept septembre",
+      "traducao_pt": "quatre-vingt-dix-sept septembre",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-dix-sept septembre"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix août",
+      "traducao_pt": "quatre-vingt-dix août",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-dix août"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-sept juin",
+      "traducao_pt": "quatre-vingt-dix-sept juin",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-dix-sept juin"
+    },
+    {
+      "frase_fr": "soixante-dix février",
+      "traducao_pt": "soixante-dix février",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-dix février"
+    },
+    {
+      "frase_fr": "quatre-vingt-quatorze euros",
+      "traducao_pt": "quatre-vingt-quatorze euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-quatorze euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix janvier",
+      "traducao_pt": "quatre-vingt-dix janvier",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-dix janvier"
+    },
+    {
+      "frase_fr": "soixante-dix-huit octobre",
+      "traducao_pt": "soixante-dix-huit octobre",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-dix-huit octobre"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-sept septembre",
+      "traducao_pt": "quatre-vingt-dix-sept septembre",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-dix-sept septembre"
+    },
+    {
+      "frase_fr": "quatre-vingt-cinq juillet",
+      "traducao_pt": "quatre-vingt-cinq juillet",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-cinq juillet"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-sept",
+      "traducao_pt": "quatre-vingt-dix-sept",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-dix-sept"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize euros",
+      "traducao_pt": "quatre-vingt-treize euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-treize euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize",
+      "traducao_pt": "quatre-vingt-treize",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-treize"
+    },
+    {
+      "frase_fr": "soixante-douze",
+      "traducao_pt": "soixante-douze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-douze"
+    },
+    {
+      "frase_fr": "soixante-quinze euros",
+      "traducao_pt": "soixante-quinze euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-quinze euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-deux euros",
+      "traducao_pt": "quatre-vingt-deux euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-deux euros"
+    },
+    {
+      "frase_fr": "soixante-dix-huit juin",
+      "traducao_pt": "soixante-dix-huit juin",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-dix-huit juin"
+    },
+    {
+      "frase_fr": "quatre-vingt-un",
+      "traducao_pt": "quatre-vingt-un",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-un"
+    },
+    {
+      "frase_fr": "soixante-dix euros",
+      "traducao_pt": "soixante-dix euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-dix euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix",
+      "traducao_pt": "quatre-vingt-dix",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-dix"
+    },
+    {
+      "frase_fr": "quatre-vingt-seize mai",
+      "traducao_pt": "quatre-vingt-seize mai",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-seize mai"
+    },
+    {
+      "frase_fr": "quatre-vingt-douze septembre",
+      "traducao_pt": "quatre-vingt-douze septembre",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-douze septembre"
+    },
+    {
+      "frase_fr": "quatre-vingt-six septembre",
+      "traducao_pt": "quatre-vingt-six septembre",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-six septembre"
+    },
+    {
+      "frase_fr": "soixante-dix-sept août",
+      "traducao_pt": "soixante-dix-sept août",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-dix-sept août"
+    },
+    {
+      "frase_fr": "quatre-vingt-quatre euros",
+      "traducao_pt": "quatre-vingt-quatre euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-quatre euros"
+    },
+    {
+      "frase_fr": "soixante-dix-sept euros",
+      "traducao_pt": "soixante-dix-sept euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-dix-sept euros"
+    },
+    {
+      "frase_fr": "soixante-dix-neuf euros",
+      "traducao_pt": "soixante-dix-neuf euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-dix-neuf euros"
+    },
+    {
+      "frase_fr": "soixante-dix-neuf",
+      "traducao_pt": "soixante-dix-neuf",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-dix-neuf"
+    },
+    {
+      "frase_fr": "soixante-et-onze janvier",
+      "traducao_pt": "soixante-et-onze janvier",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-et-onze janvier"
+    },
+    {
+      "frase_fr": "soixante-et-onze euros",
+      "traducao_pt": "soixante-et-onze euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-et-onze euros"
+    },
+    {
+      "frase_fr": "soixante-dix euros",
+      "traducao_pt": "soixante-dix euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-dix euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize",
+      "traducao_pt": "quatre-vingt-treize",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-treize"
+    },
+    {
+      "frase_fr": "quatre-vingt-deux euros",
+      "traducao_pt": "quatre-vingt-deux euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-deux euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize août",
+      "traducao_pt": "quatre-vingt-treize août",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-treize août"
+    },
+    {
+      "frase_fr": "quatre-vingt-trois",
+      "traducao_pt": "quatre-vingt-trois",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-trois"
+    },
+    {
+      "frase_fr": "soixante-treize",
+      "traducao_pt": "soixante-treize",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-treize"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-sept euros",
+      "traducao_pt": "quatre-vingt-dix-sept euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-dix-sept euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-six euros",
+      "traducao_pt": "quatre-vingt-six euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-six euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-sept euros",
+      "traducao_pt": "quatre-vingt-dix-sept euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-dix-sept euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-un",
+      "traducao_pt": "quatre-vingt-un",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-un"
+    },
+    {
+      "frase_fr": "soixante-douze",
+      "traducao_pt": "soixante-douze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-douze"
+    },
+    {
+      "frase_fr": "quatre-vingt-deux",
+      "traducao_pt": "quatre-vingt-deux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-deux"
+    },
+    {
+      "frase_fr": "quatre-vingt-sept",
+      "traducao_pt": "quatre-vingt-sept",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-sept"
+    },
+    {
+      "frase_fr": "quatre-vingt-neuf euros",
+      "traducao_pt": "quatre-vingt-neuf euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-neuf euros"
+    },
+    {
+      "frase_fr": "soixante-dix-neuf août",
+      "traducao_pt": "soixante-dix-neuf août",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-dix-neuf août"
+    },
+    {
+      "frase_fr": "soixante-treize euros",
+      "traducao_pt": "soixante-treize euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-treize euros"
+    },
+    {
+      "frase_fr": "quatre-vingts juillet",
+      "traducao_pt": "quatre-vingts juillet",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingts juillet"
+    },
+    {
+      "frase_fr": "quatre-vingt-quatre",
+      "traducao_pt": "quatre-vingt-quatre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-quatre"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix février",
+      "traducao_pt": "quatre-vingt-dix février",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-dix février"
+    },
+    {
+      "frase_fr": "soixante-douze août",
+      "traducao_pt": "soixante-douze août",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-douze août"
+    },
+    {
+      "frase_fr": "quatre-vingt-quinze mars",
+      "traducao_pt": "quatre-vingt-quinze mars",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-quinze mars"
+    },
+    {
+      "frase_fr": "quatre-vingt-un mai",
+      "traducao_pt": "quatre-vingt-un mai",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-un mai"
+    },
+    {
+      "frase_fr": "quatre-vingt-quatorze",
+      "traducao_pt": "quatre-vingt-quatorze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-quatorze"
+    },
+    {
+      "frase_fr": "quatre-vingts euros",
+      "traducao_pt": "quatre-vingts euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingts euros"
+    },
+    {
+      "frase_fr": "soixante-dix euros",
+      "traducao_pt": "soixante-dix euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-dix euros"
+    },
+    {
+      "frase_fr": "soixante-douze euros",
+      "traducao_pt": "soixante-douze euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-douze euros"
+    },
+    {
+      "frase_fr": "soixante-seize octobre",
+      "traducao_pt": "soixante-seize octobre",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-seize octobre"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize",
+      "traducao_pt": "quatre-vingt-treize",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-treize"
+    },
+    {
+      "frase_fr": "soixante-et-onze juin",
+      "traducao_pt": "soixante-et-onze juin",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "soixante-et-onze juin"
+    },
+    {
+      "frase_fr": "soixante-dix",
+      "traducao_pt": "soixante-dix",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-dix"
+    },
+    {
+      "frase_fr": "soixante-quinze euros",
+      "traducao_pt": "soixante-quinze euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-quinze euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-treize",
+      "traducao_pt": "quatre-vingt-treize",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-treize"
+    },
+    {
+      "frase_fr": "quatre-vingt-sept",
+      "traducao_pt": "quatre-vingt-sept",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-sept"
+    },
+    {
+      "frase_fr": "quatre-vingt-cinq août",
+      "traducao_pt": "quatre-vingt-cinq août",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingt-cinq août"
+    },
+    {
+      "frase_fr": "quatre-vingt-sept",
+      "traducao_pt": "quatre-vingt-sept",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-sept"
+    },
+    {
+      "frase_fr": "quatre-vingt-seize euros",
+      "traducao_pt": "quatre-vingt-seize euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "quatre-vingt-seize euros"
+    },
+    {
+      "frase_fr": "quatre-vingt-six",
+      "traducao_pt": "quatre-vingt-six",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-six"
+    },
+    {
+      "frase_fr": "soixante-seize euros",
+      "traducao_pt": "soixante-seize euros",
+      "ipa": "",
+      "observacao": "prix",
+      "audio_text": "soixante-seize euros"
+    },
+    {
+      "frase_fr": "quatre-vingts février",
+      "traducao_pt": "quatre-vingts février",
+      "ipa": "",
+      "observacao": "date",
+      "audio_text": "quatre-vingts février"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-huit",
+      "traducao_pt": "quatre-vingt-dix-huit",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-dix-huit"
+    },
+    {
+      "frase_fr": "quatre-vingt-douze",
+      "traducao_pt": "quatre-vingt-douze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-douze"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix",
+      "traducao_pt": "quatre-vingt-dix",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-dix"
+    },
+    {
+      "frase_fr": "soixante-dix",
+      "traducao_pt": "soixante-dix",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-dix"
+    },
+    {
+      "frase_fr": "quatre-vingt-dix-neuf",
+      "traducao_pt": "quatre-vingt-dix-neuf",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quatre-vingt-dix-neuf"
+    },
+    {
+      "frase_fr": "soixante-et-onze",
+      "traducao_pt": "soixante-et-onze",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "soixante-et-onze"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "verbes_isole",
+  "level_tag": "A1",
+  "theme_tag": "verbes_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "j'ai",
+      "traducao_pt": "j'ai",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "j'ai"
+    },
+    {
+      "frase_fr": "tu as",
+      "traducao_pt": "tu as",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu as"
+    },
+    {
+      "frase_fr": "il a",
+      "traducao_pt": "il a",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il a"
+    },
+    {
+      "frase_fr": "nous avons",
+      "traducao_pt": "nous avons",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous avons"
+    },
+    {
+      "frase_fr": "vous avez",
+      "traducao_pt": "vous avez",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous avez"
+    },
+    {
+      "frase_fr": "ils ont",
+      "traducao_pt": "ils ont",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils ont"
+    },
+    {
+      "frase_fr": "je suis",
+      "traducao_pt": "je suis",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "je suis"
+    },
+    {
+      "frase_fr": "tu es",
+      "traducao_pt": "tu es",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu es"
+    },
+    {
+      "frase_fr": "il est",
+      "traducao_pt": "il est",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il est"
+    },
+    {
+      "frase_fr": "nous sommes",
+      "traducao_pt": "nous sommes",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous sommes"
+    },
+    {
+      "frase_fr": "vous êtes",
+      "traducao_pt": "vous êtes",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous êtes"
+    },
+    {
+      "frase_fr": "ils sont",
+      "traducao_pt": "ils sont",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils sont"
+    }
+  ]
+}

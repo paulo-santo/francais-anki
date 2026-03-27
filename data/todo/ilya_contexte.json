@@ -1,0 +1,365 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "ilya_contexte",
+  "level_tag": "A1",
+  "theme_tag": "ilya_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "il y a 1",
+      "traducao_pt": "il y a 1",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 1"
+    },
+    {
+      "frase_fr": "il y a 2",
+      "traducao_pt": "il y a 2",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 2"
+    },
+    {
+      "frase_fr": "il y a 3",
+      "traducao_pt": "il y a 3",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 3"
+    },
+    {
+      "frase_fr": "il y a 4",
+      "traducao_pt": "il y a 4",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 4"
+    },
+    {
+      "frase_fr": "il y a 5",
+      "traducao_pt": "il y a 5",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 5"
+    },
+    {
+      "frase_fr": "il y a 6",
+      "traducao_pt": "il y a 6",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 6"
+    },
+    {
+      "frase_fr": "il y a 7",
+      "traducao_pt": "il y a 7",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 7"
+    },
+    {
+      "frase_fr": "il y a 8",
+      "traducao_pt": "il y a 8",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 8"
+    },
+    {
+      "frase_fr": "il y a 9",
+      "traducao_pt": "il y a 9",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 9"
+    },
+    {
+      "frase_fr": "il y a 10",
+      "traducao_pt": "il y a 10",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 10"
+    },
+    {
+      "frase_fr": "il y a 11",
+      "traducao_pt": "il y a 11",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 11"
+    },
+    {
+      "frase_fr": "il y a 12",
+      "traducao_pt": "il y a 12",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 12"
+    },
+    {
+      "frase_fr": "il y a 13",
+      "traducao_pt": "il y a 13",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 13"
+    },
+    {
+      "frase_fr": "il y a 14",
+      "traducao_pt": "il y a 14",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 14"
+    },
+    {
+      "frase_fr": "il y a 15",
+      "traducao_pt": "il y a 15",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 15"
+    },
+    {
+      "frase_fr": "il y a 16",
+      "traducao_pt": "il y a 16",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 16"
+    },
+    {
+      "frase_fr": "il y a 17",
+      "traducao_pt": "il y a 17",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 17"
+    },
+    {
+      "frase_fr": "il y a 18",
+      "traducao_pt": "il y a 18",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 18"
+    },
+    {
+      "frase_fr": "il y a 19",
+      "traducao_pt": "il y a 19",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 19"
+    },
+    {
+      "frase_fr": "il y a 20",
+      "traducao_pt": "il y a 20",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 20"
+    },
+    {
+      "frase_fr": "il y a 21",
+      "traducao_pt": "il y a 21",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 21"
+    },
+    {
+      "frase_fr": "il y a 22",
+      "traducao_pt": "il y a 22",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 22"
+    },
+    {
+      "frase_fr": "il y a 23",
+      "traducao_pt": "il y a 23",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 23"
+    },
+    {
+      "frase_fr": "il y a 24",
+      "traducao_pt": "il y a 24",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 24"
+    },
+    {
+      "frase_fr": "il y a 25",
+      "traducao_pt": "il y a 25",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 25"
+    },
+    {
+      "frase_fr": "il y a 26",
+      "traducao_pt": "il y a 26",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 26"
+    },
+    {
+      "frase_fr": "il y a 27",
+      "traducao_pt": "il y a 27",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 27"
+    },
+    {
+      "frase_fr": "il y a 28",
+      "traducao_pt": "il y a 28",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 28"
+    },
+    {
+      "frase_fr": "il y a 29",
+      "traducao_pt": "il y a 29",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 29"
+    },
+    {
+      "frase_fr": "il y a 30",
+      "traducao_pt": "il y a 30",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 30"
+    },
+    {
+      "frase_fr": "il y a 31",
+      "traducao_pt": "il y a 31",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 31"
+    },
+    {
+      "frase_fr": "il y a 32",
+      "traducao_pt": "il y a 32",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 32"
+    },
+    {
+      "frase_fr": "il y a 33",
+      "traducao_pt": "il y a 33",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 33"
+    },
+    {
+      "frase_fr": "il y a 34",
+      "traducao_pt": "il y a 34",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 34"
+    },
+    {
+      "frase_fr": "il y a 35",
+      "traducao_pt": "il y a 35",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 35"
+    },
+    {
+      "frase_fr": "il y a 36",
+      "traducao_pt": "il y a 36",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 36"
+    },
+    {
+      "frase_fr": "il y a 37",
+      "traducao_pt": "il y a 37",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 37"
+    },
+    {
+      "frase_fr": "il y a 38",
+      "traducao_pt": "il y a 38",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 38"
+    },
+    {
+      "frase_fr": "il y a 39",
+      "traducao_pt": "il y a 39",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 39"
+    },
+    {
+      "frase_fr": "il y a 40",
+      "traducao_pt": "il y a 40",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 40"
+    },
+    {
+      "frase_fr": "il y a 41",
+      "traducao_pt": "il y a 41",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 41"
+    },
+    {
+      "frase_fr": "il y a 42",
+      "traducao_pt": "il y a 42",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 42"
+    },
+    {
+      "frase_fr": "il y a 43",
+      "traducao_pt": "il y a 43",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 43"
+    },
+    {
+      "frase_fr": "il y a 44",
+      "traducao_pt": "il y a 44",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 44"
+    },
+    {
+      "frase_fr": "il y a 45",
+      "traducao_pt": "il y a 45",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 45"
+    },
+    {
+      "frase_fr": "il y a 46",
+      "traducao_pt": "il y a 46",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 46"
+    },
+    {
+      "frase_fr": "il y a 47",
+      "traducao_pt": "il y a 47",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 47"
+    },
+    {
+      "frase_fr": "il y a 48",
+      "traducao_pt": "il y a 48",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 48"
+    },
+    {
+      "frase_fr": "il y a 49",
+      "traducao_pt": "il y a 49",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 49"
+    },
+    {
+      "frase_fr": "il y a 50",
+      "traducao_pt": "il y a 50",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il y a 50"
+    }
+  ]
+}

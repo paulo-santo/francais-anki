@@ -1,0 +1,435 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "verbes_contexte",
+  "level_tag": "A1",
+  "theme_tag": "verbes_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "j'ai ici",
+      "traducao_pt": "j'ai ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "j'ai ici"
+    },
+    {
+      "frase_fr": "tu as ici",
+      "traducao_pt": "tu as ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu as ici"
+    },
+    {
+      "frase_fr": "il a ici",
+      "traducao_pt": "il a ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il a ici"
+    },
+    {
+      "frase_fr": "nous avons ici",
+      "traducao_pt": "nous avons ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous avons ici"
+    },
+    {
+      "frase_fr": "vous avez ici",
+      "traducao_pt": "vous avez ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous avez ici"
+    },
+    {
+      "frase_fr": "ils ont ici",
+      "traducao_pt": "ils ont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils ont ici"
+    },
+    {
+      "frase_fr": "je suis ici",
+      "traducao_pt": "je suis ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "je suis ici"
+    },
+    {
+      "frase_fr": "tu es ici",
+      "traducao_pt": "tu es ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu es ici"
+    },
+    {
+      "frase_fr": "il est ici",
+      "traducao_pt": "il est ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il est ici"
+    },
+    {
+      "frase_fr": "nous sommes ici",
+      "traducao_pt": "nous sommes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous sommes ici"
+    },
+    {
+      "frase_fr": "vous êtes ici",
+      "traducao_pt": "vous êtes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous êtes ici"
+    },
+    {
+      "frase_fr": "ils sont ici",
+      "traducao_pt": "ils sont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils sont ici"
+    },
+    {
+      "frase_fr": "j'ai ici",
+      "traducao_pt": "j'ai ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "j'ai ici"
+    },
+    {
+      "frase_fr": "tu as ici",
+      "traducao_pt": "tu as ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu as ici"
+    },
+    {
+      "frase_fr": "il a ici",
+      "traducao_pt": "il a ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il a ici"
+    },
+    {
+      "frase_fr": "nous avons ici",
+      "traducao_pt": "nous avons ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous avons ici"
+    },
+    {
+      "frase_fr": "vous avez ici",
+      "traducao_pt": "vous avez ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous avez ici"
+    },
+    {
+      "frase_fr": "ils ont ici",
+      "traducao_pt": "ils ont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils ont ici"
+    },
+    {
+      "frase_fr": "je suis ici",
+      "traducao_pt": "je suis ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "je suis ici"
+    },
+    {
+      "frase_fr": "tu es ici",
+      "traducao_pt": "tu es ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu es ici"
+    },
+    {
+      "frase_fr": "il est ici",
+      "traducao_pt": "il est ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il est ici"
+    },
+    {
+      "frase_fr": "nous sommes ici",
+      "traducao_pt": "nous sommes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous sommes ici"
+    },
+    {
+      "frase_fr": "vous êtes ici",
+      "traducao_pt": "vous êtes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous êtes ici"
+    },
+    {
+      "frase_fr": "ils sont ici",
+      "traducao_pt": "ils sont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils sont ici"
+    },
+    {
+      "frase_fr": "j'ai ici",
+      "traducao_pt": "j'ai ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "j'ai ici"
+    },
+    {
+      "frase_fr": "tu as ici",
+      "traducao_pt": "tu as ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu as ici"
+    },
+    {
+      "frase_fr": "il a ici",
+      "traducao_pt": "il a ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il a ici"
+    },
+    {
+      "frase_fr": "nous avons ici",
+      "traducao_pt": "nous avons ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous avons ici"
+    },
+    {
+      "frase_fr": "vous avez ici",
+      "traducao_pt": "vous avez ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous avez ici"
+    },
+    {
+      "frase_fr": "ils ont ici",
+      "traducao_pt": "ils ont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils ont ici"
+    },
+    {
+      "frase_fr": "je suis ici",
+      "traducao_pt": "je suis ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "je suis ici"
+    },
+    {
+      "frase_fr": "tu es ici",
+      "traducao_pt": "tu es ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu es ici"
+    },
+    {
+      "frase_fr": "il est ici",
+      "traducao_pt": "il est ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il est ici"
+    },
+    {
+      "frase_fr": "nous sommes ici",
+      "traducao_pt": "nous sommes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous sommes ici"
+    },
+    {
+      "frase_fr": "vous êtes ici",
+      "traducao_pt": "vous êtes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous êtes ici"
+    },
+    {
+      "frase_fr": "ils sont ici",
+      "traducao_pt": "ils sont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils sont ici"
+    },
+    {
+      "frase_fr": "j'ai ici",
+      "traducao_pt": "j'ai ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "j'ai ici"
+    },
+    {
+      "frase_fr": "tu as ici",
+      "traducao_pt": "tu as ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu as ici"
+    },
+    {
+      "frase_fr": "il a ici",
+      "traducao_pt": "il a ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il a ici"
+    },
+    {
+      "frase_fr": "nous avons ici",
+      "traducao_pt": "nous avons ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous avons ici"
+    },
+    {
+      "frase_fr": "vous avez ici",
+      "traducao_pt": "vous avez ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous avez ici"
+    },
+    {
+      "frase_fr": "ils ont ici",
+      "traducao_pt": "ils ont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils ont ici"
+    },
+    {
+      "frase_fr": "je suis ici",
+      "traducao_pt": "je suis ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "je suis ici"
+    },
+    {
+      "frase_fr": "tu es ici",
+      "traducao_pt": "tu es ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu es ici"
+    },
+    {
+      "frase_fr": "il est ici",
+      "traducao_pt": "il est ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il est ici"
+    },
+    {
+      "frase_fr": "nous sommes ici",
+      "traducao_pt": "nous sommes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous sommes ici"
+    },
+    {
+      "frase_fr": "vous êtes ici",
+      "traducao_pt": "vous êtes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous êtes ici"
+    },
+    {
+      "frase_fr": "ils sont ici",
+      "traducao_pt": "ils sont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils sont ici"
+    },
+    {
+      "frase_fr": "j'ai ici",
+      "traducao_pt": "j'ai ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "j'ai ici"
+    },
+    {
+      "frase_fr": "tu as ici",
+      "traducao_pt": "tu as ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu as ici"
+    },
+    {
+      "frase_fr": "il a ici",
+      "traducao_pt": "il a ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il a ici"
+    },
+    {
+      "frase_fr": "nous avons ici",
+      "traducao_pt": "nous avons ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous avons ici"
+    },
+    {
+      "frase_fr": "vous avez ici",
+      "traducao_pt": "vous avez ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous avez ici"
+    },
+    {
+      "frase_fr": "ils ont ici",
+      "traducao_pt": "ils ont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils ont ici"
+    },
+    {
+      "frase_fr": "je suis ici",
+      "traducao_pt": "je suis ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "je suis ici"
+    },
+    {
+      "frase_fr": "tu es ici",
+      "traducao_pt": "tu es ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu es ici"
+    },
+    {
+      "frase_fr": "il est ici",
+      "traducao_pt": "il est ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il est ici"
+    },
+    {
+      "frase_fr": "nous sommes ici",
+      "traducao_pt": "nous sommes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous sommes ici"
+    },
+    {
+      "frase_fr": "vous êtes ici",
+      "traducao_pt": "vous êtes ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous êtes ici"
+    },
+    {
+      "frase_fr": "ils sont ici",
+      "traducao_pt": "ils sont ici",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "ils sont ici"
+    }
+  ]
+}

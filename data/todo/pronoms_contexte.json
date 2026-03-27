@@ -1,0 +1,393 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "pronoms_contexte",
+  "level_tag": "A1",
+  "theme_tag": "pronoms_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "avec je",
+      "traducao_pt": "avec je",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec je"
+    },
+    {
+      "frase_fr": "avec tu",
+      "traducao_pt": "avec tu",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec tu"
+    },
+    {
+      "frase_fr": "avec il",
+      "traducao_pt": "avec il",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec il"
+    },
+    {
+      "frase_fr": "avec nous",
+      "traducao_pt": "avec nous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec nous"
+    },
+    {
+      "frase_fr": "avec vous",
+      "traducao_pt": "avec vous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec vous"
+    },
+    {
+      "frase_fr": "avec eux",
+      "traducao_pt": "avec eux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec eux"
+    },
+    {
+      "frase_fr": "avec elle",
+      "traducao_pt": "avec elle",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec elle"
+    },
+    {
+      "frase_fr": "avec moi",
+      "traducao_pt": "avec moi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec moi"
+    },
+    {
+      "frase_fr": "avec toi",
+      "traducao_pt": "avec toi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec toi"
+    },
+    {
+      "frase_fr": "avec je",
+      "traducao_pt": "avec je",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec je"
+    },
+    {
+      "frase_fr": "avec tu",
+      "traducao_pt": "avec tu",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec tu"
+    },
+    {
+      "frase_fr": "avec il",
+      "traducao_pt": "avec il",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec il"
+    },
+    {
+      "frase_fr": "avec nous",
+      "traducao_pt": "avec nous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec nous"
+    },
+    {
+      "frase_fr": "avec vous",
+      "traducao_pt": "avec vous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec vous"
+    },
+    {
+      "frase_fr": "avec eux",
+      "traducao_pt": "avec eux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec eux"
+    },
+    {
+      "frase_fr": "avec elle",
+      "traducao_pt": "avec elle",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec elle"
+    },
+    {
+      "frase_fr": "avec moi",
+      "traducao_pt": "avec moi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec moi"
+    },
+    {
+      "frase_fr": "avec toi",
+      "traducao_pt": "avec toi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec toi"
+    },
+    {
+      "frase_fr": "avec je",
+      "traducao_pt": "avec je",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec je"
+    },
+    {
+      "frase_fr": "avec tu",
+      "traducao_pt": "avec tu",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec tu"
+    },
+    {
+      "frase_fr": "avec il",
+      "traducao_pt": "avec il",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec il"
+    },
+    {
+      "frase_fr": "avec nous",
+      "traducao_pt": "avec nous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec nous"
+    },
+    {
+      "frase_fr": "avec vous",
+      "traducao_pt": "avec vous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec vous"
+    },
+    {
+      "frase_fr": "avec eux",
+      "traducao_pt": "avec eux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec eux"
+    },
+    {
+      "frase_fr": "avec elle",
+      "traducao_pt": "avec elle",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec elle"
+    },
+    {
+      "frase_fr": "avec moi",
+      "traducao_pt": "avec moi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec moi"
+    },
+    {
+      "frase_fr": "avec toi",
+      "traducao_pt": "avec toi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec toi"
+    },
+    {
+      "frase_fr": "avec je",
+      "traducao_pt": "avec je",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec je"
+    },
+    {
+      "frase_fr": "avec tu",
+      "traducao_pt": "avec tu",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec tu"
+    },
+    {
+      "frase_fr": "avec il",
+      "traducao_pt": "avec il",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec il"
+    },
+    {
+      "frase_fr": "avec nous",
+      "traducao_pt": "avec nous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec nous"
+    },
+    {
+      "frase_fr": "avec vous",
+      "traducao_pt": "avec vous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec vous"
+    },
+    {
+      "frase_fr": "avec eux",
+      "traducao_pt": "avec eux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec eux"
+    },
+    {
+      "frase_fr": "avec elle",
+      "traducao_pt": "avec elle",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec elle"
+    },
+    {
+      "frase_fr": "avec moi",
+      "traducao_pt": "avec moi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec moi"
+    },
+    {
+      "frase_fr": "avec toi",
+      "traducao_pt": "avec toi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec toi"
+    },
+    {
+      "frase_fr": "avec je",
+      "traducao_pt": "avec je",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec je"
+    },
+    {
+      "frase_fr": "avec tu",
+      "traducao_pt": "avec tu",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec tu"
+    },
+    {
+      "frase_fr": "avec il",
+      "traducao_pt": "avec il",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec il"
+    },
+    {
+      "frase_fr": "avec nous",
+      "traducao_pt": "avec nous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec nous"
+    },
+    {
+      "frase_fr": "avec vous",
+      "traducao_pt": "avec vous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec vous"
+    },
+    {
+      "frase_fr": "avec eux",
+      "traducao_pt": "avec eux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec eux"
+    },
+    {
+      "frase_fr": "avec elle",
+      "traducao_pt": "avec elle",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec elle"
+    },
+    {
+      "frase_fr": "avec moi",
+      "traducao_pt": "avec moi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec moi"
+    },
+    {
+      "frase_fr": "avec toi",
+      "traducao_pt": "avec toi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec toi"
+    },
+    {
+      "frase_fr": "avec je",
+      "traducao_pt": "avec je",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec je"
+    },
+    {
+      "frase_fr": "avec tu",
+      "traducao_pt": "avec tu",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec tu"
+    },
+    {
+      "frase_fr": "avec il",
+      "traducao_pt": "avec il",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec il"
+    },
+    {
+      "frase_fr": "avec nous",
+      "traducao_pt": "avec nous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec nous"
+    },
+    {
+      "frase_fr": "avec vous",
+      "traducao_pt": "avec vous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec vous"
+    },
+    {
+      "frase_fr": "avec eux",
+      "traducao_pt": "avec eux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec eux"
+    },
+    {
+      "frase_fr": "avec elle",
+      "traducao_pt": "avec elle",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec elle"
+    },
+    {
+      "frase_fr": "avec moi",
+      "traducao_pt": "avec moi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec moi"
+    },
+    {
+      "frase_fr": "avec toi",
+      "traducao_pt": "avec toi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "avec toi"
+    }
+  ]
+}

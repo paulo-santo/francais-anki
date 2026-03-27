@@ -1,0 +1,232 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "dates_isole",
+  "level_tag": "A1",
+  "theme_tag": "dates_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "1 janvier",
+      "traducao_pt": "1 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "1 janvier"
+    },
+    {
+      "frase_fr": "2 janvier",
+      "traducao_pt": "2 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "2 janvier"
+    },
+    {
+      "frase_fr": "3 janvier",
+      "traducao_pt": "3 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "3 janvier"
+    },
+    {
+      "frase_fr": "4 janvier",
+      "traducao_pt": "4 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "4 janvier"
+    },
+    {
+      "frase_fr": "5 janvier",
+      "traducao_pt": "5 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "5 janvier"
+    },
+    {
+      "frase_fr": "6 janvier",
+      "traducao_pt": "6 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "6 janvier"
+    },
+    {
+      "frase_fr": "7 janvier",
+      "traducao_pt": "7 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "7 janvier"
+    },
+    {
+      "frase_fr": "8 janvier",
+      "traducao_pt": "8 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "8 janvier"
+    },
+    {
+      "frase_fr": "9 janvier",
+      "traducao_pt": "9 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "9 janvier"
+    },
+    {
+      "frase_fr": "10 janvier",
+      "traducao_pt": "10 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "10 janvier"
+    },
+    {
+      "frase_fr": "11 janvier",
+      "traducao_pt": "11 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "11 janvier"
+    },
+    {
+      "frase_fr": "12 janvier",
+      "traducao_pt": "12 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "12 janvier"
+    },
+    {
+      "frase_fr": "13 janvier",
+      "traducao_pt": "13 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "13 janvier"
+    },
+    {
+      "frase_fr": "14 janvier",
+      "traducao_pt": "14 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "14 janvier"
+    },
+    {
+      "frase_fr": "15 janvier",
+      "traducao_pt": "15 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "15 janvier"
+    },
+    {
+      "frase_fr": "16 janvier",
+      "traducao_pt": "16 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "16 janvier"
+    },
+    {
+      "frase_fr": "17 janvier",
+      "traducao_pt": "17 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "17 janvier"
+    },
+    {
+      "frase_fr": "18 janvier",
+      "traducao_pt": "18 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "18 janvier"
+    },
+    {
+      "frase_fr": "19 janvier",
+      "traducao_pt": "19 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "19 janvier"
+    },
+    {
+      "frase_fr": "20 janvier",
+      "traducao_pt": "20 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "20 janvier"
+    },
+    {
+      "frase_fr": "21 janvier",
+      "traducao_pt": "21 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "21 janvier"
+    },
+    {
+      "frase_fr": "22 janvier",
+      "traducao_pt": "22 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "22 janvier"
+    },
+    {
+      "frase_fr": "23 janvier",
+      "traducao_pt": "23 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "23 janvier"
+    },
+    {
+      "frase_fr": "24 janvier",
+      "traducao_pt": "24 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "24 janvier"
+    },
+    {
+      "frase_fr": "25 janvier",
+      "traducao_pt": "25 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "25 janvier"
+    },
+    {
+      "frase_fr": "26 janvier",
+      "traducao_pt": "26 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "26 janvier"
+    },
+    {
+      "frase_fr": "27 janvier",
+      "traducao_pt": "27 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "27 janvier"
+    },
+    {
+      "frase_fr": "28 janvier",
+      "traducao_pt": "28 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "28 janvier"
+    },
+    {
+      "frase_fr": "29 janvier",
+      "traducao_pt": "29 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "29 janvier"
+    },
+    {
+      "frase_fr": "30 janvier",
+      "traducao_pt": "30 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "30 janvier"
+    },
+    {
+      "frase_fr": "31 janvier",
+      "traducao_pt": "31 janvier",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "31 janvier"
+    }
+  ]
+}

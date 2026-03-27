@@ -1,0 +1,379 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "quel_contexte",
+  "level_tag": "A1",
+  "theme_tag": "quel_contexte",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    },
+    {
+      "frase_fr": "quel livre",
+      "traducao_pt": "quel livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quel livre"
+    },
+    {
+      "frase_fr": "quelle livre",
+      "traducao_pt": "quelle livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelle livre"
+    },
+    {
+      "frase_fr": "quels livre",
+      "traducao_pt": "quels livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quels livre"
+    },
+    {
+      "frase_fr": "quelles livre",
+      "traducao_pt": "quelles livre",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "quelles livre"
+    }
+  ]
+}

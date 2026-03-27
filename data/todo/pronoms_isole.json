@@ -1,0 +1,78 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "pronoms_isole",
+  "level_tag": "A1",
+  "theme_tag": "pronoms_isole",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "je",
+      "traducao_pt": "je",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "je"
+    },
+    {
+      "frase_fr": "tu",
+      "traducao_pt": "tu",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "tu"
+    },
+    {
+      "frase_fr": "il",
+      "traducao_pt": "il",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "il"
+    },
+    {
+      "frase_fr": "nous",
+      "traducao_pt": "nous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "nous"
+    },
+    {
+      "frase_fr": "vous",
+      "traducao_pt": "vous",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "vous"
+    },
+    {
+      "frase_fr": "eux",
+      "traducao_pt": "eux",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "eux"
+    },
+    {
+      "frase_fr": "elle",
+      "traducao_pt": "elle",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "elle"
+    },
+    {
+      "frase_fr": "moi",
+      "traducao_pt": "moi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "moi"
+    },
+    {
+      "frase_fr": "toi",
+      "traducao_pt": "toi",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "toi"
+    }
+  ]
+}
