@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import random
 import shutil
+import subprocess
 import tempfile
 import time
 from dataclasses import dataclass
@@ -10,7 +11,6 @@ from pathlib import Path
 
 import aiohttp
 import edge_tts
-from pydub import AudioSegment
 
 from .config import PAUSE_MS
 from .models import InputNote, PreparedNote, TtsOptions, VoiceOptions
@@ -34,6 +34,30 @@ def ensure_ffmpeg_available() -> None:
         raise AudioGenerationError(
             "ffmpeg nao encontrado no PATH. Instale-o antes de gerar os audios."
         )
+
+
+def _concat_mp3_with_pause(
+    part_a: Path, part_b: Path, output: Path, pause_ms: int
+) -> None:
+    """Concatenate two MP3 files with silence in between using ffmpeg."""
+    pause_sec = pause_ms / 1000.0
+    subprocess.run(
+        [
+            "ffmpeg",
+            "-y",
+            "-i",
+            str(part_a),
+            "-i",
+            str(part_b),
+            "-filter_complex",
+            f"aevalsrc=0:d={pause_sec}[sil];[0:a][sil][1:a]concat=n=3:v=0:a=1[out]",
+            "-map",
+            "[out]",
+            str(output),
+        ],
+        check=True,
+        capture_output=True,
+    )
 
 @dataclass(slots=True)
 class VoiceSelection:
@@ -118,7 +142,8 @@ async def synthesize_mp3(
         connect_timeout=tts_options.connect_timeout,
         receive_timeout=tts_options.receive_timeout,
     )
-    await communicator.save(str(output_path))
+    total_timeout = tts_options.connect_timeout + tts_options.receive_timeout + 5
+    await asyncio.wait_for(communicator.save(str(output_path)), timeout=total_timeout)
 
 
 def is_retryable_tts_error(exc: Exception) -> bool:
@@ -305,11 +330,7 @@ def generate_audio_bundle(
             tts_options,
         )
 
-        clip_a = AudioSegment.from_file(segment_a, format="mp3")
-        clip_b = AudioSegment.from_file(segment_b, format="mp3")
-        pause = AudioSegment.silent(duration=PAUSE_MS)
-        combined = clip_a + pause + clip_b
-        combined.export(final_path, format="mp3")
+        _concat_mp3_with_pause(segment_a, segment_b, final_path, PAUSE_MS)
 
     return PreparedNote(
         input_note=note,

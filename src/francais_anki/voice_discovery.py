@@ -79,7 +79,7 @@ async def discover_voices_async() -> VoiceCatalog:
 
 def discover_voices() -> VoiceCatalog:
     try:
-        return asyncio.run(discover_voices_async())
+        return asyncio.run(asyncio.wait_for(discover_voices_async(), timeout=15.0))
     except Exception:
         return VoiceCatalog(
             fr_fr_voices=FALLBACK_FR_FR_VOICES,

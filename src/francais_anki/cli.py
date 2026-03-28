@@ -20,11 +20,16 @@ def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Gera decks do Anki com audio em frances e sincronizacao opcional via AnkiConnect."
     )
-    parser.add_argument(
+    input_group = parser.add_mutually_exclusive_group(required=True)
+    input_group.add_argument(
         "--input",
         type=Path,
-        required=True,
         help="Caminho para o JSON de entrada.",
+    )
+    input_group.add_argument(
+        "--input-dir",
+        type=Path,
+        help="Diretorio com arquivos JSON para processamento em lote (busca recursiva).",
     )
     parser.add_argument(
         "--project-root",
@@ -65,46 +70,42 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
-def main(argv: list[str] | None = None) -> int:
-    parser = build_parser()
-    args = parser.parse_args(argv)
+def discover_input_files(input_path: Path) -> list[Path]:
+    resolved_input = input_path.resolve()
+    if resolved_input.is_file():
+        return [resolved_input]
+    if not resolved_input.is_dir():
+        raise FileNotFoundError(f"Caminho de entrada nao encontrado: {resolved_input}")
 
-    paths = AppPaths(project_root=args.project_root.resolve())
-    paths.ensure()
-    log_path = configure_logging(paths.logs_dir)
+    json_files = sorted(path for path in resolved_input.rglob("*.json") if path.is_file())
+    if not json_files:
+        raise FileNotFoundError(f"Nenhum arquivo JSON encontrado em: {resolved_input}")
+    return json_files
+
+
+def process_input_file(
+    input_path: Path,
+    *,
+    paths: AppPaths,
+    skip_ankiconnect: bool,
+    tts_options: TtsOptions,
+    voice_catalog,
+) -> int:
     logger = get_logger()
-
-    logger.info("Descobrindo vozes disponiveis via edge-tts...")
-    voice_catalog = discover_voices()
-    logger.info("Voices descobertas: FR-FR=%d, FR-Extended=%d, FR-CA=%d",
-                len(voice_catalog.fr_fr_voices),
-                len(voice_catalog.fr_extended_voices),
-                len(voice_catalog.fr_ca_voices))
-
-    logger.info("Carregando entrada JSON de %s", args.input)
-    payload = load_json(args.input.resolve())
+    logger.info("Carregando entrada JSON de %s", input_path)
+    payload = load_json(input_path)
     deck_input = DeckInput.from_dict(payload, voice_catalog)
-    tts_options = TtsOptions(
-        connect_timeout=max(1, args.tts_connect_timeout),
-        receive_timeout=max(1, args.tts_receive_timeout),
-        retries=max(0, args.tts_retries),
-        final_retry_pass=bool(args.tts_final_retry_pass),
-    )
 
     if not deck_input.notes:
-        logger.error("Nenhuma nota foi encontrada no JSON informado.")
+        logger.error("Nenhuma nota foi encontrada no JSON informado: %s", input_path)
         return 1
 
-    logger.info(
-        "Configuracao TTS: connect_timeout=%ss, receive_timeout=%ss, retries=%s, final_retry_pass=%s",
-        tts_options.connect_timeout,
-        tts_options.receive_timeout,
-        tts_options.retries,
-        tts_options.final_retry_pass,
-    )
     prepare_result = prepare_notes(deck_input, paths.media_dir, tts_options)
     if not prepare_result.prepared_notes:
-        logger.error("Nenhuma nota com audio foi gerada; pacote .apkg nao sera criado.")
+        logger.error(
+            "Nenhuma nota com audio foi gerada para %s; pacote .apkg nao sera criado.",
+            input_path,
+        )
         return 1
 
     package_path = build_package(
@@ -114,9 +115,8 @@ def main(argv: list[str] | None = None) -> int:
         paths.media_dir,
     )
     logger.info("Pacote .apkg disponivel em %s", package_path)
-    logger.info("Log salvo em %s", log_path)
 
-    if args.skip_ankiconnect:
+    if skip_ankiconnect:
         logger.info("Tentativa via AnkiConnect pulada por parametro.")
         return 0
 
@@ -137,6 +137,71 @@ def main(argv: list[str] | None = None) -> int:
         stats.updated,
         stats.skipped,
     )
+    return 0
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = build_parser()
+    args = parser.parse_args(argv)
+
+    paths = AppPaths(project_root=args.project_root.resolve())
+    paths.ensure()
+    log_path = configure_logging(paths.logs_dir)
+    logger = get_logger()
+
+    logger.info("Descobrindo vozes disponiveis via edge-tts...")
+    voice_catalog = discover_voices()
+    logger.info("Voices descobertas: FR-FR=%d, FR-Extended=%d, FR-CA=%d",
+                len(voice_catalog.fr_fr_voices),
+                len(voice_catalog.fr_extended_voices),
+                len(voice_catalog.fr_ca_voices))
+
+    tts_options = TtsOptions(
+        connect_timeout=max(1, args.tts_connect_timeout),
+        receive_timeout=max(1, args.tts_receive_timeout),
+        retries=max(0, args.tts_retries),
+        final_retry_pass=bool(args.tts_final_retry_pass),
+    )
+    logger.info(
+        "Configuracao TTS: connect_timeout=%ss, receive_timeout=%ss, retries=%s, final_retry_pass=%s",
+        tts_options.connect_timeout,
+        tts_options.receive_timeout,
+        tts_options.retries,
+        tts_options.final_retry_pass,
+    )
+
+    input_target = args.input_dir or args.input
+    input_files = discover_input_files(input_target)
+    logger.info("Processando %s arquivo(s) JSON de %s", len(input_files), input_target.resolve())
+
+    failed_inputs: list[Path] = []
+    for input_file in input_files:
+        logger.info("Iniciando processamento de %s", input_file)
+        try:
+            exit_code = process_input_file(
+                input_file,
+                paths=paths,
+                skip_ankiconnect=args.skip_ankiconnect,
+                tts_options=tts_options,
+                voice_catalog=voice_catalog,
+            )
+        except Exception:
+            logger.exception("Falha inesperada ao processar %s", input_file)
+            exit_code = 1
+
+        if exit_code != 0:
+            failed_inputs.append(input_file)
+
+    logger.info("Log salvo em %s", log_path)
+    if failed_inputs:
+        logger.error(
+            "Processamento concluido com falhas em %s arquivo(s): %s",
+            len(failed_inputs),
+            ", ".join(str(path) for path in failed_inputs),
+        )
+        return 1
+
+    logger.info("Processamento concluido com sucesso para %s arquivo(s).", len(input_files))
     return 0
 
 

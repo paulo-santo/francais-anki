@@ -276,6 +276,40 @@ class AudioResilienceTests(unittest.TestCase):
         self.assertEqual(args.tts_retries, 4)
         self.assertFalse(args.tts_final_retry_pass)
 
+    def test_cli_parser_accepts_input_dir(self) -> None:
+        parser = __import__("francais_anki.cli", fromlist=["build_parser"]).build_parser()
+
+        args = parser.parse_args(
+            [
+                "--input-dir",
+                "data/todo",
+            ]
+        )
+
+        self.assertEqual(args.input_dir, Path("data/todo"))
+        self.assertIsNone(args.input)
+
+    def test_discover_input_files_supports_single_file_and_recursive_directory(self) -> None:
+        cli = __import__("francais_anki.cli", fromlist=["discover_input_files"])
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            single_file = root / "one.json"
+            nested_dir = root / "nested" / "deeper"
+            nested_dir.mkdir(parents=True)
+            nested_file = nested_dir / "two.json"
+            ignored_file = root / "ignore.txt"
+
+            single_file.write_text("{}", encoding="utf-8")
+            nested_file.write_text("{}", encoding="utf-8")
+            ignored_file.write_text("x", encoding="utf-8")
+
+            self.assertEqual(cli.discover_input_files(single_file), [single_file.resolve()])
+            self.assertEqual(
+                cli.discover_input_files(root),
+                sorted([single_file.resolve(), nested_file.resolve()]),
+            )
+
 
 if __name__ == "__main__":
     unittest.main()

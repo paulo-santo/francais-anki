@@ -133,6 +133,14 @@ Ou, se instalado com `pip install -e .`:
 francais-anki --input data/input.example.json
 ```
 
+Para processar todos os JSONs de um diretorio de forma recursiva:
+
+```bash
+PYTHONPATH=src python3 -m francais_anki.cli --input-dir data/todo
+```
+
+O diretorio e parametrizavel, entao voce pode apontar para qualquer pasta com arquivos `.json`.
+
 Para gerar apenas o `.apkg` sem tentar AnkiConnect:
 
 ```bash
