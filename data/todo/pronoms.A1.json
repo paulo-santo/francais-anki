@@ -1,0 +1,84 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "pronoms_A1",
+  "level_tag": "A1",
+  "theme_tag": "pronoms",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {"frase_fr":"je","traducao_pt":"eu","ipa":"","observacao":"","audio_text":"je"},
+    {"frase_fr":"tu","traducao_pt":"tu/você","ipa":"","observacao":"informal","audio_text":"tu"},
+    {"frase_fr":"il","traducao_pt":"ele","ipa":"","observacao":"","audio_text":"il"},
+    {"frase_fr":"elle","traducao_pt":"ela","ipa":"","observacao":"","audio_text":"elle"},
+    {"frase_fr":"nous","traducao_pt":"nós","ipa":"","observacao":"","audio_text":"nous"},
+    {"frase_fr":"vous","traducao_pt":"você(s)","ipa":"","observacao":"formal/plural","audio_text":"vous"},
+    {"frase_fr":"ils","traducao_pt":"eles","ipa":"","observacao":"","audio_text":"ils"},
+    {"frase_fr":"elles","traducao_pt":"elas","ipa":"","observacao":"feminino","audio_text":"elles"},
+
+    {"frase_fr":"moi","traducao_pt":"mim / eu (tônico)","ipa":"","observacao":"","audio_text":"moi"},
+    {"frase_fr":"toi","traducao_pt":"ti / você (tônico)","ipa":"","observacao":"informal","audio_text":"toi"},
+    {"frase_fr":"lui","traducao_pt":"ele (tônico)","ipa":"","observacao":"","audio_text":"lui"},
+    {"frase_fr":"elle (tonique)","traducao_pt":"ela (tônico)","ipa":"","observacao":"","audio_text":"elle (tonique)"},
+    {"frase_fr":"nous (tonique)","traducao_pt":"nós (tônico)","ipa":"","observacao":"","audio_text":"nous (tonique)"},
+    {"frase_fr":"vous (tonique)","traducao_pt":"vocês (tônico)","ipa":"","observacao":"","audio_text":"vous (tonique)"},
+    {"frase_fr":"eux","traducao_pt":"eles (tônico)","ipa":"","observacao":"","audio_text":"eux"},
+    {"frase_fr":"elles (tonique)","traducao_pt":"elas (tônico)","ipa":"","observacao":"feminino","audio_text":"elles (tonique)"},
+
+    {"frase_fr":"Je suis ici.","traducao_pt":"Eu estou aqui.","ipa":"","observacao":"","audio_text":"Je suis ici."},
+    {"frase_fr":"Tu es là ?","traducao_pt":"Você está aí?","ipa":"","observacao":"pergunta","audio_text":"Tu es là ?"},
+    {"frase_fr":"Il est ici.","traducao_pt":"Ele está aqui.","ipa":"","observacao":"liaison: t","audio_text":"Il est ici."},
+    {"frase_fr":"Elle est ici.","traducao_pt":"Ela está aqui.","ipa":"","observacao":"liaison: t","audio_text":"Elle est ici."},
+    {"frase_fr":"Nous avons un problème.","traducao_pt":"Nós temos um problema.","ipa":"","observacao":"liaison: z","audio_text":"Nous avons un problème."},
+    {"frase_fr":"Vous avez faim ?","traducao_pt":"Você está com fome?","ipa":"","observacao":"liaison: z,pergunta","audio_text":"Vous avez faim ?"},
+    {"frase_fr":"Ils ont un chien.","traducao_pt":"Eles têm um cachorro.","ipa":"","observacao":"liaison: z","audio_text":"Ils ont un chien."},
+    {"frase_fr":"Elles ont une voiture.","traducao_pt":"Elas têm um carro.","ipa":"","observacao":"liaison: z,feminino","audio_text":"Elles ont une voiture."},
+
+    {"frase_fr":"Moi, je viens.","traducao_pt":"Eu, eu venho.","ipa":"","observacao":"ênfase","audio_text":"Moi, je viens."},
+    {"frase_fr":"Toi, tu pars ?","traducao_pt":"E você, vai?","ipa":"","observacao":"ênfase,pergunta","audio_text":"Toi, tu pars ?"},
+    {"frase_fr":"Lui, il reste.","traducao_pt":"Ele, ele fica.","ipa":"","observacao":"ênfase","audio_text":"Lui, il reste."},
+    {"frase_fr":"Elle, elle travaille.","traducao_pt":"Ela, ela trabalha.","ipa":"","observacao":"ênfase,feminino","audio_text":"Elle, elle travaille."},
+    {"frase_fr":"Nous, on part.","traducao_pt":"Nós, a gente sai.","ipa":"","observacao":"informal","audio_text":"Nous, on part."},
+    {"frase_fr":"Vous, vous comprenez ?","traducao_pt":"E você, entende?","ipa":"","observacao":"formal,pergunta","audio_text":"Vous, vous comprenez ?"},
+    {"frase_fr":"Eux, ils arrivent.","traducao_pt":"Eles, eles chegam.","ipa":"","observacao":"","audio_text":"Eux, ils arrivent."},
+    {"frase_fr":"Elles, elles parlent.","traducao_pt":"Elas, elas falam.","ipa":"","observacao":"feminino","audio_text":"Elles, elles parlent."},
+
+    {"frase_fr":"Je ne viens pas.","traducao_pt":"Eu não venho.","ipa":"","observacao":"negação","audio_text":"Je ne viens pas."},
+    {"frase_fr":"Tu ne comprends pas.","traducao_pt":"Você não entende.","ipa":"","observacao":"negação","audio_text":"Tu ne comprends pas."},
+    {"frase_fr":"Il ne travaille pas.","traducao_pt":"Ele não trabalha.","ipa":"","observacao":"negação","audio_text":"Il ne travaille pas."},
+    {"frase_fr":"Elle ne parle pas.","traducao_pt":"Ela não fala.","ipa":"","observacao":"negação,feminino","audio_text":"Elle ne parle pas."},
+    {"frase_fr":"Nous ne partons pas.","traducao_pt":"Nós não partimos.","ipa":"","observacao":"negação","audio_text":"Nous ne partons pas."},
+    {"frase_fr":"Vous ne venez pas ?","traducao_pt":"Você não vem?","ipa":"","observacao":"negação,pergunta","audio_text":"Vous ne venez pas ?"},
+    {"frase_fr":"Ils ne sont pas là.","traducao_pt":"Eles não estão aí.","ipa":"","observacao":"negação","audio_text":"Ils ne sont pas là."},
+    {"frase_fr":"Elles ne sont pas ici.","traducao_pt":"Elas não estão aqui.","ipa":"","observacao":"negação,feminino","audio_text":"Elles ne sont pas ici."},
+
+    {"frase_fr":"C’est moi.","traducao_pt":"Sou eu.","ipa":"","observacao":"","audio_text":"C’est moi."},
+    {"frase_fr":"C’est toi ?","traducao_pt":"É você?","ipa":"","observacao":"pergunta","audio_text":"C’est toi ?"},
+    {"frase_fr":"C’est lui.","traducao_pt":"É ele.","ipa":"","observacao":"","audio_text":"C’est lui."},
+    {"frase_fr":"C’est elle.","traducao_pt":"É ela.","ipa":"","observacao":"feminino","audio_text":"C’est elle."},
+    {"frase_fr":"Ce sont eux.","traducao_pt":"São eles.","ipa":"","observacao":"plural","audio_text":"Ce sont eux."},
+    {"frase_fr":"Ce sont elles.","traducao_pt":"São elas.","ipa":"","observacao":"plural,feminino","audio_text":"Ce sont elles."},
+
+    {"frase_fr":"J’aime ça.","traducao_pt":"Eu gosto disso.","ipa":"","observacao":"contração","audio_text":"J’aime ça."},
+    {"frase_fr":"T’aimes ça ?","traducao_pt":"Você gosta disso?","ipa":"","observacao":"informal,pergunta","audio_text":"T’aimes ça ?"},
+    {"frase_fr":"Il aime ça.","traducao_pt":"Ele gosta disso.","ipa":"","observacao":"","audio_text":"Il aime ça."},
+    {"frase_fr":"Elle aime ça.","traducao_pt":"Ela gosta disso.","ipa":"","observacao":"feminino","audio_text":"Elle aime ça."},
+
+    {"frase_fr":"On est ici.","traducao_pt":"A gente está aqui.","ipa":"","observacao":"informal","audio_text":"On est ici."},
+    {"frase_fr":"On a un problème.","traducao_pt":"A gente tem um problema.","ipa":"","observacao":"informal","audio_text":"On a un problème."},
+    {"frase_fr":"On n’a pas le temps.","traducao_pt":"A gente não tem tempo.","ipa":"","observacao":"negação,informal","audio_text":"On n’a pas le temps."},
+
+    {"frase_fr":"Il y a un problème.","traducao_pt":"Há um problema.","ipa":"","observacao":"","audio_text":"Il y a un problème."},
+    {"frase_fr":"Il y en a deux.","traducao_pt":"Há dois.","ipa":"","observacao":"liaison: n","audio_text":"Il y en a deux."},
+    {"frase_fr":"Il y en a beaucoup.","traducao_pt":"Há muitos.","ipa":"","observacao":"liaison: n","audio_text":"Il y en a beaucoup."},
+
+    {"frase_fr":"Nous sommes ici.","traducao_pt":"Nós estamos aqui.","ipa":"","observacao":"","audio_text":"Nous sommes ici."},
+    {"frase_fr":"Vous êtes ici ?","traducao_pt":"Você está aqui?","ipa":"","observacao":"liaison: z,pergunta","audio_text":"Vous êtes ici ?"},
+    {"frase_fr":"Ils arrivent.","traducao_pt":"Eles chegam.","ipa":"","observacao":"liaison opcional","audio_text":"Ils arrivent."},
+    {"frase_fr":"Elles arrivent.","traducao_pt":"Elas chegam.","ipa":"","observacao":"liaison opcional,feminino","audio_text":"Elles arrivent."}
+  ]
+}

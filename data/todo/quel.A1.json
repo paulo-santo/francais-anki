@@ -1,0 +1,225 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "quel_A1",
+  "level_tag": "A1",
+  "theme_tag": "quel",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "Quel livre tu lis ?",
+      "traducao_pt": "Qual livro você está lendo?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Quel livre tu lis ?"
+    },
+    {
+      "frase_fr": "Quelle heure est-il ?",
+      "traducao_pt": "Que horas são?",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Quelle heure est-il ?"
+    },
+    {
+      "frase_fr": "Quels films tu aimes ?",
+      "traducao_pt": "Quais filmes você gosta?",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Quels films tu aimes ?"
+    },
+    {
+      "frase_fr": "Quelles langues tu parles ?",
+      "traducao_pt": "Quais línguas você fala?",
+      "ipa": "",
+      "observacao": "plural,feminino",
+      "audio_text": "Quelles langues tu parles ?"
+    },
+    {
+      "frase_fr": "Quel est ton nom ?",
+      "traducao_pt": "Qual é o seu nome?",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Quel est ton nom ?"
+    },
+    {
+      "frase_fr": "Quelle est ta ville ?",
+      "traducao_pt": "Qual é a sua cidade?",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Quelle est ta ville ?"
+    },
+    {
+      "frase_fr": "Quels sont tes plans ?",
+      "traducao_pt": "Quais são seus planos?",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Quels sont tes plans ?"
+    },
+    {
+      "frase_fr": "Quelles sont tes idées ?",
+      "traducao_pt": "Quais são suas ideias?",
+      "ipa": "",
+      "observacao": "plural,feminino",
+      "audio_text": "Quelles sont tes idées ?"
+    },
+    {
+      "frase_fr": "Quel jour on est ?",
+      "traducao_pt": "Que dia é hoje?",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "Quel jour on est ?"
+    },
+    {
+      "frase_fr": "Quelle date aujourd’hui ?",
+      "traducao_pt": "Qual a data de hoje?",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "Quelle date aujourd’hui ?"
+    },
+    {
+      "frase_fr": "Quel train tu prends ?",
+      "traducao_pt": "Qual trem você pega?",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Quel train tu prends ?"
+    },
+    {
+      "frase_fr": "Quelle table vous voulez ?",
+      "traducao_pt": "Qual mesa você quer?",
+      "ipa": "",
+      "observacao": "formal",
+      "audio_text": "Quelle table vous voulez ?"
+    },
+    {
+      "frase_fr": "Quels restaurants tu connais ?",
+      "traducao_pt": "Quais restaurantes você conhece?",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Quels restaurants tu connais ?"
+    },
+    {
+      "frase_fr": "Quelles rues tu connais ?",
+      "traducao_pt": "Quais ruas você conhece?",
+      "ipa": "",
+      "observacao": "plural,feminino",
+      "audio_text": "Quelles rues tu connais ?"
+    },
+    {
+      "frase_fr": "Quel problème tu as ?",
+      "traducao_pt": "Qual problema você tem?",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Quel problème tu as ?"
+    },
+    {
+      "frase_fr": "Quelle question tu poses ?",
+      "traducao_pt": "Qual pergunta você faz?",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Quelle question tu poses ?"
+    },
+    {
+      "frase_fr": "Quels livres vous avez ?",
+      "traducao_pt": "Quais livros você tem?",
+      "ipa": "",
+      "observacao": "formal,plural",
+      "audio_text": "Quels livres vous avez ?"
+    },
+    {
+      "frase_fr": "Quelles boissons tu veux ?",
+      "traducao_pt": "Quais bebidas você quer?",
+      "ipa": "",
+      "observacao": "plural,feminino",
+      "audio_text": "Quelles boissons tu veux ?"
+    },
+    {
+      "frase_fr": "Quel est le problème ?",
+      "traducao_pt": "Qual é o problema?",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Quel est le problème ?"
+    },
+    {
+      "frase_fr": "Quelle est la solution ?",
+      "traducao_pt": "Qual é a solução?",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Quelle est la solution ?"
+    },
+    {
+      "frase_fr": "Quels sont les horaires ?",
+      "traducao_pt": "Quais são os horários?",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Quels sont les horaires ?"
+    },
+    {
+      "frase_fr": "Quelles sont les options ?",
+      "traducao_pt": "Quais são as opções?",
+      "ipa": "",
+      "observacao": "plural,feminino",
+      "audio_text": "Quelles sont les options ?"
+    },
+    {
+      "frase_fr": "Quel film tu ne veux pas ?",
+      "traducao_pt": "Qual filme você não quer?",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Quel film tu ne veux pas ?"
+    },
+    {
+      "frase_fr": "Quelle musique tu n’aimes pas ?",
+      "traducao_pt": "Qual música você não gosta?",
+      "ipa": "",
+      "observacao": "negação,feminino",
+      "audio_text": "Quelle musique tu n’aimes pas ?"
+    },
+    {
+      "frase_fr": "Quels plats tu ne prends pas ?",
+      "traducao_pt": "Quais pratos você não pega?",
+      "ipa": "",
+      "observacao": "negação,plural",
+      "audio_text": "Quels plats tu ne prends pas ?"
+    },
+    {
+      "frase_fr": "Quelles choses tu ne fais pas ?",
+      "traducao_pt": "Quais coisas você não faz?",
+      "ipa": "",
+      "observacao": "negação,plural,feminino",
+      "audio_text": "Quelles choses tu ne fais pas ?"
+    },
+    {
+      "frase_fr": "Quel ami arrive ?",
+      "traducao_pt": "Qual amigo chega?",
+      "ipa": "",
+      "observacao": "liaison: l",
+      "audio_text": "Quel ami arrive ?"
+    },
+    {
+      "frase_fr": "Quels amis arrivent ?",
+      "traducao_pt": "Quais amigos chegam?",
+      "ipa": "",
+      "observacao": "liaison: z,plural",
+      "audio_text": "Quels amis arrivent ?"
+    },
+    {
+      "frase_fr": "Quelle idée est bonne ?",
+      "traducao_pt": "Qual ideia é boa?",
+      "ipa": "",
+      "observacao": "liaison,feminino",
+      "audio_text": "Quelle idée est bonne ?"
+    },
+    {
+      "frase_fr": "Quelles idées arrivent ?",
+      "traducao_pt": "Quais ideias chegam?",
+      "ipa": "",
+      "observacao": "liaison,plural,feminino",
+      "audio_text": "Quelles idées arrivent ?"
+    }
+  ]
+}

@@ -1,0 +1,1506 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "verbes_complet_A1",
+  "level_tag": "A1",
+  "theme_tag": "verbes",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {"frase_fr":"Je suis ici.","traducao_pt":"Eu estou aqui.","ipa":"","observacao":"","audio_text":"Je suis ici."},
+    {"frase_fr":"Tu es là ?","traducao_pt":"Você está aí?","ipa":"","observacao":"pergunta","audio_text":"Tu es là ?"},
+    {"frase_fr":"Il est en retard.","traducao_pt":"Ele está atrasado.","ipa":"","observacao":"","audio_text":"Il est en retard."},
+    {"frase_fr":"Elle est prête.","traducao_pt":"Ela está pronta.","ipa":"","observacao":"feminino","audio_text":"Elle est prête."},
+    {"frase_fr":"Nous sommes ici.","traducao_pt":"Nós estamos aqui.","ipa":"","observacao":"","audio_text":"Nous sommes ici."},
+    {"frase_fr":"Vous êtes prêts ?","traducao_pt":"Vocês estão prontos?","ipa":"","observacao":"liaison z, pergunta","audio_text":"Vous êtes prêts ?"},
+    {"frase_fr":"Ils sont là.","traducao_pt":"Eles estão aí.","ipa":"","observacao":"","audio_text":"Ils sont là."},
+    {"frase_fr":"Elles sont ici.","traducao_pt":"Elas estão aqui.","ipa":"","observacao":"feminino","audio_text":"Elles sont ici."},
+
+    {"frase_fr":"Je ne suis pas prêt.","traducao_pt":"Eu não estou pronto.","ipa":"","observacao":"negação","audio_text":"Je ne suis pas prêt."},
+    {"frase_fr":"Elle n’est pas là.","traducao_pt":"Ela não está aí.","ipa":"","observacao":"negação,feminino","audio_text":"Elle n’est pas là."},
+    {"frase_fr":"Ils ne sont pas prêts.","traducao_pt":"Eles não estão prontos.","ipa":"","observacao":"negação","audio_text":"Ils ne sont pas prêts."},
+
+    {"frase_fr":"J’ai un café.","traducao_pt":"Eu tenho um café.","ipa":"","observacao":"contração","audio_text":"J’ai un café."},
+    {"frase_fr":"Tu as faim ?","traducao_pt":"Você está com fome?","ipa":"","observacao":"pergunta","audio_text":"Tu as faim ?"},
+    {"frase_fr":"Il a un problème.","traducao_pt":"Ele tem um problema.","ipa":"","observacao":"","audio_text":"Il a un problème."},
+    {"frase_fr":"Elle a une idée.","traducao_pt":"Ela tem uma ideia.","ipa":"","observacao":"feminino","audio_text":"Elle a une idée."},
+    {"frase_fr":"Nous avons un ami.","traducao_pt":"Nós temos um amigo.","ipa":"","observacao":"liaison z","audio_text":"Nous avons un ami."},
+    {"frase_fr":"Vous avez une question ?","traducao_pt":"Você tem uma pergunta?","ipa":"","observacao":"liaison z, pergunta","audio_text":"Vous avez une question ?"},
+    {"frase_fr":"Ils ont un chien.","traducao_pt":"Eles têm um cachorro.","ipa":"","observacao":"liaison z","audio_text":"Ils ont un chien."},
+    {"frase_fr":"Elles ont une voiture.","traducao_pt":"Elas têm um carro.","ipa":"","observacao":"liaison z,feminino","audio_text":"Elles ont une voiture."},
+
+    {"frase_fr":"Je n’ai pas le temps.","traducao_pt":"Eu não tenho tempo.","ipa":"","observacao":"negação","audio_text":"Je n’ai pas le temps."},
+    {"frase_fr":"Tu n’as pas faim ?","traducao_pt":"Você não está com fome?","ipa":"","observacao":"negação,pergunta","audio_text":"Tu n’as pas faim ?"},
+    {"frase_fr":"Il n’a pas de voiture.","traducao_pt":"Ele não tem carro.","ipa":"","observacao":"negação","audio_text":"Il n’a pas de voiture."},
+
+    {"frase_fr":"Je vais au travail.","traducao_pt":"Eu vou ao trabalho.","ipa":"","observacao":"contração","audio_text":"Je vais au travail."},
+    {"frase_fr":"Tu vas où ?","traducao_pt":"Você vai onde?","ipa":"","observacao":"pergunta","audio_text":"Tu vas où ?"},
+    {"frase_fr":"Il va bien.","traducao_pt":"Ele está bem.","ipa":"","observacao":"","audio_text":"Il va bien."},
+    {"frase_fr":"Elle va vite.","traducao_pt":"Ela vai rápido.","ipa":"","observacao":"feminino","audio_text":"Elle va vite."},
+    {"frase_fr":"Nous allons partir.","traducao_pt":"Nós vamos sair.","ipa":"","observacao":"","audio_text":"Nous allons partir."},
+    {"frase_fr":"Vous allez venir ?","traducao_pt":"Você vai vir?","ipa":"","observacao":"pergunta","audio_text":"Vous allez venir ?"},
+    {"frase_fr":"Ils vont arriver.","traducao_pt":"Eles vão chegar.","ipa":"","observacao":"","audio_text":"Ils vont arriver."},
+    {"frase_fr":"Elles vont parler.","traducao_pt":"Elas vão falar.","ipa":"","observacao":"feminino","audio_text":"Elles vont parler."},
+
+    {"frase_fr":"Je ne vais pas travailler.","traducao_pt":"Eu não vou trabalhar.","ipa":"","observacao":"negação","audio_text":"Je ne vais pas travailler."},
+    {"frase_fr":"On ne va pas sortir.","traducao_pt":"A gente não vai sair.","ipa":"","observacao":"informal,negação","audio_text":"On ne va pas sortir."},
+
+    {"frase_fr":"Je fais du sport.","traducao_pt":"Eu faço esporte.","ipa":"","observacao":"contração","audio_text":"Je fais du sport."},
+    {"frase_fr":"Tu fais quoi ?","traducao_pt":"Você faz o quê?","ipa":"","observacao":"pergunta","audio_text":"Tu fais quoi ?"},
+    {"frase_fr":"Il fait froid.","traducao_pt":"Está frio.","ipa":"","observacao":"","audio_text":"Il fait froid."},
+    {"frase_fr":"Elle fait la cuisine.","traducao_pt":"Ela cozinha.","ipa":"","observacao":"feminino","audio_text":"Elle fait la cuisine."},
+
+    {"frase_fr":"Je dis la vérité.","traducao_pt":"Eu digo a verdade.","ipa":"","observacao":"","audio_text":"Je dis la vérité."},
+    {"frase_fr":"Tu dis ça ?","traducao_pt":"Você diz isso?","ipa":"","observacao":"pergunta","audio_text":"Tu dis ça ?"},
+    {"frase_fr":"Il dit non.","traducao_pt":"Ele diz não.","ipa":"","observacao":"","audio_text":"Il dit non."},
+
+    {"frase_fr":"Je prends un café.","traducao_pt":"Eu pego um café.","ipa":"","observacao":"","audio_text":"Je prends un café."},
+    {"frase_fr":"Tu prends quoi ?","traducao_pt":"Você pega o quê?","ipa":"","observacao":"pergunta","audio_text":"Tu prends quoi ?"},
+    {"frase_fr":"Elle prend une table.","traducao_pt":"Ela pega uma mesa.","ipa":"","observacao":"feminino","audio_text":"Elle prend une table."},
+
+    {"frase_fr":"Je parle français.","traducao_pt":"Eu falo francês.","ipa":"","observacao":"","audio_text":"Je parle français."},
+    {"frase_fr":"Tu parles anglais ?","traducao_pt":"Você fala inglês?","ipa":"","observacao":"pergunta","audio_text":"Tu parles anglais ?"},
+    {"frase_fr":"Ils parlent vite.","traducao_pt":"Eles falam rápido.","ipa":"","observacao":"","audio_text":"Ils parlent vite."},
+
+    {"frase_fr":"Je mange ici.","traducao_pt":"Eu como aqui.","ipa":"","observacao":"","audio_text":"Je mange ici."},
+    {"frase_fr":"Tu manges quoi ?","traducao_pt":"Você come o quê?","ipa":"","observacao":"pergunta","audio_text":"Tu manges quoi ?"},
+    {"frase_fr":"Elle mange bien.","traducao_pt":"Ela come bem.","ipa":"","observacao":"feminino","audio_text":"Elle mange bien."},
+
+    {"frase_fr":"Je bois un café.","traducao_pt":"Eu bebo um café.","ipa":"","observacao":"","audio_text":"Je bois un café."},
+    {"frase_fr":"Tu bois ça ?","traducao_pt":"Você bebe isso?","ipa":"","observacao":"pergunta","audio_text":"Tu bois ça ?"},
+    {"frase_fr":"Ils boivent de l’eau.","traducao_pt":"Eles bebem água.","ipa":"","observacao":"","audio_text":"Ils boivent de l’eau."},
+
+    {"frase_fr":"Je travaille ici.","traducao_pt":"Eu trabalho aqui.","ipa":"","observacao":"","audio_text":"Je travaille ici."},
+    {"frase_fr":"Tu travailles ?","traducao_pt":"Você trabalha?","ipa":"","observacao":"pergunta","audio_text":"Tu travailles ?"},
+    {"frase_fr":"Elle travaille beaucoup.","traducao_pt":"Ela trabalha muito.","ipa":"","observacao":"feminino","audio_text":"Elle travaille beaucoup."},
+
+    {"frase_fr":"Je regarde la télé.","traducao_pt":"Eu assisto TV.","ipa":"","observacao":"","audio_text":"Je regarde la télé."},
+    {"frase_fr":"Tu regardes ça ?","traducao_pt":"Você assiste isso?","ipa":"","observacao":"pergunta","audio_text":"Tu regardes ça ?"},
+    {"frase_fr":"Ils regardent un film.","traducao_pt":"Eles assistem um filme.","ipa":"","observacao":"","audio_text":"Ils regardent un film."},
+
+    {"frase_fr":"J’aime ce film.","traducao_pt":"Eu gosto desse filme.","ipa":"","observacao":"","audio_text":"J’aime ce film."},
+    {"frase_fr":"Tu aimes ça ?","traducao_pt":"Você gosta disso?","ipa":"","observacao":"pergunta","audio_text":"Tu aimes ça ?"},
+    {"frase_fr":"Elle aime beaucoup.","traducao_pt":"Ela gosta muito.","ipa":"","observacao":"feminino","audio_text":"Elle aime beaucoup."},
+
+    {"frase_fr":"Je veux partir.","traducao_pt":"Eu quero sair.","ipa":"","observacao":"","audio_text":"Je veux partir."},
+    {"frase_fr":"Tu veux venir ?","traducao_pt":"Você quer vir?","ipa":"","observacao":"pergunta","audio_text":"Tu veux venir ?"},
+    {"frase_fr":"Ils veulent manger.","traducao_pt":"Eles querem comer.","ipa":"","observacao":"","audio_text":"Ils veulent manger."},
+
+    {"frase_fr":"Je peux venir.","traducao_pt":"Eu posso vir.","ipa":"","observacao":"","audio_text":"Je peux venir."},
+    {"frase_fr":"Tu peux aider ?","traducao_pt":"Você pode ajudar?","ipa":"","observacao":"pergunta","audio_text":"Tu peux aider ?"},
+    {"frase_fr":"Elle peut entrer.","traducao_pt":"Ela pode entrar.","ipa":"","observacao":"feminino","audio_text":"Elle peut entrer."},
+
+    {"frase_fr":"Je dois partir.","traducao_pt":"Eu preciso sair.","ipa":"","observacao":"","audio_text":"Je dois partir."},
+    {"frase_fr":"Tu dois travailler ?","traducao_pt":"Você precisa trabalhar?","ipa":"","observacao":"pergunta","audio_text":"Tu dois travailler ?"},
+    {"frase_fr":"Ils doivent payer.","traducao_pt":"Eles precisam pagar.","ipa":"","observacao":"","audio_text":"Ils doivent payer."},
+
+    {"frase_fr":"Il y a un problème.","traducao_pt":"Há um problema.","ipa":"","observacao":"","audio_text":"Il y a un problème."},
+    {"frase_fr":"Il n’y a pas de place.","traducao_pt":"Não há lugar.","ipa":"","observacao":"negação","audio_text":"Il n’y a pas de place."},
+    {"frase_fr":"Il y en a deux.","traducao_pt":"Há dois.","ipa":"","observacao":"liaison n","audio_text":"Il y en a deux."},
+    {"frase_fr":"Il y en a beaucoup.","traducao_pt":"Há muitos.","ipa":"","observacao":"liaison n","audio_text":"Il y en a beaucoup."},
+    {
+      "frase_fr": "Je suis ici.",
+      "traducao_pt": "Eu estou aqui.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je suis ici."
+    },
+    {
+      "frase_fr": "Tu es là ?",
+      "traducao_pt": "Você está aí?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu es là ?"
+    },
+    {
+      "frase_fr": "Il est prêt.",
+      "traducao_pt": "Ele está pronto.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il est prêt."
+    },
+    {
+      "frase_fr": "Elle est prête.",
+      "traducao_pt": "Ela está pronta.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle est prête."
+    },
+    {
+      "frase_fr": "Nous sommes calmes.",
+      "traducao_pt": "Nós estamos calmos.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous sommes calmes."
+    },
+    {
+      "frase_fr": "Vous êtes prêts ?",
+      "traducao_pt": "Vocês estão prontos?",
+      "ipa": "",
+      "observacao": "pergunta, liaison z",
+      "audio_text": "Vous êtes prêts ?"
+    },
+    {
+      "frase_fr": "Ils sont là.",
+      "traducao_pt": "Eles estão aí.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils sont là."
+    },
+    {
+      "frase_fr": "Elles sont ici.",
+      "traducao_pt": "Elas estão aqui.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elles sont ici."
+    },
+    {
+      "frase_fr": "Je ne suis pas libre.",
+      "traducao_pt": "Eu não estou livre.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne suis pas libre."
+    },
+    {
+      "frase_fr": "Tu n’es pas en retard.",
+      "traducao_pt": "Você não está atrasado.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Tu n’es pas en retard."
+    },
+    {
+      "frase_fr": "Il n’est pas à la maison.",
+      "traducao_pt": "Ele não está em casa.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il n’est pas à la maison."
+    },
+    {
+      "frase_fr": "Elle n’est pas contente.",
+      "traducao_pt": "Ela não está contente.",
+      "ipa": "",
+      "observacao": "negação,feminino",
+      "audio_text": "Elle n’est pas contente."
+    },
+    {
+      "frase_fr": "Nous ne sommes pas prêts.",
+      "traducao_pt": "Nós não estamos prontos.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Nous ne sommes pas prêts."
+    },
+    {
+      "frase_fr": "Vous n’êtes pas ici ?",
+      "traducao_pt": "Vocês não estão aqui?",
+      "ipa": "",
+      "observacao": "negação,pergunta,liaison z",
+      "audio_text": "Vous n’êtes pas ici ?"
+    },
+    {
+      "frase_fr": "Ils ne sont pas là.",
+      "traducao_pt": "Eles não estão aí.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Ils ne sont pas là."
+    },
+    {
+      "frase_fr": "Elles ne sont pas prêtes.",
+      "traducao_pt": "Elas não estão prontas.",
+      "ipa": "",
+      "observacao": "negação,feminino",
+      "audio_text": "Elles ne sont pas prêtes."
+    },
+    {
+      "frase_fr": "On est là.",
+      "traducao_pt": "A gente está aí.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On est là."
+    },
+    {
+      "frase_fr": "On est prêts ?",
+      "traducao_pt": "A gente está pronto?",
+      "ipa": "",
+      "observacao": "informal,pergunta",
+      "audio_text": "On est prêts ?"
+    },
+    {
+      "frase_fr": "C’est simple.",
+      "traducao_pt": "É simples.",
+      "ipa": "",
+      "observacao": "contração",
+      "audio_text": "C’est simple."
+    },
+    {
+      "frase_fr": "C’est elle.",
+      "traducao_pt": "É ela.",
+      "ipa": "",
+      "observacao": "feminino,contração",
+      "audio_text": "C’est elle."
+    },
+    {
+      "frase_fr": "Ce n’est pas moi.",
+      "traducao_pt": "Não sou eu.",
+      "ipa": "",
+      "observacao": "negação,contração",
+      "audio_text": "Ce n’est pas moi."
+    },
+    {
+      "frase_fr": "C’est vous ?",
+      "traducao_pt": "É você / são vocês?",
+      "ipa": "",
+      "observacao": "pergunta,contração",
+      "audio_text": "C’est vous ?"
+    },
+    {
+      "frase_fr": "Ce sont eux.",
+      "traducao_pt": "São eles.",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Ce sont eux."
+    },
+    {
+      "frase_fr": "Ce sont elles.",
+      "traducao_pt": "São elas.",
+      "ipa": "",
+      "observacao": "plural,feminino",
+      "audio_text": "Ce sont elles."
+    },
+    {
+      "frase_fr": "J’ai un café.",
+      "traducao_pt": "Eu tenho um café.",
+      "ipa": "",
+      "observacao": "contração",
+      "audio_text": "J’ai un café."
+    },
+    {
+      "frase_fr": "Tu as faim ?",
+      "traducao_pt": "Você está com fome?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu as faim ?"
+    },
+    {
+      "frase_fr": "Il a un problème.",
+      "traducao_pt": "Ele tem um problema.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il a un problème."
+    },
+    {
+      "frase_fr": "Elle a une idée.",
+      "traducao_pt": "Ela tem uma ideia.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle a une idée."
+    },
+    {
+      "frase_fr": "Nous avons le temps.",
+      "traducao_pt": "Nós temos tempo.",
+      "ipa": "",
+      "observacao": "liaison z",
+      "audio_text": "Nous avons le temps."
+    },
+    {
+      "frase_fr": "Vous avez une question ?",
+      "traducao_pt": "Você tem uma pergunta?",
+      "ipa": "",
+      "observacao": "pergunta,liaison z",
+      "audio_text": "Vous avez une question ?"
+    },
+    {
+      "frase_fr": "Ils ont un chien.",
+      "traducao_pt": "Eles têm um cachorro.",
+      "ipa": "",
+      "observacao": "liaison z",
+      "audio_text": "Ils ont un chien."
+    },
+    {
+      "frase_fr": "Elles ont une voiture.",
+      "traducao_pt": "Elas têm um carro.",
+      "ipa": "",
+      "observacao": "feminino,liaison z",
+      "audio_text": "Elles ont une voiture."
+    },
+    {
+      "frase_fr": "Je n’ai pas le temps.",
+      "traducao_pt": "Eu não tenho tempo.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je n’ai pas le temps."
+    },
+    {
+      "frase_fr": "Tu n’as pas faim ?",
+      "traducao_pt": "Você não está com fome?",
+      "ipa": "",
+      "observacao": "negação,pergunta",
+      "audio_text": "Tu n’as pas faim ?"
+    },
+    {
+      "frase_fr": "Il n’a pas d’argent.",
+      "traducao_pt": "Ele não tem dinheiro.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il n’a pas d’argent."
+    },
+    {
+      "frase_fr": "Elle n’a pas de stylo.",
+      "traducao_pt": "Ela não tem caneta.",
+      "ipa": "",
+      "observacao": "negação,feminino",
+      "audio_text": "Elle n’a pas de stylo."
+    },
+    {
+      "frase_fr": "Nous n’avons pas de pain.",
+      "traducao_pt": "Nós não temos pão.",
+      "ipa": "",
+      "observacao": "negação,liaison z",
+      "audio_text": "Nous n’avons pas de pain."
+    },
+    {
+      "frase_fr": "Vous n’avez pas de table ?",
+      "traducao_pt": "Você não tem mesa?",
+      "ipa": "",
+      "observacao": "negação,pergunta,liaison z",
+      "audio_text": "Vous n’avez pas de table ?"
+    },
+    {
+      "frase_fr": "Ils n’ont pas de voiture.",
+      "traducao_pt": "Eles não têm carro.",
+      "ipa": "",
+      "observacao": "negação,liaison z",
+      "audio_text": "Ils n’ont pas de voiture."
+    },
+    {
+      "frase_fr": "Elles n’ont pas de billet.",
+      "traducao_pt": "Elas não têm passagem.",
+      "ipa": "",
+      "observacao": "negação,feminino,liaison z",
+      "audio_text": "Elles n’ont pas de billet."
+    },
+    {
+      "frase_fr": "On a un problème.",
+      "traducao_pt": "A gente tem um problema.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On a un problème."
+    },
+    {
+      "frase_fr": "On a faim.",
+      "traducao_pt": "A gente está com fome.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On a faim."
+    },
+    {
+      "frase_fr": "On n’a pas le temps.",
+      "traducao_pt": "A gente não tem tempo.",
+      "ipa": "",
+      "observacao": "informal,negação",
+      "audio_text": "On n’a pas le temps."
+    },
+    {
+      "frase_fr": "Tu as un frère ?",
+      "traducao_pt": "Você tem um irmão?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu as un frère ?"
+    },
+    {
+      "frase_fr": "Vous avez des amis ici ?",
+      "traducao_pt": "Vocês têm amigos aqui?",
+      "ipa": "",
+      "observacao": "pergunta,plural,liaison z",
+      "audio_text": "Vous avez des amis ici ?"
+    },
+    {
+      "frase_fr": "Ils ont des enfants.",
+      "traducao_pt": "Eles têm filhos.",
+      "ipa": "",
+      "observacao": "plural,liaison z",
+      "audio_text": "Ils ont des enfants."
+    },
+    {
+      "frase_fr": "Elle a du travail.",
+      "traducao_pt": "Ela tem trabalho.",
+      "ipa": "",
+      "observacao": "feminino,contração",
+      "audio_text": "Elle a du travail."
+    },
+    {
+      "frase_fr": "Nous avons une adresse.",
+      "traducao_pt": "Nós temos um endereço.",
+      "ipa": "",
+      "observacao": "liaison z",
+      "audio_text": "Nous avons une adresse."
+    },
+    {
+      "frase_fr": "Je vais au travail.",
+      "traducao_pt": "Eu vou ao trabalho.",
+      "ipa": "",
+      "observacao": "contração",
+      "audio_text": "Je vais au travail."
+    },
+    {
+      "frase_fr": "Tu vas où ?",
+      "traducao_pt": "Você vai onde?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu vas où ?"
+    },
+    {
+      "frase_fr": "Il va bien.",
+      "traducao_pt": "Ele está bem.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il va bien."
+    },
+    {
+      "frase_fr": "Elle va vite.",
+      "traducao_pt": "Ela vai rápido.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle va vite."
+    },
+    {
+      "frase_fr": "Nous allons partir.",
+      "traducao_pt": "Nós vamos sair.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous allons partir."
+    },
+    {
+      "frase_fr": "Vous allez venir ?",
+      "traducao_pt": "Você vai vir?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous allez venir ?"
+    },
+    {
+      "frase_fr": "Ils vont arriver.",
+      "traducao_pt": "Eles vão chegar.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils vont arriver."
+    },
+    {
+      "frase_fr": "Elles vont parler.",
+      "traducao_pt": "Elas vão falar.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elles vont parler."
+    },
+    {
+      "frase_fr": "Je ne vais pas sortir.",
+      "traducao_pt": "Eu não vou sair.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne vais pas sortir."
+    },
+    {
+      "frase_fr": "Tu ne vas pas au bureau ?",
+      "traducao_pt": "Você não vai ao escritório?",
+      "ipa": "",
+      "observacao": "negação,pergunta,contração",
+      "audio_text": "Tu ne vas pas au bureau ?"
+    },
+    {
+      "frase_fr": "Il ne va pas bien.",
+      "traducao_pt": "Ele não vai bem.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il ne va pas bien."
+    },
+    {
+      "frase_fr": "Elle ne va pas venir.",
+      "traducao_pt": "Ela não vai vir.",
+      "ipa": "",
+      "observacao": "negação,feminino",
+      "audio_text": "Elle ne va pas venir."
+    },
+    {
+      "frase_fr": "Nous n’allons pas manger.",
+      "traducao_pt": "Nós não vamos comer.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Nous n’allons pas manger."
+    },
+    {
+      "frase_fr": "Vous n’allez pas travailler ?",
+      "traducao_pt": "Você não vai trabalhar?",
+      "ipa": "",
+      "observacao": "negação,pergunta",
+      "audio_text": "Vous n’allez pas travailler ?"
+    },
+    {
+      "frase_fr": "Ils ne vont pas rester.",
+      "traducao_pt": "Eles não vão ficar.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Ils ne vont pas rester."
+    },
+    {
+      "frase_fr": "Elles ne vont pas partir.",
+      "traducao_pt": "Elas não vão sair.",
+      "ipa": "",
+      "observacao": "negação,feminino",
+      "audio_text": "Elles ne vont pas partir."
+    },
+    {
+      "frase_fr": "On va au centre.",
+      "traducao_pt": "A gente vai ao centro.",
+      "ipa": "",
+      "observacao": "informal,contração",
+      "audio_text": "On va au centre."
+    },
+    {
+      "frase_fr": "On va manger ?",
+      "traducao_pt": "A gente vai comer?",
+      "ipa": "",
+      "observacao": "informal,pergunta",
+      "audio_text": "On va manger ?"
+    },
+    {
+      "frase_fr": "On ne va pas loin.",
+      "traducao_pt": "A gente não vai longe.",
+      "ipa": "",
+      "observacao": "informal,negação",
+      "audio_text": "On ne va pas loin."
+    },
+    {
+      "frase_fr": "Vous allez à Paris ?",
+      "traducao_pt": "Você vai a Paris?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous allez à Paris ?"
+    },
+    {
+      "frase_fr": "Je fais du sport.",
+      "traducao_pt": "Eu faço esporte.",
+      "ipa": "",
+      "observacao": "contração",
+      "audio_text": "Je fais du sport."
+    },
+    {
+      "frase_fr": "Tu fais quoi ?",
+      "traducao_pt": "Você faz o quê?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu fais quoi ?"
+    },
+    {
+      "frase_fr": "Il fait froid.",
+      "traducao_pt": "Está frio.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il fait froid."
+    },
+    {
+      "frase_fr": "Elle fait la cuisine.",
+      "traducao_pt": "Ela cozinha.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle fait la cuisine."
+    },
+    {
+      "frase_fr": "Nous faisons un gâteau.",
+      "traducao_pt": "Nós fazemos um bolo.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous faisons un gâteau."
+    },
+    {
+      "frase_fr": "Vous faites du café ?",
+      "traducao_pt": "Você faz café?",
+      "ipa": "",
+      "observacao": "pergunta,contração",
+      "audio_text": "Vous faites du café ?"
+    },
+    {
+      "frase_fr": "Ils font du bruit.",
+      "traducao_pt": "Eles fazem barulho.",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Ils font du bruit."
+    },
+    {
+      "frase_fr": "Elles font un effort.",
+      "traducao_pt": "Elas fazem um esforço.",
+      "ipa": "",
+      "observacao": "plural,feminino",
+      "audio_text": "Elles font un effort."
+    },
+    {
+      "frase_fr": "Je ne fais pas ça.",
+      "traducao_pt": "Eu não faço isso.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne fais pas ça."
+    },
+    {
+      "frase_fr": "Tu ne fais pas le ménage ?",
+      "traducao_pt": "Você não faz a limpeza?",
+      "ipa": "",
+      "observacao": "negação,pergunta",
+      "audio_text": "Tu ne fais pas le ménage ?"
+    },
+    {
+      "frase_fr": "Il ne fait pas chaud.",
+      "traducao_pt": "Não está quente.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il ne fait pas chaud."
+    },
+    {
+      "frase_fr": "Elle ne fait pas de sport.",
+      "traducao_pt": "Ela não faz esporte.",
+      "ipa": "",
+      "observacao": "negação,feminino",
+      "audio_text": "Elle ne fait pas de sport."
+    },
+    {
+      "frase_fr": "On fait quoi maintenant ?",
+      "traducao_pt": "A gente faz o quê agora?",
+      "ipa": "",
+      "observacao": "informal,pergunta",
+      "audio_text": "On fait quoi maintenant ?"
+    },
+    {
+      "frase_fr": "On ne fait pas ça ici.",
+      "traducao_pt": "A gente não faz isso aqui.",
+      "ipa": "",
+      "observacao": "informal,negação",
+      "audio_text": "On ne fait pas ça ici."
+    },
+    {
+      "frase_fr": "Vous faites la vaisselle ?",
+      "traducao_pt": "Você lava a louça?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous faites la vaisselle ?"
+    },
+    {
+      "frase_fr": "Nous faisons attention.",
+      "traducao_pt": "Nós prestamos atenção.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous faisons attention."
+    },
+    {
+      "frase_fr": "Je dis la vérité.",
+      "traducao_pt": "Eu digo a verdade.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je dis la vérité."
+    },
+    {
+      "frase_fr": "Tu dis ça ?",
+      "traducao_pt": "Você diz isso?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu dis ça ?"
+    },
+    {
+      "frase_fr": "Il dit non.",
+      "traducao_pt": "Ele diz não.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il dit non."
+    },
+    {
+      "frase_fr": "Elle dit oui.",
+      "traducao_pt": "Ela diz sim.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle dit oui."
+    },
+    {
+      "frase_fr": "Nous disons bonjour.",
+      "traducao_pt": "Nós dizemos olá.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous disons bonjour."
+    },
+    {
+      "frase_fr": "Vous dites quoi ?",
+      "traducao_pt": "Vocês dizem o quê?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous dites quoi ?"
+    },
+    {
+      "frase_fr": "Ils disent merci.",
+      "traducao_pt": "Eles dizem obrigado.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils disent merci."
+    },
+    {
+      "frase_fr": "Elles disent bonsoir.",
+      "traducao_pt": "Elas dizem boa noite.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elles disent bonsoir."
+    },
+    {
+      "frase_fr": "Je ne dis rien.",
+      "traducao_pt": "Eu não digo nada.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne dis rien."
+    },
+    {
+      "frase_fr": "Tu ne dis pas tout ?",
+      "traducao_pt": "Você não diz tudo?",
+      "ipa": "",
+      "observacao": "negação,pergunta",
+      "audio_text": "Tu ne dis pas tout ?"
+    },
+    {
+      "frase_fr": "On dit ça en français.",
+      "traducao_pt": "A gente diz isso em francês.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On dit ça en français."
+    },
+    {
+      "frase_fr": "Vous dites la même chose.",
+      "traducao_pt": "Vocês dizem a mesma coisa.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Vous dites la même chose."
+    },
+    {
+      "frase_fr": "Je prends un café.",
+      "traducao_pt": "Eu pego / tomo um café.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je prends un café."
+    },
+    {
+      "frase_fr": "Tu prends quoi ?",
+      "traducao_pt": "Você pega / toma o quê?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu prends quoi ?"
+    },
+    {
+      "frase_fr": "Il prend le bus.",
+      "traducao_pt": "Ele pega o ônibus.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il prend le bus."
+    },
+    {
+      "frase_fr": "Elle prend une table.",
+      "traducao_pt": "Ela pega uma mesa.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle prend une table."
+    },
+    {
+      "frase_fr": "Nous prenons le train.",
+      "traducao_pt": "Nós pegamos o trem.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous prenons le train."
+    },
+    {
+      "frase_fr": "Vous prenez du sucre ?",
+      "traducao_pt": "Você pega açúcar?",
+      "ipa": "",
+      "observacao": "pergunta,contração",
+      "audio_text": "Vous prenez du sucre ?"
+    },
+    {
+      "frase_fr": "Ils prennent une pause.",
+      "traducao_pt": "Eles fazem uma pausa.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils prennent une pause."
+    },
+    {
+      "frase_fr": "Elles prennent des notes.",
+      "traducao_pt": "Elas tomam notas.",
+      "ipa": "",
+      "observacao": "feminino,plural",
+      "audio_text": "Elles prennent des notes."
+    },
+    {
+      "frase_fr": "Je ne prends pas ça.",
+      "traducao_pt": "Eu não pego isso.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne prends pas ça."
+    },
+    {
+      "frase_fr": "Tu ne prends pas le menu ?",
+      "traducao_pt": "Você não pega o menu?",
+      "ipa": "",
+      "observacao": "negação,pergunta",
+      "audio_text": "Tu ne prends pas le menu ?"
+    },
+    {
+      "frase_fr": "On prend un taxi.",
+      "traducao_pt": "A gente pega um táxi.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On prend un taxi."
+    },
+    {
+      "frase_fr": "On ne prend pas de dessert.",
+      "traducao_pt": "A gente não pega sobremesa.",
+      "ipa": "",
+      "observacao": "informal,negação",
+      "audio_text": "On ne prend pas de dessert."
+    },
+    {
+      "frase_fr": "Je veux partir.",
+      "traducao_pt": "Eu quero sair.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je veux partir."
+    },
+    {
+      "frase_fr": "Tu veux venir ?",
+      "traducao_pt": "Você quer vir?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu veux venir ?"
+    },
+    {
+      "frase_fr": "Il veut un café.",
+      "traducao_pt": "Ele quer um café.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il veut un café."
+    },
+    {
+      "frase_fr": "Elle veut une salade.",
+      "traducao_pt": "Ela quer uma salada.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle veut une salade."
+    },
+    {
+      "frase_fr": "Nous voulons payer.",
+      "traducao_pt": "Nós queremos pagar.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous voulons payer."
+    },
+    {
+      "frase_fr": "Vous voulez autre chose ?",
+      "traducao_pt": "Você quer outra coisa?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous voulez autre chose ?"
+    },
+    {
+      "frase_fr": "Ils veulent entrer.",
+      "traducao_pt": "Eles querem entrar.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils veulent entrer."
+    },
+    {
+      "frase_fr": "Elles veulent rester.",
+      "traducao_pt": "Elas querem ficar.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elles veulent rester."
+    },
+    {
+      "frase_fr": "Je ne veux pas ça.",
+      "traducao_pt": "Eu não quero isso.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne veux pas ça."
+    },
+    {
+      "frase_fr": "Tu ne veux pas venir ?",
+      "traducao_pt": "Você não quer vir?",
+      "ipa": "",
+      "observacao": "negação,pergunta",
+      "audio_text": "Tu ne veux pas venir ?"
+    },
+    {
+      "frase_fr": "Je peux venir.",
+      "traducao_pt": "Eu posso vir.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je peux venir."
+    },
+    {
+      "frase_fr": "Tu peux aider ?",
+      "traducao_pt": "Você pode ajudar?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu peux aider ?"
+    },
+    {
+      "frase_fr": "Il peut attendre.",
+      "traducao_pt": "Ele pode esperar.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il peut attendre."
+    },
+    {
+      "frase_fr": "Elle peut entrer.",
+      "traducao_pt": "Ela pode entrar.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle peut entrer."
+    },
+    {
+      "frase_fr": "Nous pouvons commencer.",
+      "traducao_pt": "Nós podemos começar.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous pouvons commencer."
+    },
+    {
+      "frase_fr": "Vous pouvez répéter ?",
+      "traducao_pt": "Você pode repetir?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous pouvez répéter ?"
+    },
+    {
+      "frase_fr": "Ils peuvent rester.",
+      "traducao_pt": "Eles podem ficar.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils peuvent rester."
+    },
+    {
+      "frase_fr": "Elles peuvent parler.",
+      "traducao_pt": "Elas podem falar.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elles peuvent parler."
+    },
+    {
+      "frase_fr": "Je ne peux pas sortir.",
+      "traducao_pt": "Eu não posso sair.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne peux pas sortir."
+    },
+    {
+      "frase_fr": "Tu ne peux pas venir ?",
+      "traducao_pt": "Você não pode vir?",
+      "ipa": "",
+      "observacao": "negação,pergunta",
+      "audio_text": "Tu ne peux pas venir ?"
+    },
+    {
+      "frase_fr": "Je dois partir.",
+      "traducao_pt": "Eu preciso sair.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je dois partir."
+    },
+    {
+      "frase_fr": "Tu dois travailler ?",
+      "traducao_pt": "Você precisa trabalhar?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu dois travailler ?"
+    },
+    {
+      "frase_fr": "Ils doivent payer.",
+      "traducao_pt": "Eles precisam pagar.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils doivent payer."
+    },
+    {
+      "frase_fr": "On doit attendre.",
+      "traducao_pt": "A gente precisa esperar.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On doit attendre."
+    },
+    {
+      "frase_fr": "Je viens ici.",
+      "traducao_pt": "Eu venho aqui.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je viens ici."
+    },
+    {
+      "frase_fr": "Tu viens ?",
+      "traducao_pt": "Você vem?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu viens ?"
+    },
+    {
+      "frase_fr": "Il vient tôt.",
+      "traducao_pt": "Ele vem cedo.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il vient tôt."
+    },
+    {
+      "frase_fr": "Elle vient seule.",
+      "traducao_pt": "Ela vem sozinha.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle vient seule."
+    },
+    {
+      "frase_fr": "Nous venons demain.",
+      "traducao_pt": "Nós vimos amanhã.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous venons demain."
+    },
+    {
+      "frase_fr": "Vous venez avec nous ?",
+      "traducao_pt": "Você vem com a gente?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous venez avec nous ?"
+    },
+    {
+      "frase_fr": "Ils viennent en voiture.",
+      "traducao_pt": "Eles vêm de carro.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils viennent en voiture."
+    },
+    {
+      "frase_fr": "Elles viennent à pied.",
+      "traducao_pt": "Elas vêm a pé.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elles viennent à pied."
+    },
+    {
+      "frase_fr": "Je pars maintenant.",
+      "traducao_pt": "Eu saio agora.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je pars maintenant."
+    },
+    {
+      "frase_fr": "Tu pars déjà ?",
+      "traducao_pt": "Você já vai embora?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu pars déjà ?"
+    },
+    {
+      "frase_fr": "Il part en train.",
+      "traducao_pt": "Ele vai embora de trem.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il part en train."
+    },
+    {
+      "frase_fr": "Elle part ce soir.",
+      "traducao_pt": "Ela vai embora esta noite.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle part ce soir."
+    },
+    {
+      "frase_fr": "Nous partons demain.",
+      "traducao_pt": "Nós partimos amanhã.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous partons demain."
+    },
+    {
+      "frase_fr": "Vous partez tôt ?",
+      "traducao_pt": "Vocês partem cedo?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous partez tôt ?"
+    },
+    {
+      "frase_fr": "Ils partent ensemble.",
+      "traducao_pt": "Eles partem juntos.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Ils partent ensemble."
+    },
+    {
+      "frase_fr": "Elles partent après.",
+      "traducao_pt": "Elas partem depois.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elles partent après."
+    },
+    {
+      "frase_fr": "Le bus arrive.",
+      "traducao_pt": "O ônibus chega.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Le bus arrive."
+    },
+    {
+      "frase_fr": "Tu arrives quand ?",
+      "traducao_pt": "Você chega quando?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu arrives quand ?"
+    },
+    {
+      "frase_fr": "Il arrive en retard.",
+      "traducao_pt": "Ele chega atrasado.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il arrive en retard."
+    },
+    {
+      "frase_fr": "Elle arrive demain.",
+      "traducao_pt": "Ela chega amanhã.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle arrive demain."
+    },
+    {
+      "frase_fr": "Je reste ici.",
+      "traducao_pt": "Eu fico aqui.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je reste ici."
+    },
+    {
+      "frase_fr": "Tu restes ?",
+      "traducao_pt": "Você fica?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu restes ?"
+    },
+    {
+      "frase_fr": "On reste à la maison.",
+      "traducao_pt": "A gente fica em casa.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On reste à la maison."
+    },
+    {
+      "frase_fr": "On ne reste pas longtemps.",
+      "traducao_pt": "A gente não fica muito tempo.",
+      "ipa": "",
+      "observacao": "informal,negação",
+      "audio_text": "On ne reste pas longtemps."
+    },
+    {
+      "frase_fr": "Je parle français.",
+      "traducao_pt": "Eu falo francês.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je parle français."
+    },
+    {
+      "frase_fr": "Tu parles anglais ?",
+      "traducao_pt": "Você fala inglês?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu parles anglais ?"
+    },
+    {
+      "frase_fr": "Il parle vite.",
+      "traducao_pt": "Ele fala rápido.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il parle vite."
+    },
+    {
+      "frase_fr": "Elle parle doucement.",
+      "traducao_pt": "Ela fala devagar.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle parle doucement."
+    },
+    {
+      "frase_fr": "Nous parlons ensemble.",
+      "traducao_pt": "Nós falamos juntos.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous parlons ensemble."
+    },
+    {
+      "frase_fr": "Vous parlez français ?",
+      "traducao_pt": "Você fala francês?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous parlez français ?"
+    },
+    {
+      "frase_fr": "Je comprends.",
+      "traducao_pt": "Eu entendo.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je comprends."
+    },
+    {
+      "frase_fr": "Tu comprends ?",
+      "traducao_pt": "Você entende?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu comprends ?"
+    },
+    {
+      "frase_fr": "Il comprend bien.",
+      "traducao_pt": "Ele entende bem.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il comprend bien."
+    },
+    {
+      "frase_fr": "Elle comprend tout.",
+      "traducao_pt": "Ela entende tudo.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle comprend tout."
+    },
+    {
+      "frase_fr": "Je ne comprends pas.",
+      "traducao_pt": "Eu não entendo.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne comprends pas."
+    },
+    {
+      "frase_fr": "Tu ne comprends pas ?",
+      "traducao_pt": "Você não entende?",
+      "ipa": "",
+      "observacao": "negação,pergunta",
+      "audio_text": "Tu ne comprends pas ?"
+    },
+    {
+      "frase_fr": "Je demande un café.",
+      "traducao_pt": "Eu peço um café.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je demande un café."
+    },
+    {
+      "frase_fr": "Tu demandes pourquoi ?",
+      "traducao_pt": "Você pergunta por quê?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu demandes pourquoi ?"
+    },
+    {
+      "frase_fr": "Il demande l’adresse.",
+      "traducao_pt": "Ele pede o endereço.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il demande l’adresse."
+    },
+    {
+      "frase_fr": "Elle demande le prix.",
+      "traducao_pt": "Ela pergunta o preço.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle demande le prix."
+    },
+    {
+      "frase_fr": "Je réponds oui.",
+      "traducao_pt": "Eu respondo sim.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je réponds oui."
+    },
+    {
+      "frase_fr": "Tu réponds quoi ?",
+      "traducao_pt": "Você responde o quê?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu réponds quoi ?"
+    },
+    {
+      "frase_fr": "Il répond vite.",
+      "traducao_pt": "Ele responde rápido.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il répond vite."
+    },
+    {
+      "frase_fr": "Elle répond non.",
+      "traducao_pt": "Ela responde não.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle répond non."
+    },
+    {
+      "frase_fr": "J’achète du pain.",
+      "traducao_pt": "Eu compro pão.",
+      "ipa": "",
+      "observacao": "contração",
+      "audio_text": "J’achète du pain."
+    },
+    {
+      "frase_fr": "Tu achètes ça ?",
+      "traducao_pt": "Você compra isso?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu achètes ça ?"
+    },
+    {
+      "frase_fr": "Il achète un livre.",
+      "traducao_pt": "Ele compra um livro.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il achète un livre."
+    },
+    {
+      "frase_fr": "Elle achète une robe.",
+      "traducao_pt": "Ela compra um vestido.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle achète une robe."
+    },
+    {
+      "frase_fr": "Je paie maintenant.",
+      "traducao_pt": "Eu pago agora.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je paie maintenant."
+    },
+    {
+      "frase_fr": "Tu paies par carte ?",
+      "traducao_pt": "Você paga com cartão?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu paies par carte ?"
+    },
+    {
+      "frase_fr": "Il paie le café.",
+      "traducao_pt": "Ele paga o café.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il paie le café."
+    },
+    {
+      "frase_fr": "Elle paie l’addition.",
+      "traducao_pt": "Ela paga a conta.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle paie l’addition."
+    },
+    {
+      "frase_fr": "Je donne mon numéro.",
+      "traducao_pt": "Eu dou meu número.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je donne mon numéro."
+    },
+    {
+      "frase_fr": "Tu donnes ça à Marie ?",
+      "traducao_pt": "Você dá isso para Marie?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu donnes ça à Marie ?"
+    },
+    {
+      "frase_fr": "Il donne un cadeau.",
+      "traducao_pt": "Ele dá um presente.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il donne un cadeau."
+    },
+    {
+      "frase_fr": "Elle donne une réponse.",
+      "traducao_pt": "Ela dá uma resposta.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle donne une réponse."
+    },
+    {
+      "frase_fr": "Je reçois un message.",
+      "traducao_pt": "Eu recebo uma mensagem.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je reçois un message."
+    },
+    {
+      "frase_fr": "Tu reçois mes mails ?",
+      "traducao_pt": "Você recebe meus emails?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu reçois mes mails ?"
+    },
+    {
+      "frase_fr": "Il reçoit un appel.",
+      "traducao_pt": "Ele recebe uma ligação.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il reçoit un appel."
+    },
+    {
+      "frase_fr": "Elle reçoit une lettre.",
+      "traducao_pt": "Ela recebe uma carta.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle reçoit une lettre."
+    },
+    {
+      "frase_fr": "Je vois la gare.",
+      "traducao_pt": "Eu vejo a estação.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je vois la gare."
+    },
+    {
+      "frase_fr": "Tu vois ça ?",
+      "traducao_pt": "Você vê isso?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu vois ça ?"
+    },
+    {
+      "frase_fr": "Il voit le bus.",
+      "traducao_pt": "Ele vê o ônibus.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il voit le bus."
+    },
+    {
+      "frase_fr": "Elle voit la rue.",
+      "traducao_pt": "Ela vê a rua.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle voit la rue."
+    },
+    {
+      "frase_fr": "J’écoute la radio.",
+      "traducao_pt": "Eu escuto rádio.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "J’écoute la radio."
+    },
+    {
+      "frase_fr": "Tu écoutes ?",
+      "traducao_pt": "Você está escutando?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu écoutes ?"
+    },
+    {
+      "frase_fr": "Il écoute de la musique.",
+      "traducao_pt": "Ele escuta música.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il écoute de la musique."
+    },
+    {
+      "frase_fr": "Elle écoute le prof.",
+      "traducao_pt": "Ela escuta o professor.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle écoute le prof."
+    }
+  ]
+}

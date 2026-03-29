@@ -1,0 +1,92 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "interrogatifs_A1",
+  "level_tag": "A1",
+  "theme_tag": "interrogatifs",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {"frase_fr":"Comment tu t’appelles ?","traducao_pt":"Como você se chama?","ipa":"","observacao":"pergunta","audio_text":"Comment tu t’appelles ?"},
+    {"frase_fr":"Comment ça va ?","traducao_pt":"Como vai?","ipa":"","observacao":"informal","audio_text":"Comment ça va ?"},
+    {"frase_fr":"Comment tu fais ça ?","traducao_pt":"Como você faz isso?","ipa":"","observacao":"","audio_text":"Comment tu fais ça ?"},
+    {"frase_fr":"Comment on arrive là ?","traducao_pt":"Como a gente chega lá?","ipa":"","observacao":"informal","audio_text":"Comment on arrive là ?"},
+    {"frase_fr":"Comment vous faites ?","traducao_pt":"Como você faz?","ipa":"","observacao":"formal","audio_text":"Comment vous faites ?"},
+    
+    {"frase_fr":"Quand tu arrives ?","traducao_pt":"Quando você chega?","ipa":"","observacao":"","audio_text":"Quand tu arrives ?"},
+    {"frase_fr":"Quand est le cours ?","traducao_pt":"Quando é a aula?","ipa":"","observacao":"","audio_text":"Quand est le cours ?"},
+    {"frase_fr":"Quand tu pars ?","traducao_pt":"Quando você sai?","ipa":"","observacao":"","audio_text":"Quand tu pars ?"},
+    {"frase_fr":"Quand on mange ?","traducao_pt":"Quando a gente come?","ipa":"","observacao":"informal","audio_text":"Quand on mange ?"},
+    {"frase_fr":"Quand vous travaillez ?","traducao_pt":"Quando você trabalha?","ipa":"","observacao":"formal","audio_text":"Quand vous travaillez ?"},
+    
+    {"frase_fr":"Où tu habites ?","traducao_pt":"Onde você mora?","ipa":"","observacao":"","audio_text":"Où tu habites ?"},
+    {"frase_fr":"Où est le café ?","traducao_pt":"Onde fica o café?","ipa":"","observacao":"","audio_text":"Où est le café ?"},
+    {"frase_fr":"Où on va ?","traducao_pt":"Onde a gente vai?","ipa":"","observacao":"informal","audio_text":"Où on va ?"},
+    {"frase_fr":"Où tu travailles ?","traducao_pt":"Onde você trabalha?","ipa":"","observacao":"","audio_text":"Où tu travailles ?"},
+    {"frase_fr":"Où vous êtes ?","traducao_pt":"Onde você está?","ipa":"","observacao":"formal","audio_text":"Où vous êtes ?"},
+    
+    {"frase_fr":"Pourquoi tu es là ?","traducao_pt":"Por que você está aqui?","ipa":"","observacao":"","audio_text":"Pourquoi tu es là ?"},
+    {"frase_fr":"Pourquoi tu fais ça ?","traducao_pt":"Por que você faz isso?","ipa":"","observacao":"","audio_text":"Pourquoi tu fais ça ?"},
+    {"frase_fr":"Pourquoi on attend ?","traducao_pt":"Por que a gente espera?","ipa":"","observacao":"informal","audio_text":"Pourquoi on attend ?"},
+    {"frase_fr":"Pourquoi vous partez ?","traducao_pt":"Por que você vai embora?","ipa":"","observacao":"formal","audio_text":"Pourquoi vous partez ?"},
+    {"frase_fr":"Pourquoi c’est difficile ?","traducao_pt":"Por que é difícil?","ipa":"","observacao":"","audio_text":"Pourquoi c’est difficile ?"},
+    
+    {"frase_fr":"Qui est là ?","traducao_pt":"Quem está aí?","ipa":"","observacao":"","audio_text":"Qui est là ?"},
+    {"frase_fr":"Qui parle ?","traducao_pt":"Quem fala?","ipa":"","observacao":"","audio_text":"Qui parle ?"},
+    {"frase_fr":"Qui vient avec toi ?","traducao_pt":"Quem vem com você?","ipa":"","observacao":"","audio_text":"Qui vient avec toi ?"},
+    {"frase_fr":"Qui travaille ici ?","traducao_pt":"Quem trabalha aqui?","ipa":"","observacao":"","audio_text":"Qui travaille ici ?"},
+    {"frase_fr":"Qui est votre prof ?","traducao_pt":"Quem é seu professor?","ipa":"","observacao":"formal","audio_text":"Qui est votre prof ?"},
+    
+    {"frase_fr":"Combien ça coûte ?","traducao_pt":"Quanto custa?","ipa":"","observacao":"","audio_text":"Combien ça coûte ?"},
+    {"frase_fr":"Combien de temps ?","traducao_pt":"Quanto tempo?","ipa":"","observacao":"","audio_text":"Combien de temps ?"},
+    {"frase_fr":"Combien de personnes ?","traducao_pt":"Quantas pessoas?","ipa":"","observacao":"","audio_text":"Combien de personnes ?"},
+    {"frase_fr":"Combien tu gagnes ?","traducao_pt":"Quanto você ganha?","ipa":"","observacao":"","audio_text":"Combien tu gagnes ?"},
+    {"frase_fr":"Combien vous voulez ?","traducao_pt":"Quanto você quer?","ipa":"","observacao":"formal","audio_text":"Combien vous voulez ?"},
+    
+    {"frase_fr":"Que fais-tu ?","traducao_pt":"O que você faz?","ipa":"","observacao":"formal","audio_text":"Que fais-tu ?"},
+    {"frase_fr":"Que tu veux ?","traducao_pt":"O que você quer?","ipa":"","observacao":"informal","audio_text":"Que tu veux ?"},
+    {"frase_fr":"Que fait-il ?","traducao_pt":"O que ele faz?","ipa":"","observacao":"","audio_text":"Que fait-il ?"},
+    {"frase_fr":"Que faites-vous ?","traducao_pt":"O que você faz?","ipa":"","observacao":"formal","audio_text":"Que faites-vous ?"},
+    {"frase_fr":"Que mange-t-elle ?","traducao_pt":"O que ela come?","ipa":"","observacao":"","audio_text":"Que mange-t-elle ?"},
+    
+    {"frase_fr":"Quoi ?","traducao_pt":"O quê?","ipa":"","observacao":"","audio_text":"Quoi ?"},
+    {"frase_fr":"Tu veux quoi ?","traducao_pt":"Você quer o quê?","ipa":"","observacao":"informal","audio_text":"Tu veux quoi ?"},
+    {"frase_fr":"On fait quoi ?","traducao_pt":"A gente faz o quê?","ipa":"","observacao":"informal","audio_text":"On fait quoi ?"},
+    {"frase_fr":"Vous cherchez quoi ?","traducao_pt":"Você procura o quê?","ipa":"","observacao":"formal","audio_text":"Vous cherchez quoi ?"},
+    {"frase_fr":"Il dit quoi ?","traducao_pt":"Ele diz o quê?","ipa":"","observacao":"","audio_text":"Il dit quoi ?"},
+    
+    {"frase_fr":"Qu’est-ce que tu fais ?","traducao_pt":"O que você faz?","ipa":"","observacao":"","audio_text":"Qu’est-ce que tu fais ?"},
+    {"frase_fr":"Qu’est-ce que c’est ?","traducao_pt":"O que é isso?","ipa":"","observacao":"","audio_text":"Qu’est-ce que c’est ?"},
+    {"frase_fr":"Qu’est-ce que tu veux ?","traducao_pt":"O que você quer?","ipa":"","observacao":"","audio_text":"Qu’est-ce que tu veux ?"},
+    {"frase_fr":"Qu’est-ce qu’il dit ?","traducao_pt":"O que ele diz?","ipa":"","observacao":"","audio_text":"Qu’est-ce qu’il dit ?"},
+    {"frase_fr":"Qu’est-ce que vous faites ?","traducao_pt":"O que você faz?","ipa":"","observacao":"formal","audio_text":"Qu’est-ce que vous faites ?"},
+    
+    {"frase_fr":"Est-ce que tu viens ?","traducao_pt":"Você vem?","ipa":"","observacao":"","audio_text":"Est-ce que tu viens ?"},
+    {"frase_fr":"Est-ce que c’est bon ?","traducao_pt":"Está bom?","ipa":"","observacao":"","audio_text":"Est-ce que c’est bon ?"},
+    {"frase_fr":"Est-ce que tu comprends ?","traducao_pt":"Você entende?","ipa":"","observacao":"","audio_text":"Est-ce que tu comprends ?"},
+    {"frase_fr":"Est-ce que vous travaillez ?","traducao_pt":"Você trabalha?","ipa":"","observacao":"formal","audio_text":"Est-ce que vous travaillez ?"},
+    {"frase_fr":"Est-ce qu’il est là ?","traducao_pt":"Ele está aí?","ipa":"","observacao":"","audio_text":"Est-ce qu’il est là ?"},
+    
+    {"frase_fr":"Tu viens quand ?","traducao_pt":"Você vem quando?","ipa":"","observacao":"","audio_text":"Tu viens quand ?"},
+    {"frase_fr":"Tu vas où ?","traducao_pt":"Você vai onde?","ipa":"","observacao":"","audio_text":"Tu vas où ?"},
+    {"frase_fr":"Tu fais quoi ?","traducao_pt":"Você faz o quê?","ipa":"","observacao":"","audio_text":"Tu fais quoi ?"},
+    {"frase_fr":"Tu travailles où ?","traducao_pt":"Você trabalha onde?","ipa":"","observacao":"","audio_text":"Tu travailles où ?"},
+    {"frase_fr":"Tu arrives comment ?","traducao_pt":"Você chega como?","ipa":"","observacao":"","audio_text":"Tu arrives comment ?"},
+    
+    {"frase_fr":"Vous allez où ?","traducao_pt":"Você vai onde?","ipa":"","observacao":"formal","audio_text":"Vous allez où ?"},
+    {"frase_fr":"Vous faites quoi ?","traducao_pt":"Você faz o quê?","ipa":"","observacao":"formal","audio_text":"Vous faites quoi ?"},
+    {"frase_fr":"Vous venez quand ?","traducao_pt":"Você vem quando?","ipa":"","observacao":"formal","audio_text":"Vous venez quand ?"},
+    {"frase_fr":"Vous travaillez comment ?","traducao_pt":"Você trabalha como?","ipa":"","observacao":"formal","audio_text":"Vous travaillez comment ?"},
+    {"frase_fr":"Vous mangez quoi ?","traducao_pt":"Você come o quê?","ipa":"","observacao":"formal","audio_text":"Vous mangez quoi ?"},
+    
+    {"frase_fr":"C’est quoi ça ?","traducao_pt":"O que é isso?","ipa":"","observacao":"informal","audio_text":"C’est quoi ça ?"},
+    {"frase_fr":"C’est qui lui ?","traducao_pt":"Quem é ele?","ipa":"","observacao":"informal","audio_text":"C’est qui lui ?"},
+    {"frase_fr":"C’est où ici ?","traducao_pt":"Onde é aqui?","ipa":"","observacao":"informal","audio_text":"C’est où ici ?"},
+    {"frase_fr":"C’est quand ?","traducao_pt":"Quando é?","ipa":"","observacao":"informal","audio_text":"C’est quand ?"},
+    {"frase_fr":"C’est comment ?","traducao_pt":"Como é?","ipa":"","observacao":"informal","audio_text":"C’est comment ?"}
+  ]
+}

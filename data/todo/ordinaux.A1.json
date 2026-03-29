@@ -1,0 +1,76 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "ordinaux_A1",
+  "level_tag": "A1",
+  "theme_tag": "ordinaux",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {"frase_fr":"le premier jour","traducao_pt":"o primeiro dia","ipa":"","observacao":"","audio_text":"le premier jour"},
+    {"frase_fr":"la première fois","traducao_pt":"a primeira vez","ipa":"","observacao":"feminino","audio_text":"la première fois"},
+    {"frase_fr":"le deuxième étage","traducao_pt":"o segundo andar","ipa":"","observacao":"","audio_text":"le deuxième étage"},
+    {"frase_fr":"la troisième rue","traducao_pt":"a terceira rua","ipa":"","observacao":"feminino","audio_text":"la troisième rue"},
+    {"frase_fr":"le quatrième bus","traducao_pt":"o quarto ônibus","ipa":"","observacao":"","audio_text":"le quatrième bus"},
+    {"frase_fr":"le cinquième train","traducao_pt":"o quinto trem","ipa":"","observacao":"","audio_text":"le cinquième train"},
+    {"frase_fr":"le sixième client","traducao_pt":"o sexto cliente","ipa":"","observacao":"","audio_text":"le sixième client"},
+    {"frase_fr":"le septième jour","traducao_pt":"o sétimo dia","ipa":"","observacao":"","audio_text":"le septième jour"},
+    {"frase_fr":"le huitième étage","traducao_pt":"o oitavo andar","ipa":"","observacao":"","audio_text":"le huitième étage"},
+    {"frase_fr":"le neuvième numéro","traducao_pt":"o nono número","ipa":"","observacao":"","audio_text":"le neuvième numéro"},
+    {"frase_fr":"le dixième client","traducao_pt":"o décimo cliente","ipa":"","observacao":"","audio_text":"le dixième client"},
+
+    {"frase_fr":"Je suis le premier.","traducao_pt":"Eu sou o primeiro.","ipa":"","observacao":"","audio_text":"Je suis le premier."},
+    {"frase_fr":"Je suis la première.","traducao_pt":"Eu sou a primeira.","ipa":"","observacao":"feminino","audio_text":"Je suis la première."},
+    {"frase_fr":"Tu es le deuxième ?","traducao_pt":"Você é o segundo?","ipa":"","observacao":"pergunta","audio_text":"Tu es le deuxième ?"},
+    {"frase_fr":"Elle est la troisième.","traducao_pt":"Ela é a terceira.","ipa":"","observacao":"feminino","audio_text":"Elle est la troisième."},
+    {"frase_fr":"On est le quatrième.","traducao_pt":"A gente é o quarto.","ipa":"","observacao":"informal","audio_text":"On est le quatrième."},
+
+    {"frase_fr":"C’est le premier train.","traducao_pt":"É o primeiro trem.","ipa":"","observacao":"","audio_text":"C’est le premier train."},
+    {"frase_fr":"C’est la deuxième porte.","traducao_pt":"É a segunda porta.","ipa":"","observacao":"feminino","audio_text":"C’est la deuxième porte."},
+    {"frase_fr":"C’est le troisième bus.","traducao_pt":"É o terceiro ônibus.","ipa":"","observacao":"","audio_text":"C’est le troisième bus"},
+    {"frase_fr":"C’est la quatrième table.","traducao_pt":"É a quarta mesa.","ipa":"","observacao":"feminino","audio_text":"C’est la quatrième table."},
+
+    {"frase_fr":"Tu prends le premier ?","traducao_pt":"Você pega o primeiro?","ipa":"","observacao":"pergunta","audio_text":"Tu prends le premier ?"},
+    {"frase_fr":"Tu veux la deuxième ?","traducao_pt":"Você quer a segunda?","ipa":"","observacao":"pergunta,feminino","audio_text":"Tu veux la deuxième ?"},
+    {"frase_fr":"On prend le troisième.","traducao_pt":"A gente pega o terceiro.","ipa":"","observacao":"informal","audio_text":"On prend le troisième."},
+
+    {"frase_fr":"Ce n’est pas le premier.","traducao_pt":"Não é o primeiro.","ipa":"","observacao":"negação","audio_text":"Ce n’est pas le premier."},
+    {"frase_fr":"Ce n’est pas la troisième.","traducao_pt":"Não é a terceira.","ipa":"","observacao":"negação,feminino","audio_text":"Ce n’est pas la troisième."},
+
+    {"frase_fr":"Le dixième est libre.","traducao_pt":"O décimo está livre.","ipa":"","observacao":"","audio_text":"Le dixième est libre."},
+    {"frase_fr":"Le onzième est occupé.","traducao_pt":"O décimo primeiro está ocupado.","ipa":"","observacao":"","audio_text":"Le onzième est occupé."},
+    {"frase_fr":"Le douzième est fermé.","traducao_pt":"O décimo segundo está fechado.","ipa":"","observacao":"","audio_text":"Le douzième est fermé."},
+    {"frase_fr":"Le treizième est ouvert.","traducao_pt":"O décimo terceiro está aberto.","ipa":"","observacao":"","audio_text":"Le treizième est ouvert."},
+
+    {"frase_fr":"C’est le vingtième étage.","traducao_pt":"É o vigésimo andar.","ipa":"","observacao":"","audio_text":"C’est le vingtième étage."},
+    {"frase_fr":"Je suis au vingt et unième étage.","traducao_pt":"Estou no vigésimo primeiro andar.","ipa":"","observacao":"contração","audio_text":"Je suis au vingt et unième étage."},
+    {"frase_fr":"Le vingt-deuxième est fermé.","traducao_pt":"O vigésimo segundo está fechado.","ipa":"","observacao":"","audio_text":"Le vingt-deuxième est fermé."},
+
+    {"frase_fr":"C’est le trentième jour.","traducao_pt":"É o trigésimo dia.","ipa":"","observacao":"","audio_text":"C’est le trentième jour."},
+    {"frase_fr":"Le trente et unième est spécial.","traducao_pt":"O trigésimo primeiro é especial.","ipa":"","observacao":"","audio_text":"Le trente et unième est spécial."},
+
+    {"frase_fr":"Il est au quarantième étage.","traducao_pt":"Ele está no quadragésimo andar.","ipa":"","observacao":"contração","audio_text":"Il est au quarantième étage."},
+    {"frase_fr":"Elle est à la quarantième place.","traducao_pt":"Ela está na quadragésima posição.","ipa":"","observacao":"feminino","audio_text":"Elle est à la quarantième place."},
+
+    {"frase_fr":"C’est le cinquantième client.","traducao_pt":"É o quinquagésimo cliente.","ipa":"","observacao":"","audio_text":"C’est le cinquantième client."},
+
+    {"frase_fr":"Le soixantième est complet.","traducao_pt":"O sexagésimo está cheio.","ipa":"","observacao":"","audio_text":"Le soixantième est complet."},
+    {"frase_fr":"Le soixante-dixième est libre.","traducao_pt":"O septuagésimo está livre.","ipa":"","observacao":"","audio_text":"Le soixante-dixième est libre."},
+    {"frase_fr":"Le quatre-vingtième est fermé.","traducao_pt":"O octogésimo está fechado.","ipa":"","observacao":"","audio_text":"Le quatre-vingtième est fermé."},
+    {"frase_fr":"Le quatre-vingt-dixième est ouvert.","traducao_pt":"O nonagésimo está aberto.","ipa":"","observacao":"","audio_text":"Le quatre-vingt-dixième est ouvert."},
+
+    {"frase_fr":"Le centième est important.","traducao_pt":"O centésimo é importante.","ipa":"","observacao":"","audio_text":"Le centième est important."},
+    {"frase_fr":"C’est la centième page.","traducao_pt":"É a centésima página.","ipa":"","observacao":"feminino","audio_text":"C’est la centième page."},
+
+    {"frase_fr":"Il est le cent dix-neuvième client.","traducao_pt":"Ele é o centésimo décimo nono cliente.","ipa":"","observacao":"","audio_text":"Il est le cent dix-neuvième client."},
+    {"frase_fr":"C’est la cent dix-neuvième fois.","traducao_pt":"É a centésima décima nona vez.","ipa":"","observacao":"feminino","audio_text":"C’est la cent dix-neuvième fois."},
+
+    {"frase_fr":"Le millième est spécial.","traducao_pt":"O milésimo é especial.","ipa":"","observacao":"","audio_text":"Le millième est spécial."},
+    {"frase_fr":"C’est la millième page.","traducao_pt":"É a milésima página.","ipa":"","observacao":"feminino","audio_text":"C’est la millième page."},
+    {"frase_fr":"Il est le millième client.","traducao_pt":"Ele é o milésimo cliente.","ipa":"","observacao":"","audio_text":"Il est le millième client."}
+  ]
+}

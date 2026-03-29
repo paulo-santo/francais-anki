@@ -1,0 +1,715 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "articles_A1_complet",
+  "level_tag": "A1",
+  "theme_tag": "articles",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "le café",
+      "traducao_pt": "o café",
+      "ipa": "",
+      "observacao": "artigo definido, masculino singular",
+      "audio_text": "le café"
+    },
+    {
+      "frase_fr": "la table",
+      "traducao_pt": "a mesa",
+      "ipa": "",
+      "observacao": "artigo definido, feminino singular",
+      "audio_text": "la table"
+    },
+    {
+      "frase_fr": "l’hôtel",
+      "traducao_pt": "o hotel",
+      "ipa": "",
+      "observacao": "artigo definido diante de vogal",
+      "audio_text": "l’hôtel"
+    },
+    {
+      "frase_fr": "l’école",
+      "traducao_pt": "a escola",
+      "ipa": "",
+      "observacao": "artigo definido diante de vogal",
+      "audio_text": "l’école"
+    },
+    {
+      "frase_fr": "les amis",
+      "traducao_pt": "os amigos",
+      "ipa": "",
+      "observacao": "artigo definido plural, liaison z",
+      "audio_text": "les amis"
+    },
+    {
+      "frase_fr": "les tables",
+      "traducao_pt": "as mesas",
+      "ipa": "",
+      "observacao": "artigo definido plural",
+      "audio_text": "les tables"
+    },
+    {
+      "frase_fr": "le professeur",
+      "traducao_pt": "o professor",
+      "ipa": "",
+      "observacao": "artigo definido, masculino singular",
+      "audio_text": "le professeur"
+    },
+    {
+      "frase_fr": "la professeure",
+      "traducao_pt": "a professora",
+      "ipa": "",
+      "observacao": "artigo definido, feminino singular",
+      "audio_text": "la professeure"
+    },
+    {
+      "frase_fr": "l’enfant",
+      "traducao_pt": "a criança / o criança",
+      "ipa": "",
+      "observacao": "artigo definido diante de vogal",
+      "audio_text": "l’enfant"
+    },
+    {
+      "frase_fr": "les enfants",
+      "traducao_pt": "as crianças / os crianças",
+      "ipa": "",
+      "observacao": "artigo definido plural, liaison z",
+      "audio_text": "les enfants"
+    },
+    {
+      "frase_fr": "le bus",
+      "traducao_pt": "o ônibus",
+      "ipa": "",
+      "observacao": "artigo definido, masculino singular",
+      "audio_text": "le bus"
+    },
+    {
+      "frase_fr": "la voiture",
+      "traducao_pt": "o carro",
+      "ipa": "",
+      "observacao": "artigo definido, feminino singular",
+      "audio_text": "la voiture"
+    },
+    {
+      "frase_fr": "un café",
+      "traducao_pt": "um café",
+      "ipa": "",
+      "observacao": "artigo indefinido, masculino singular",
+      "audio_text": "un café"
+    },
+    {
+      "frase_fr": "une table",
+      "traducao_pt": "uma mesa",
+      "ipa": "",
+      "observacao": "artigo indefinido, feminino singular",
+      "audio_text": "une table"
+    },
+    {
+      "frase_fr": "un ami",
+      "traducao_pt": "um amigo",
+      "ipa": "",
+      "observacao": "artigo indefinido diante de vogal",
+      "audio_text": "un ami"
+    },
+    {
+      "frase_fr": "une amie",
+      "traducao_pt": "uma amiga",
+      "ipa": "",
+      "observacao": "artigo indefinido diante de vogal",
+      "audio_text": "une amie"
+    },
+    {
+      "frase_fr": "un professeur",
+      "traducao_pt": "um professor",
+      "ipa": "",
+      "observacao": "artigo indefinido, masculino singular",
+      "audio_text": "un professeur"
+    },
+    {
+      "frase_fr": "une professeure",
+      "traducao_pt": "uma professora",
+      "ipa": "",
+      "observacao": "artigo indefinido, feminino singular",
+      "audio_text": "une professeure"
+    },
+    {
+      "frase_fr": "un enfant",
+      "traducao_pt": "uma criança / um criança",
+      "ipa": "",
+      "observacao": "artigo indefinido",
+      "audio_text": "un enfant"
+    },
+    {
+      "frase_fr": "une maison",
+      "traducao_pt": "uma casa",
+      "ipa": "",
+      "observacao": "artigo indefinido, feminino singular",
+      "audio_text": "une maison"
+    },
+    {
+      "frase_fr": "un problème",
+      "traducao_pt": "um problema",
+      "ipa": "",
+      "observacao": "artigo indefinido, masculino singular",
+      "audio_text": "un problème"
+    },
+    {
+      "frase_fr": "une idée",
+      "traducao_pt": "uma ideia",
+      "ipa": "",
+      "observacao": "artigo indefinido diante de vogal",
+      "audio_text": "une idée"
+    },
+    {
+      "frase_fr": "un avion",
+      "traducao_pt": "um avião",
+      "ipa": "",
+      "observacao": "artigo indefinido diante de vogal",
+      "audio_text": "un avion"
+    },
+    {
+      "frase_fr": "une orange",
+      "traducao_pt": "uma laranja",
+      "ipa": "",
+      "observacao": "artigo indefinido diante de vogal",
+      "audio_text": "une orange"
+    },
+    {
+      "frase_fr": "du pain",
+      "traducao_pt": "pão",
+      "ipa": "",
+      "observacao": "artigo partitivo, masculino",
+      "audio_text": "du pain"
+    },
+    {
+      "frase_fr": "de la soupe",
+      "traducao_pt": "sopa",
+      "ipa": "",
+      "observacao": "artigo partitivo, feminino",
+      "audio_text": "de la soupe"
+    },
+    {
+      "frase_fr": "de l’eau",
+      "traducao_pt": "água",
+      "ipa": "",
+      "observacao": "artigo partitivo diante de vogal",
+      "audio_text": "de l’eau"
+    },
+    {
+      "frase_fr": "des pâtes",
+      "traducao_pt": "macarrão",
+      "ipa": "",
+      "observacao": "artigo plural indefinido",
+      "audio_text": "des pâtes"
+    },
+    {
+      "frase_fr": "au café",
+      "traducao_pt": "ao café",
+      "ipa": "",
+      "observacao": "à + le = au",
+      "audio_text": "au café"
+    },
+    {
+      "frase_fr": "à la gare",
+      "traducao_pt": "à estação",
+      "ipa": "",
+      "observacao": "artigo definido feminino",
+      "audio_text": "à la gare"
+    },
+    {
+      "frase_fr": "à l’école",
+      "traducao_pt": "à escola",
+      "ipa": "",
+      "observacao": "artigo definido diante de vogal",
+      "audio_text": "à l’école"
+    },
+    {
+      "frase_fr": "aux toilettes",
+      "traducao_pt": "aos banheiros",
+      "ipa": "",
+      "observacao": "à + les = aux",
+      "audio_text": "aux toilettes"
+    },
+    {
+      "frase_fr": "du sucre",
+      "traducao_pt": "açúcar",
+      "ipa": "",
+      "observacao": "artigo partitivo, masculino",
+      "audio_text": "du sucre"
+    },
+    {
+      "frase_fr": "de la musique",
+      "traducao_pt": "música",
+      "ipa": "",
+      "observacao": "artigo partitivo, feminino",
+      "audio_text": "de la musique"
+    },
+    {
+      "frase_fr": "de l’huile",
+      "traducao_pt": "óleo",
+      "ipa": "",
+      "observacao": "artigo partitivo diante de vogal",
+      "audio_text": "de l’huile"
+    },
+    {
+      "frase_fr": "des fruits",
+      "traducao_pt": "frutas",
+      "ipa": "",
+      "observacao": "plural indefinido",
+      "audio_text": "des fruits"
+    },
+    {
+      "frase_fr": "du travail",
+      "traducao_pt": "trabalho",
+      "ipa": "",
+      "observacao": "artigo partitivo",
+      "audio_text": "du travail"
+    },
+    {
+      "frase_fr": "de la confiture",
+      "traducao_pt": "geleia",
+      "ipa": "",
+      "observacao": "artigo partitivo",
+      "audio_text": "de la confiture"
+    },
+    {
+      "frase_fr": "Je prends le café.",
+      "traducao_pt": "Eu pego o café.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "Je prends le café."
+    },
+    {
+      "frase_fr": "Je prends un café.",
+      "traducao_pt": "Eu pego um café.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "Je prends un café."
+    },
+    {
+      "frase_fr": "Elle ouvre la porte.",
+      "traducao_pt": "Ela abre a porta.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle ouvre la porte."
+    },
+    {
+      "frase_fr": "Il ouvre une porte.",
+      "traducao_pt": "Ele abre uma porta.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "Il ouvre une porte."
+    },
+    {
+      "frase_fr": "Nous aimons les films.",
+      "traducao_pt": "Nós gostamos dos filmes.",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Nous aimons les films."
+    },
+    {
+      "frase_fr": "Vous regardez un film ?",
+      "traducao_pt": "Vocês assistem a um filme?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous regardez un film ?"
+    },
+    {
+      "frase_fr": "Tu manges du pain.",
+      "traducao_pt": "Você come pão.",
+      "ipa": "",
+      "observacao": "partitivo",
+      "audio_text": "Tu manges du pain."
+    },
+    {
+      "frase_fr": "Tu bois de l’eau ?",
+      "traducao_pt": "Você bebe água?",
+      "ipa": "",
+      "observacao": "pergunta, partitivo",
+      "audio_text": "Tu bois de l’eau ?"
+    },
+    {
+      "frase_fr": "On va au centre.",
+      "traducao_pt": "A gente vai ao centro.",
+      "ipa": "",
+      "observacao": "informal, contraction",
+      "audio_text": "On va au centre."
+    },
+    {
+      "frase_fr": "On va à la gare.",
+      "traducao_pt": "A gente vai à estação.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On va à la gare."
+    },
+    {
+      "frase_fr": "Ils sont aux toilettes.",
+      "traducao_pt": "Eles estão nos banheiros.",
+      "ipa": "",
+      "observacao": "plural, contraction",
+      "audio_text": "Ils sont aux toilettes."
+    },
+    {
+      "frase_fr": "Elle est à l’école.",
+      "traducao_pt": "Ela está na escola.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Elle est à l’école."
+    },
+    {
+      "frase_fr": "J’écoute la radio.",
+      "traducao_pt": "Eu escuto rádio.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "J’écoute la radio."
+    },
+    {
+      "frase_fr": "J’écoute de la musique.",
+      "traducao_pt": "Eu escuto música.",
+      "ipa": "",
+      "observacao": "partitivo",
+      "audio_text": "J’écoute de la musique."
+    },
+    {
+      "frase_fr": "Il y a un problème.",
+      "traducao_pt": "Há um problema.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "Il y a un problème."
+    },
+    {
+      "frase_fr": "Il y a le problème.",
+      "traducao_pt": "Há o problema.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "Il y a le problème."
+    },
+    {
+      "frase_fr": "Je n’ai pas de café.",
+      "traducao_pt": "Eu não tenho café.",
+      "ipa": "",
+      "observacao": "negação: de",
+      "audio_text": "Je n’ai pas de café."
+    },
+    {
+      "frase_fr": "Je n’ai pas de voiture.",
+      "traducao_pt": "Eu não tenho carro.",
+      "ipa": "",
+      "observacao": "negação: de",
+      "audio_text": "Je n’ai pas de voiture."
+    },
+    {
+      "frase_fr": "Tu ne bois pas d’eau.",
+      "traducao_pt": "Você não bebe água.",
+      "ipa": "",
+      "observacao": "negação: d’",
+      "audio_text": "Tu ne bois pas d’eau."
+    },
+    {
+      "frase_fr": "Elle ne mange pas de soupe.",
+      "traducao_pt": "Ela não come sopa.",
+      "ipa": "",
+      "observacao": "negação: de",
+      "audio_text": "Elle ne mange pas de soupe."
+    },
+    {
+      "frase_fr": "Nous n’achetons pas de pain.",
+      "traducao_pt": "Nós não compramos pão.",
+      "ipa": "",
+      "observacao": "negação: de",
+      "audio_text": "Nous n’achetons pas de pain."
+    },
+    {
+      "frase_fr": "Vous ne prenez pas de dessert ?",
+      "traducao_pt": "Vocês não pegam sobremesa?",
+      "ipa": "",
+      "observacao": "negação, pergunta",
+      "audio_text": "Vous ne prenez pas de dessert ?"
+    },
+    {
+      "frase_fr": "Ils ne veulent pas de café.",
+      "traducao_pt": "Eles não querem café.",
+      "ipa": "",
+      "observacao": "negação: de",
+      "audio_text": "Ils ne veulent pas de café."
+    },
+    {
+      "frase_fr": "Elles ne boivent pas de jus.",
+      "traducao_pt": "Elas não bebem suco.",
+      "ipa": "",
+      "observacao": "negação: de",
+      "audio_text": "Elles ne boivent pas de jus."
+    },
+    {
+      "frase_fr": "On n’a pas d’idée.",
+      "traducao_pt": "A gente não tem ideia.",
+      "ipa": "",
+      "observacao": "informal, negação, d’",
+      "audio_text": "On n’a pas d’idée."
+    },
+    {
+      "frase_fr": "Je ne vois pas de bus.",
+      "traducao_pt": "Eu não vejo ônibus.",
+      "ipa": "",
+      "observacao": "negação: de",
+      "audio_text": "Je ne vois pas de bus."
+    },
+    {
+      "frase_fr": "Tu n’as pas d’ami ici ?",
+      "traducao_pt": "Você não tem amigo aqui?",
+      "ipa": "",
+      "observacao": "negação, pergunta, d’",
+      "audio_text": "Tu n’as pas d’ami ici ?"
+    },
+    {
+      "frase_fr": "Il n’y a pas de table.",
+      "traducao_pt": "Não há mesa.",
+      "ipa": "",
+      "observacao": "negação: de",
+      "audio_text": "Il n’y a pas de table."
+    },
+    {
+      "frase_fr": "C’est le bus.",
+      "traducao_pt": "É o ônibus.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "C’est le bus."
+    },
+    {
+      "frase_fr": "C’est un bus.",
+      "traducao_pt": "É um ônibus.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "C’est un bus."
+    },
+    {
+      "frase_fr": "C’est la clé.",
+      "traducao_pt": "É a chave.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "C’est la clé."
+    },
+    {
+      "frase_fr": "C’est une clé.",
+      "traducao_pt": "É uma chave.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "C’est une clé."
+    },
+    {
+      "frase_fr": "Je veux le menu.",
+      "traducao_pt": "Eu quero o menu.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "Je veux le menu."
+    },
+    {
+      "frase_fr": "Je veux un menu.",
+      "traducao_pt": "Eu quero um menu.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "Je veux un menu."
+    },
+    {
+      "frase_fr": "Il cherche la sortie.",
+      "traducao_pt": "Ele procura a saída.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "Il cherche la sortie."
+    },
+    {
+      "frase_fr": "Il cherche une sortie.",
+      "traducao_pt": "Ele procura uma saída.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "Il cherche une sortie."
+    },
+    {
+      "frase_fr": "Nous prenons le train.",
+      "traducao_pt": "Nós pegamos o trem.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "Nous prenons le train."
+    },
+    {
+      "frase_fr": "Nous prenons un train.",
+      "traducao_pt": "Nós pegamos um trem.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "Nous prenons un train."
+    },
+    {
+      "frase_fr": "Tu veux du café ?",
+      "traducao_pt": "Você quer café?",
+      "ipa": "",
+      "observacao": "partitivo, pergunta",
+      "audio_text": "Tu veux du café ?"
+    },
+    {
+      "frase_fr": "Tu veux le café ?",
+      "traducao_pt": "Você quer o café?",
+      "ipa": "",
+      "observacao": "definido, pergunta",
+      "audio_text": "Tu veux le café ?"
+    },
+    {
+      "frase_fr": "les hôtels",
+      "traducao_pt": "os hotéis",
+      "ipa": "",
+      "observacao": "plural, h muet",
+      "audio_text": "les hôtels"
+    },
+    {
+      "frase_fr": "les écoles",
+      "traducao_pt": "as escolas",
+      "ipa": "",
+      "observacao": "plural, liaison z",
+      "audio_text": "les écoles"
+    },
+    {
+      "frase_fr": "les oranges",
+      "traducao_pt": "as laranjas",
+      "ipa": "",
+      "observacao": "plural, liaison z",
+      "audio_text": "les oranges"
+    },
+    {
+      "frase_fr": "les étudiants",
+      "traducao_pt": "os estudantes",
+      "ipa": "",
+      "observacao": "plural, liaison z",
+      "audio_text": "les étudiants"
+    },
+    {
+      "frase_fr": "les étudiantes",
+      "traducao_pt": "as estudantes",
+      "ipa": "",
+      "observacao": "plural, feminino, liaison z",
+      "audio_text": "les étudiantes"
+    },
+    {
+      "frase_fr": "des amis",
+      "traducao_pt": "amigos",
+      "ipa": "",
+      "observacao": "plural indefinido, liaison z",
+      "audio_text": "des amis"
+    },
+    {
+      "frase_fr": "des amies",
+      "traducao_pt": "amigas",
+      "ipa": "",
+      "observacao": "plural indefinido, feminino",
+      "audio_text": "des amies"
+    },
+    {
+      "frase_fr": "aux amis",
+      "traducao_pt": "aos amigos",
+      "ipa": "",
+      "observacao": "à + les = aux",
+      "audio_text": "aux amis"
+    },
+    {
+      "frase_fr": "aux étudiantes",
+      "traducao_pt": "às estudantes",
+      "ipa": "",
+      "observacao": "à + les = aux",
+      "audio_text": "aux étudiantes"
+    },
+    {
+      "frase_fr": "les enfants arrivent.",
+      "traducao_pt": "As crianças chegam.",
+      "ipa": "",
+      "observacao": "liaison z",
+      "audio_text": "les enfants arrivent."
+    },
+    {
+      "frase_fr": "les amis arrivent.",
+      "traducao_pt": "Os amigos chegam.",
+      "ipa": "",
+      "observacao": "liaison z",
+      "audio_text": "les amis arrivent."
+    },
+    {
+      "frase_fr": "les élèves sont là.",
+      "traducao_pt": "Os alunos estão aí.",
+      "ipa": "",
+      "observacao": "liaison z",
+      "audio_text": "les élèves sont là."
+    },
+    {
+      "frase_fr": "Le café est bon.",
+      "traducao_pt": "O café está bom.",
+      "ipa": "",
+      "observacao": "definido",
+      "audio_text": "Le café est bon."
+    },
+    {
+      "frase_fr": "Un café, s’il vous plaît.",
+      "traducao_pt": "Um café, por favor.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "Un café, s’il vous plaît."
+    },
+    {
+      "frase_fr": "La chambre est petite.",
+      "traducao_pt": "O quarto é pequeno.",
+      "ipa": "",
+      "observacao": "definido, feminino",
+      "audio_text": "La chambre est petite."
+    },
+    {
+      "frase_fr": "Une chambre pour deux, s’il vous plaît.",
+      "traducao_pt": "Um quarto para dois, por favor.",
+      "ipa": "",
+      "observacao": "indefinido",
+      "audio_text": "Une chambre pour deux, s’il vous plaît."
+    },
+    {
+      "frase_fr": "Je vais au bureau.",
+      "traducao_pt": "Eu vou ao escritório.",
+      "ipa": "",
+      "observacao": "au",
+      "audio_text": "Je vais au bureau."
+    },
+    {
+      "frase_fr": "Je vais à la maison.",
+      "traducao_pt": "Eu vou para casa.",
+      "ipa": "",
+      "observacao": "à la",
+      "audio_text": "Je vais à la maison."
+    },
+    {
+      "frase_fr": "Je vais à l’hôtel.",
+      "traducao_pt": "Eu vou ao hotel.",
+      "ipa": "",
+      "observacao": "à l’",
+      "audio_text": "Je vais à l’hôtel."
+    },
+    {
+      "frase_fr": "Je vais aux toilettes.",
+      "traducao_pt": "Eu vou aos banheiros.",
+      "ipa": "",
+      "observacao": "aux",
+      "audio_text": "Je vais aux toilettes."
+    },
+    {
+      "frase_fr": "Il mange du fromage.",
+      "traducao_pt": "Ele come queijo.",
+      "ipa": "",
+      "observacao": "partitivo",
+      "audio_text": "Il mange du fromage."
+    },
+    {
+      "frase_fr": "Elle boit de la limonade.",
+      "traducao_pt": "Ela bebe limonada.",
+      "ipa": "",
+      "observacao": "partitivo, feminino",
+      "audio_text": "Elle boit de la limonade."
+    }
+  ]
+}

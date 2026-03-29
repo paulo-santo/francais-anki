@@ -1,0 +1,70 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "jours_A1",
+  "level_tag": "A1",
+  "theme_tag": "jours",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {"frase_fr":"Je travaille le lundi.","traducao_pt":"Eu trabalho na segunda-feira.","ipa":"","observacao":"","audio_text":"Je travaille le lundi."},
+    {"frase_fr":"Tu travailles le mardi ?","traducao_pt":"Você trabalha na terça-feira?","ipa":"","observacao":"pergunta","audio_text":"Tu travailles le mardi ?"},
+    {"frase_fr":"Je ne travaille pas le mercredi.","traducao_pt":"Eu não trabalho na quarta-feira.","ipa":"","observacao":"negação","audio_text":"Je ne travaille pas le mercredi."},
+    {"frase_fr":"On a un cours le jeudi.","traducao_pt":"Temos uma aula na quinta-feira.","ipa":"","observacao":"informal","audio_text":"On a un cours le jeudi."},
+    {"frase_fr":"Vous êtes libres le vendredi ?","traducao_pt":"Você está livre na sexta-feira?","ipa":"","observacao":"formal,pergunta","audio_text":"Vous êtes libres le vendredi ?"},
+    {"frase_fr":"Je pars le samedi.","traducao_pt":"Eu parto no sábado.","ipa":"","observacao":"","audio_text":"Je pars le samedi."},
+    {"frase_fr":"On ne sort pas le dimanche.","traducao_pt":"A gente não sai no domingo.","ipa":"","observacao":"negação,informal","audio_text":"On ne sort pas le dimanche."},
+
+    {"frase_fr":"Le lundi, je commence tôt.","traducao_pt":"Na segunda-feira, eu começo cedo.","ipa":"","observacao":"","audio_text":"Le lundi, je commence tôt."},
+    {"frase_fr":"Le mardi, tu travailles ici ?","traducao_pt":"Na terça-feira, você trabalha aqui?","ipa":"","observacao":"pergunta","audio_text":"Le mardi, tu travailles ici ?"},
+    {"frase_fr":"Le mercredi, elle est à la maison.","traducao_pt":"Na quarta-feira, ela fica em casa.","ipa":"","observacao":"feminino","audio_text":"Le mercredi, elle est à la maison."},
+    {"frase_fr":"Le jeudi, on mange dehors.","traducao_pt":"Na quinta-feira, a gente come fora.","ipa":"","observacao":"informal","audio_text":"Le jeudi, on mange dehors."},
+    {"frase_fr":"Le vendredi, vous travaillez tard ?","traducao_pt":"Na sexta-feira, você trabalha até tarde?","ipa":"","observacao":"formal,pergunta","audio_text":"Le vendredi, vous travaillez tard ?"},
+    {"frase_fr":"Le samedi, je vois mes amis.","traducao_pt":"No sábado, eu vejo meus amigos.","ipa":"","observacao":"","audio_text":"Le samedi, je vois mes amis."},
+    {"frase_fr":"Le dimanche, je ne travaille pas.","traducao_pt":"No domingo, eu não trabalho.","ipa":"","observacao":"negação","audio_text":"Le dimanche, je ne travaille pas."},
+
+    {"frase_fr":"On se voit lundi ?","traducao_pt":"A gente se vê na segunda?","ipa":"","observacao":"informal,pergunta","audio_text":"On se voit lundi ?"},
+    {"frase_fr":"Tu viens mardi ?","traducao_pt":"Você vem na terça?","ipa":"","observacao":"pergunta","audio_text":"Tu viens mardi ?"},
+    {"frase_fr":"Elle arrive mercredi.","traducao_pt":"Ela chega na quarta-feira.","ipa":"","observacao":"feminino","audio_text":"Elle arrive mercredi."},
+    {"frase_fr":"On part jeudi.","traducao_pt":"A gente parte na quinta.","ipa":"","observacao":"informal","audio_text":"On part jeudi."},
+    {"frase_fr":"Vous partez vendredi ?","traducao_pt":"Você parte na sexta?","ipa":"","observacao":"formal,pergunta","audio_text":"Vous partez vendredi ?"},
+    {"frase_fr":"Je travaille samedi.","traducao_pt":"Eu trabalho no sábado.","ipa":"","observacao":"","audio_text":"Je travaille samedi."},
+    {"frase_fr":"Je ne travaille pas dimanche.","traducao_pt":"Eu não trabalho no domingo.","ipa":"","observacao":"negação","audio_text":"Je ne travaille pas dimanche."},
+
+    {"frase_fr":"Ce lundi, je suis occupé.","traducao_pt":"Nesta segunda, eu estou ocupado.","ipa":"","observacao":"","audio_text":"Ce lundi, je suis occupé."},
+    {"frase_fr":"Ce mardi, tu es libre ?","traducao_pt":"Nesta terça, você está livre?","ipa":"","observacao":"pergunta","audio_text":"Ce mardi, tu es libre ?"},
+    {"frase_fr":"Ce mercredi, elle ne vient pas.","traducao_pt":"Nesta quarta, ela não vem.","ipa":"","observacao":"negação,feminino","audio_text":"Ce mercredi, elle ne vient pas."},
+    {"frase_fr":"Ce jeudi, on a un rendez-vous.","traducao_pt":"Nesta quinta, temos um compromisso.","ipa":"","observacao":"informal","audio_text":"Ce jeudi, on a un rendez-vous."},
+    {"frase_fr":"Ce vendredi, vous êtes ici ?","traducao_pt":"Nesta sexta, você está aqui?","ipa":"","observacao":"formal,pergunta","audio_text":"Ce vendredi, vous êtes ici ?"},
+    {"frase_fr":"Ce samedi, je reste à la maison.","traducao_pt":"Neste sábado, eu fico em casa.","ipa":"","observacao":"","audio_text":"Ce samedi, je reste à la maison."},
+    {"frase_fr":"Ce dimanche, je ne sors pas.","traducao_pt":"Neste domingo, eu não saio.","ipa":"","observacao":"negação","audio_text":"Ce dimanche, je ne sors pas."},
+
+    {"frase_fr":"Tous les lundis, je travaille.","traducao_pt":"Todas as segundas, eu trabalho.","ipa":"","observacao":"","audio_text":"Tous les lundis, je travaille."},
+    {"frase_fr":"Tous les mardis, tu fais du sport ?","traducao_pt":"Todas as terças, você faz esporte?","ipa":"","observacao":"pergunta","audio_text":"Tous les mardis, tu fais du sport ?"},
+    {"frase_fr":"Tous les mercredis, elle étudie.","traducao_pt":"Todas as quartas, ela estuda.","ipa":"","observacao":"feminino","audio_text":"Tous les mercredis, elle étudie."},
+    {"frase_fr":"Tous les jeudis, on sort.","traducao_pt":"Todas as quintas, a gente sai.","ipa":"","observacao":"informal","audio_text":"Tous les jeudis, on sort."},
+    {"frase_fr":"Tous les vendredis, vous travaillez ?","traducao_pt":"Todas as sextas, você trabalha?","ipa":"","observacao":"formal,pergunta","audio_text":"Tous les vendredis, vous travaillez ?"},
+    {"frase_fr":"Tous les samedis, je vois ma famille.","traducao_pt":"Todos os sábados, eu vejo minha família.","ipa":"","observacao":"","audio_text":"Tous les samedis, je vois ma famille."},
+    {"frase_fr":"Tous les dimanches, je ne travaille pas.","traducao_pt":"Todos os domingos, eu não trabalho.","ipa":"","observacao":"negação","audio_text":"Tous les dimanches, je ne travaille pas."},
+
+    {"frase_fr":"Lundi, j’ai un rendez-vous.","traducao_pt":"Na segunda, eu tenho um compromisso.","ipa":"","observacao":"","audio_text":"Lundi, j’ai un rendez-vous."},
+    {"frase_fr":"Mardi, tu travailles ?","traducao_pt":"Na terça, você trabalha?","ipa":"","observacao":"pergunta","audio_text":"Mardi, tu travailles ?"},
+    {"frase_fr":"Mercredi, elle est libre.","traducao_pt":"Na quarta, ela está livre.","ipa":"","observacao":"feminino","audio_text":"Mercredi, elle est libre."},
+    {"frase_fr":"Jeudi, on mange ici.","traducao_pt":"Na quinta, a gente come aqui.","ipa":"","observacao":"informal","audio_text":"Jeudi, on mange ici."},
+    {"frase_fr":"Vendredi, vous venez ?","traducao_pt":"Na sexta, você vem?","ipa":"","observacao":"formal,pergunta","audio_text":"Vendredi, vous venez ?"},
+    {"frase_fr":"Samedi, je me repose.","traducao_pt":"No sábado, eu descanso.","ipa":"","observacao":"","audio_text":"Samedi, je me repose."},
+    {"frase_fr":"Dimanche, je ne fais rien.","traducao_pt":"No domingo, eu não faço nada.","ipa":"","observacao":"negação","audio_text":"Dimanche, je ne fais rien."},
+
+    {"frase_fr":"Je commence lundi prochain.","traducao_pt":"Eu começo na próxima segunda.","ipa":"","observacao":"","audio_text":"Je commence lundi prochain."},
+    {"frase_fr":"Tu pars mardi prochain ?","traducao_pt":"Você sai na próxima terça?","ipa":"","observacao":"pergunta","audio_text":"Tu pars mardi prochain ?"},
+    {"frase_fr":"Elle arrive mercredi prochain.","traducao_pt":"Ela chega na próxima quarta.","ipa":"","observacao":"feminino","audio_text":"Elle arrive mercredi prochain."},
+    {"frase_fr":"On travaille jeudi prochain.","traducao_pt":"A gente trabalha na próxima quinta.","ipa":"","observacao":"informal","audio_text":"On travaille jeudi prochain."},
+    {"frase_fr":"Vous êtes libres vendredi prochain ?","traducao_pt":"Você está livre na próxima sexta?","ipa":"","observacao":"formal,pergunta","audio_text":"Vous êtes libres vendredi prochain ?"},
+    {"frase_fr":"Je pars samedi prochain.","traducao_pt":"Eu parto no próximo sábado.","ipa":"","observacao":"","audio_text":"Je pars samedi prochain."},
+    {"frase_fr":"Je ne travaille pas dimanche prochain.","traducao_pt":"Eu não trabalho no próximo domingo.","ipa":"","observacao":"negação","audio_text":"Je ne travaille pas dimanche prochain."}
+  ]
+}

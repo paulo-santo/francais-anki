@@ -1,0 +1,155 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "ilya_A1",
+  "level_tag": "A1",
+  "theme_tag": "ilya",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "Il y a un café ici.",
+      "traducao_pt": "Há um café aqui.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a un café ici."
+    },
+    {
+      "frase_fr": "Il y a deux personnes.",
+      "traducao_pt": "Há duas pessoas.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a deux personnes."
+    },
+    {
+      "frase_fr": "Il y a un problème.",
+      "traducao_pt": "Há um problema.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a un problème."
+    },
+    {
+      "frase_fr": "Il n’y a pas de café.",
+      "traducao_pt": "Não há café.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il n’y a pas de café."
+    },
+    {
+      "frase_fr": "Il n’y a pas de problème.",
+      "traducao_pt": "Não há problema.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il n’y a pas de problème."
+    },
+    {
+      "frase_fr": "Il y a beaucoup de monde.",
+      "traducao_pt": "Há muita gente.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a beaucoup de monde."
+    },
+    {
+      "frase_fr": "Il y a une table libre.",
+      "traducao_pt": "Há uma mesa livre.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Il y a une table libre."
+    },
+    {
+      "frase_fr": "Il y a des places ici.",
+      "traducao_pt": "Há lugares aqui.",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Il y a des places ici."
+    },
+    {
+      "frase_fr": "Il y a un restaurant près d’ici.",
+      "traducao_pt": "Há um restaurante perto daqui.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a un restaurant près d’ici."
+    },
+    {
+      "frase_fr": "Il n’y a rien ici.",
+      "traducao_pt": "Não há nada aqui.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il n’y a rien ici."
+    },
+    {
+      "frase_fr": "Il y a trois cafés dans la rue.",
+      "traducao_pt": "Há três cafés na rua.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a trois cafés dans la rue."
+    },
+    {
+      "frase_fr": "Il y a une femme ici.",
+      "traducao_pt": "Há uma mulher aqui.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Il y a une femme ici."
+    },
+    {
+      "frase_fr": "Il y a un homme là-bas.",
+      "traducao_pt": "Há um homem ali.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a un homme là-bas."
+    },
+    {
+      "frase_fr": "Il y a des enfants.",
+      "traducao_pt": "Há crianças.",
+      "ipa": "",
+      "observacao": "plural",
+      "audio_text": "Il y a des enfants."
+    },
+    {
+      "frase_fr": "Il n’y a pas de bus.",
+      "traducao_pt": "Não há ônibus.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il n’y a pas de bus."
+    },
+    {
+      "frase_fr": "Il y a un problème avec le train.",
+      "traducao_pt": "Há um problema com o trem.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a un problème avec le train."
+    },
+    {
+      "frase_fr": "Il y a une erreur.",
+      "traducao_pt": "Há um erro.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Il y a une erreur."
+    },
+    {
+      "frase_fr": "Il n’y a plus de café.",
+      "traducao_pt": "Não há mais café.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Il n’y a plus de café."
+    },
+    {
+      "frase_fr": "Il y a un bon film.",
+      "traducao_pt": "Há um bom filme.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Il y a un bon film."
+    },
+    {
+      "frase_fr": "Il y a du bruit.",
+      "traducao_pt": "Há barulho.",
+      "ipa": "",
+      "observacao": "contração",
+      "audio_text": "Il y a du bruit."
+    }
+  ]
+}

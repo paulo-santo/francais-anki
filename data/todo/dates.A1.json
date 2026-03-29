@@ -1,0 +1,379 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "dates_A1",
+  "level_tag": "A1",
+  "theme_tag": "dates",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "Nous sommes le 3 janvier 2024.",
+      "traducao_pt": "Hoje é 3 de janeiro de 2024.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Nous sommes le 3 janvier 2024."
+    },
+    {
+      "frase_fr": "Aujourd’hui, c’est le 12 mars 2023.",
+      "traducao_pt": "Hoje é 12 de março de 2023.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Aujourd’hui, c’est le 12 mars 2023."
+    },
+    {
+      "frase_fr": "On est le 5 avril 2022.",
+      "traducao_pt": "Estamos em 5 de abril de 2022.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On est le 5 avril 2022."
+    },
+    {
+      "frase_fr": "La réunion est le 20 juin 2024.",
+      "traducao_pt": "A reunião é em 20 de junho de 2024.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "La réunion est le 20 juin 2024."
+    },
+    {
+      "frase_fr": "Le rendez-vous est le 15 juillet 2023.",
+      "traducao_pt": "O compromisso é em 15 de julho de 2023.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Le rendez-vous est le 15 juillet 2023."
+    },
+    {
+      "frase_fr": "Ce n’est pas le 10 août 2024.",
+      "traducao_pt": "Não é 10 de agosto de 2024.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Ce n’est pas le 10 août 2024."
+    },
+    {
+      "frase_fr": "Tu es né le 8 septembre 2000 ?",
+      "traducao_pt": "Você nasceu em 8 de setembro de 2000?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu es né le 8 septembre 2000 ?"
+    },
+    {
+      "frase_fr": "Elle arrive le 1er octobre 2024.",
+      "traducao_pt": "Ela chega em 1º de outubro de 2024.",
+      "ipa": "",
+      "observacao": "ordinal",
+      "audio_text": "Elle arrive le 1er octobre 2024."
+    },
+    {
+      "frase_fr": "On part le 22 novembre 2023.",
+      "traducao_pt": "Partimos em 22 de novembro de 2023.",
+      "ipa": "",
+      "observacao": "informal",
+      "audio_text": "On part le 22 novembre 2023."
+    },
+    {
+      "frase_fr": "Le cours est le 30 décembre 2022.",
+      "traducao_pt": "A aula é em 30 de dezembro de 2022.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Le cours est le 30 décembre 2022."
+    },
+    {
+      "frase_fr": "Mon anniversaire est le 2 février 1998.",
+      "traducao_pt": "Meu aniversário é em 2 de fevereiro de 1998.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Mon anniversaire est le 2 février 1998."
+    },
+    {
+      "frase_fr": "Tu viens le 4 avril 2025 ?",
+      "traducao_pt": "Você vem em 4 de abril de 2025?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu viens le 4 avril 2025 ?"
+    },
+    {
+      "frase_fr": "La fête est le 13 juillet 2024.",
+      "traducao_pt": "A festa é em 13 de julho de 2024.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "La fête est le 13 juillet 2024."
+    },
+    {
+      "frase_fr": "Je ne travaille pas le 11 novembre 2024.",
+      "traducao_pt": "Eu não trabalho em 11 de novembro de 2024.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne travaille pas le 11 novembre 2024."
+    },
+    {
+      "frase_fr": "C’est le 2 février 2022.",
+      "traducao_pt": "É 2 de fevereiro de 2022.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "C’est le 2 février 2022."
+    },
+    {
+      "frase_fr": "Ma mère arrive le 7 mai 2026.",
+      "traducao_pt": "Minha mãe chega em 7 de maio de 2026.",
+      "ipa": "",
+      "observacao": "feminino",
+      "audio_text": "Ma mère arrive le 7 mai 2026."
+    },
+    {
+      "frase_fr": "Vous êtes libres le 6 juin 2025 ?",
+      "traducao_pt": "Vocês estão livres em 6 de junho de 2025?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Vous êtes libres le 6 juin 2025 ?"
+    },
+    {
+      "frase_fr": "On n’a pas cours le 21 septembre 2024.",
+      "traducao_pt": "Nós não temos aula em 21 de setembro de 2024.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "On n’a pas cours le 21 septembre 2024."
+    },
+    {
+      "frase_fr": "Votre train est le 24 décembre 2025.",
+      "traducao_pt": "Seu trem é no dia 24 de dezembro de 2025.",
+      "ipa": "",
+      "observacao": "formal",
+      "audio_text": "Votre train est le 24 décembre 2025."
+    },
+    {
+      "frase_fr": "Le billet est pour le 17 août 2020.",
+      "traducao_pt": "A passagem é para 17 de agosto de 2020.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Le billet est pour le 17 août 2020."
+    },
+    {
+      "frase_fr": "03/01/2024",
+      "traducao_pt": "03/01/2024",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "03/01/2024"
+    },
+    {
+      "frase_fr": "12/03/2024",
+      "traducao_pt": "12/03/2024",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "12/03/2024"
+    },
+    {
+      "frase_fr": "05/04/2023",
+      "traducao_pt": "05/04/2023",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "05/04/2023"
+    },
+    {
+      "frase_fr": "20/06/2024",
+      "traducao_pt": "20/06/2024",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "20/06/2024"
+    },
+    {
+      "frase_fr": "15/07/2023",
+      "traducao_pt": "15/07/2023",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "15/07/2023"
+    },
+    {
+      "frase_fr": "10/08/2024",
+      "traducao_pt": "10/08/2024",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "10/08/2024"
+    },
+    {
+      "frase_fr": "08/09/2000",
+      "traducao_pt": "08/09/2000",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "08/09/2000"
+    },
+    {
+      "frase_fr": "01/10/2024",
+      "traducao_pt": "01/10/2024",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "01/10/2024"
+    },
+    {
+      "frase_fr": "22/11/2023",
+      "traducao_pt": "22/11/2023",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "22/11/2023"
+    },
+    {
+      "frase_fr": "30/12/2022",
+      "traducao_pt": "30/12/2022",
+      "ipa": "",
+      "observacao": "format numérique",
+      "audio_text": "30/12/2022"
+    },
+    {
+      "frase_fr": "La Révolution française est en 1789.",
+      "traducao_pt": "A Revolução Francesa é em 1789.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "La Révolution française est en 1789."
+    },
+    {
+      "frase_fr": "La tour Eiffel est de 1889.",
+      "traducao_pt": "A Torre Eiffel é de 1889.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "La tour Eiffel est de 1889."
+    },
+    {
+      "frase_fr": "La Première Guerre mondiale commence en 1914.",
+      "traducao_pt": "A Primeira Guerra Mundial começa em 1914.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "La Première Guerre mondiale commence en 1914."
+    },
+    {
+      "frase_fr": "La Deuxième Guerre mondiale finit en 1945.",
+      "traducao_pt": "A Segunda Guerra Mundial termina em 1945.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "La Deuxième Guerre mondiale finit en 1945."
+    },
+    {
+      "frase_fr": "L’homme arrive sur la Lune en 1969.",
+      "traducao_pt": "O homem chega à Lua em 1969.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "L’homme arrive sur la Lune en 1969."
+    },
+    {
+      "frase_fr": "Le mur de Berlin tombe en 1989.",
+      "traducao_pt": "O muro de Berlim cai em 1989.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "Le mur de Berlin tombe en 1989."
+    },
+    {
+      "frase_fr": "Le Brésil devient une république en 1889.",
+      "traducao_pt": "O Brasil se torna uma república em 1889.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "Le Brésil devient une république en 1889."
+    },
+    {
+      "frase_fr": "Le Titanic coule en 1912.",
+      "traducao_pt": "O Titanic afunda em 1912.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "Le Titanic coule en 1912."
+    },
+    {
+      "frase_fr": "300 avant Jésus-Christ",
+      "traducao_pt": "300 antes de Cristo",
+      "ipa": "",
+      "observacao": "forma longa",
+      "audio_text": "300 avant Jésus-Christ"
+    },
+    {
+      "frase_fr": "50 avant Jésus-Christ",
+      "traducao_pt": "50 antes de Cristo",
+      "ipa": "",
+      "observacao": "forma longa",
+      "audio_text": "50 avant Jésus-Christ"
+    },
+    {
+      "frase_fr": "100 avant Jésus-Christ",
+      "traducao_pt": "100 antes de Cristo",
+      "ipa": "",
+      "observacao": "forma longa",
+      "audio_text": "100 avant Jésus-Christ"
+    },
+    {
+      "frase_fr": "4 avant Jésus-Christ",
+      "traducao_pt": "4 antes de Cristo",
+      "ipa": "",
+      "observacao": "forma longa",
+      "audio_text": "4 avant Jésus-Christ"
+    },
+    {
+      "frase_fr": "300 av. J.-C.",
+      "traducao_pt": "300 a.C.",
+      "ipa": "",
+      "observacao": "abreviação",
+      "audio_text": "300 av. J.-C."
+    },
+    {
+      "frase_fr": "50 av. J.-C.",
+      "traducao_pt": "50 a.C.",
+      "ipa": "",
+      "observacao": "abreviação",
+      "audio_text": "50 av. J.-C."
+    },
+    {
+      "frase_fr": "100 av. J.-C.",
+      "traducao_pt": "100 a.C.",
+      "ipa": "",
+      "observacao": "abreviação",
+      "audio_text": "100 av. J.-C."
+    },
+    {
+      "frase_fr": "4 av. J.-C.",
+      "traducao_pt": "4 a.C.",
+      "ipa": "",
+      "observacao": "abreviação",
+      "audio_text": "4 av. J.-C."
+    },
+    {
+      "frase_fr": "La pyramide de Khéops est très ancienne.",
+      "traducao_pt": "A pirâmide de Quéops é muito antiga.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "La pyramide de Khéops est très ancienne."
+    },
+    {
+      "frase_fr": "Jules César vit au 1er siècle avant Jésus-Christ.",
+      "traducao_pt": "Júlio César vive no século 1 antes de Cristo.",
+      "ipa": "",
+      "observacao": "histórico",
+      "audio_text": "Jules César vit au 1er siècle avant Jésus-Christ."
+    },
+    {
+      "frase_fr": "Cléopâtre vit au 1er siècle avant Jésus-Christ.",
+      "traducao_pt": "Cleópatra vive no século 1 antes de Cristo.",
+      "ipa": "",
+      "observacao": "histórico,feminino",
+      "audio_text": "Cléopâtre vit au 1er siècle avant Jésus-Christ."
+    },
+    {
+      "frase_fr": "Ce n’est pas une date moderne.",
+      "traducao_pt": "Não é uma data moderna.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Ce n’est pas une date moderne."
+    },
+    {
+      "frase_fr": "C’est une date historique.",
+      "traducao_pt": "É uma data histórica.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "C’est une date historique."
+    },
+    {
+      "frase_fr": "C’est une date très ancienne.",
+      "traducao_pt": "É uma data muito antiga.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "C’est une date très ancienne."
+    }
+  ]
+}

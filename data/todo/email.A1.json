@@ -1,0 +1,225 @@
+{
+  "deck_name": "Francais_Stress_Training",
+  "subdeck_theme": "email_contexte_A1",
+  "level_tag": "A1",
+  "theme_tag": "email",
+  "voice_options": {
+    "fr_fr_weight": 0.8,
+    "fr_extended_weight": 0.2,
+    "fr_ca_weight": 0.0,
+    "normal_rate": "+0%",
+    "slow_rate": "-12%"
+  },
+  "notes": [
+    {
+      "frase_fr": "Mon email, c’est paul@gmail.com.",
+      "traducao_pt": "Meu email é paul@gmail.com.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Mon email, c’est paul@gmail.com."
+    },
+    {
+      "frase_fr": "Tu peux écrire à marie.dupont@yahoo.com ?",
+      "traducao_pt": "Você pode escrever para marie.dupont@yahoo.com?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu peux écrire à marie.dupont@yahoo.com ?"
+    },
+    {
+      "frase_fr": "Je n’ai pas ton email.",
+      "traducao_pt": "Eu não tenho seu email.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je n’ai pas ton email."
+    },
+    {
+      "frase_fr": "Mon email est jean-pierre@outlook.com.",
+      "traducao_pt": "Meu email é jean-pierre@outlook.com.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Mon email est jean-pierre@outlook.com."
+    },
+    {
+      "frase_fr": "C’est lucie_92@hotmail.com.",
+      "traducao_pt": "É lucie_92@hotmail.com.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "C’est lucie_92@hotmail.com."
+    },
+    {
+      "frase_fr": "Vous pouvez envoyer un mail à info@gmail.com ?",
+      "traducao_pt": "Você pode enviar um email para info@gmail.com?",
+      "ipa": "",
+      "observacao": "formal",
+      "audio_text": "Vous pouvez envoyer un mail à info@gmail.com ?"
+    },
+    {
+      "frase_fr": "Mon adresse, c’est pierre.louis@gmail.com.",
+      "traducao_pt": "Meu endereço é pierre.louis@gmail.com.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Mon adresse, c’est pierre.louis@gmail.com."
+    },
+    {
+      "frase_fr": "Ce n’est pas mon email.",
+      "traducao_pt": "Esse não é meu email.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Ce n’est pas mon email."
+    },
+    {
+      "frase_fr": "Tu as mon email ?",
+      "traducao_pt": "Você tem meu email?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu as mon email ?"
+    },
+    {
+      "frase_fr": "Mon email pro, c’est contact@entreprise.fr.",
+      "traducao_pt": "Meu email profissional é contact@entreprise.fr.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Mon email pro, c’est contact@entreprise.fr."
+    },
+    {
+      "frase_fr": "Je te donne mon email.",
+      "traducao_pt": "Eu te dou meu email.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je te donne mon email."
+    },
+    {
+      "frase_fr": "C’est anna-75@gmail.com.",
+      "traducao_pt": "É anna-75@gmail.com.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "C’est anna-75@gmail.com."
+    },
+    {
+      "frase_fr": "Tu écris à paul_33@yahoo.com ?",
+      "traducao_pt": "Você escreve para paul_33@yahoo.com?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu écris à paul_33@yahoo.com ?"
+    },
+    {
+      "frase_fr": "Je n’utilise pas cet email.",
+      "traducao_pt": "Eu não uso esse email.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je n’utilise pas cet email."
+    },
+    {
+      "frase_fr": "Mon email perso, c’est julie.martin@gmail.com.",
+      "traducao_pt": "Meu email pessoal é julie.martin@gmail.com.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Mon email perso, c’est julie.martin@gmail.com."
+    },
+    {
+      "frase_fr": "C’est bien ton email ?",
+      "traducao_pt": "Esse é mesmo seu email?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "C’est bien ton email ?"
+    },
+    {
+      "frase_fr": "Vous avez mon email.",
+      "traducao_pt": "Você tem meu email.",
+      "ipa": "",
+      "observacao": "formal",
+      "audio_text": "Vous avez mon email."
+    },
+    {
+      "frase_fr": "Je ne trouve pas ton email.",
+      "traducao_pt": "Eu não encontro seu email.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne trouve pas ton email."
+    },
+    {
+      "frase_fr": "C’est marc.dupont@outlook.com.",
+      "traducao_pt": "É marc.dupont@outlook.com.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "C’est marc.dupont@outlook.com."
+    },
+    {
+      "frase_fr": "Tu peux répéter ton email ?",
+      "traducao_pt": "Você pode repetir seu email?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu peux répéter ton email ?"
+    },
+    {
+      "frase_fr": "Mon email, ce n’est pas ça.",
+      "traducao_pt": "Meu email não é esse.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Mon email, ce n’est pas ça."
+    },
+    {
+      "frase_fr": "Je t’envoie un mail.",
+      "traducao_pt": "Eu te envio um email.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "Je t’envoie un mail."
+    },
+    {
+      "frase_fr": "Tu envoies un mail à lucie@gmail.com ?",
+      "traducao_pt": "Você envia um email para lucie@gmail.com?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu envoies un mail à lucie@gmail.com ?"
+    },
+    {
+      "frase_fr": "Je ne reçois pas de mail.",
+      "traducao_pt": "Eu não recebo emails.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne reçois pas de mail."
+    },
+    {
+      "frase_fr": "C’est mon email principal.",
+      "traducao_pt": "Esse é meu email principal.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "C’est mon email principal."
+    },
+    {
+      "frase_fr": "Vous envoyez un mail à support@gmail.com ?",
+      "traducao_pt": "Você envia um email para support@gmail.com?",
+      "ipa": "",
+      "observacao": "formal",
+      "audio_text": "Vous envoyez un mail à support@gmail.com ?"
+    },
+    {
+      "frase_fr": "Je ne donne pas mon email.",
+      "traducao_pt": "Eu não dou meu email.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne donne pas mon email."
+    },
+    {
+      "frase_fr": "Tu as écrit à pierre@yahoo.com ?",
+      "traducao_pt": "Você escreveu para pierre@yahoo.com?",
+      "ipa": "",
+      "observacao": "pergunta",
+      "audio_text": "Tu as écrit à pierre@yahoo.com ?"
+    },
+    {
+      "frase_fr": "C’est un email professionnel.",
+      "traducao_pt": "É um email profissional.",
+      "ipa": "",
+      "observacao": "",
+      "audio_text": "C’est un email professionnel."
+    },
+    {
+      "frase_fr": "Je ne lis pas mes mails aujourd’hui.",
+      "traducao_pt": "Eu não leio meus emails hoje.",
+      "ipa": "",
+      "observacao": "negação",
+      "audio_text": "Je ne lis pas mes mails aujourd’hui."
+    }
+  ]
+}
